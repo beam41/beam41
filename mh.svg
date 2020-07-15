@@ -1,0 +1,28 @@
+<!-- yes I draw this-->
+<svg viewBox="0 0 40 15">
+    <defs>
+    <linearGradient
+        id="grad"
+        x1="0"
+        x2="100%"
+        y1="0"
+        y2="100%"
+        gradientUnits="objectBoundingBox"
+    >
+        <stop stop-color="rgb(255, 0, 187)" offset="0%" />
+        <stop stop-color="rgb(255, 234, 0)" offset="100%" />
+    </linearGradient>
+    </defs>
+    <text fill="url(#grad)">
+    <tspan
+        font-size="10"
+        x="50%"
+        y="50%"
+        dominant-baseline="middle"
+        text-anchor="middle"
+        font-family="Arial"
+    >
+        Meehoi
+    </tspan>
+    </text>
+</svg>
