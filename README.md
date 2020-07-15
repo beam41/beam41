@@ -1,4 +1,4 @@
-<h1
+<div
   style="
     text-align: center;
     color: rgb(255, 120, 90);
@@ -19,4 +19,4 @@
   "
 >
   Meehoi
-</h1>
+</div>
