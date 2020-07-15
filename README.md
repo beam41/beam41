@@ -1,16 +1,22 @@
-### Hi there 👋
-
-<!--
-**beam41/beam41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1
+  style="
+    text-align: center;
+    color: rgb(255, 120, 90);
+    background: -o-linear-gradient(
+      315deg,
+      rgb(255, 0, 187) 0%,
+      rgb(255, 234, 0) 100%
+    );
+    background: linear-gradient(
+      135deg,
+      rgb(255, 0, 187) 0%,
+      rgb(255, 234, 0) 100%
+    );
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 10em;
+  "
+>
+  Meehoi
+</h1>
