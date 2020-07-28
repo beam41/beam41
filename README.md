@@ -7,7 +7,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Joji</b>|<b>Madeon</b>|<b>Porter Robinson</b>|<b>The 1975</b>|<b>HONNE</b>|
 
-Updated at `Tue Jul 28 2020 14:02:16 GMT+0000 (Coordinated Universal Time)`
+Updated at `Tue Jul 28 2020 16:18:06 GMT+0000 (Coordinated Universal Time)`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Tue Jul 28 2020 14:02:16 GMT+0000 (Coordinated Universal Time)`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>A Moment Apart</b></p> ODESZA|<p><b>All My Friends</b></p> Madeon|<p><b>Are We Still Young</b></p> Grant, Juneau|<p><b>Stargazing</b></p> sapientdream|<p><b>SLOW DANCING IN THE DARK</b></p> Joji|
 
-Updated at `Tue Jul 28 2020 14:02:17 GMT+0000 (Coordinated Universal Time)`
+Updated at `Tue Jul 28 2020 16:18:06 GMT+0000 (Coordinated Universal Time)`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
