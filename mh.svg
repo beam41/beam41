@@ -1,5 +1,5 @@
 <!-- yes I draw this-->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 15">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 20 5">
     <defs>
     <linearGradient
         id="grad"
@@ -9,15 +9,15 @@
         y2="100%"
         gradientUnits="objectBoundingBox"
     >
-        <stop stop-color="rgb(255, 0, 187)" offset="0%" />
-        <stop stop-color="rgb(255, 234, 0)" offset="100%" />
+        <stop stop-color="rgba(255, 0, 187)" offset="0%" />
+        <stop stop-color="rgba(255, 234, 0)" offset="100%" />
     </linearGradient>
     </defs>
     <text fill="url(#grad)">
     <tspan
         font-size="5"
         x="50%"
-        y="50%"
+        y="58%"
         dominant-baseline="middle"
         text-anchor="middle"
         font-family="Arial"
