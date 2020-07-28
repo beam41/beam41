@@ -9,4 +9,8 @@
 Updated at `12:54:27 GMT+0000 (Coordinated Universal Time)`
 <!-- table end -->
 
+## And my top 5 song
+<!-- table song start -->
+<!-- table song end -->
+
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
