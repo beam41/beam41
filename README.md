@@ -7,16 +7,16 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Joji</b>|<b>Madeon</b>|<b>The 1975</b>|<b>LIONE</b>|<b>Troye Sivan</b>|
 
-Updated at `Sun Aug 02 2020 00:35:07 GMT+0000 (Coordinated Universal Time)`
+Updated at `Tue Aug 04 2020 06:28:26 GMT+0000 (Coordinated Universal Time)`
 <!-- table end -->
 
 ## And my top 5 song
 <!-- table song start -->
-|<img src="https://i.scdn.co/image/ab67616d00001e0299a3a1c380019cdc2ba9b8c2">|<img src="https://i.scdn.co/image/ab67616d00001e0260ba1d6104d0475c7555a6b2">|<img src="https://i.scdn.co/image/ab67616d00001e02dc384e6d13983fe1cd415ade">|<img src="https://i.scdn.co/image/ab67616d00001e02bd0c5a1da3a1dfd92bc77a58">|<img src="https://i.scdn.co/image/ab67616d00001e02beaed7577f452049ddf0cead">|
+|<img src="https://i.scdn.co/image/ab67616d00001e0299a3a1c380019cdc2ba9b8c2">|<img src="https://i.scdn.co/image/ab67616d00001e0260ba1d6104d0475c7555a6b2">|<img src="https://i.scdn.co/image/ab67616d00001e02dc384e6d13983fe1cd415ade">|<img src="https://i.scdn.co/image/ab67616d00001e028a04c54425e5e1243d8b1e83">|<img src="https://i.scdn.co/image/ab67616d00001e020e5311993a01fb2e7169f6a7">|
 | :---: | :---: | :---: | :---: | :---: |
-|<p><b>A Moment Apart</b></p> ODESZA|<p><b>SLOW DANCING IN THE DARK</b></p> Joji|<p><b>All My Friends</b></p> Madeon|<p><b>Glimmer</b></p> LIONE, Heather Sommer|<p><b>Leave This Place</b></p> LIONE|
+|<p><b>A Moment Apart</b></p> ODESZA|<p><b>SLOW DANCING IN THE DARK</b></p> Joji|<p><b>All My Friends</b></p> Madeon|<p><b>3:00 AM</b></p> Finding Hope|<p><b>Nobody Compares To You (feat. Katie Pearlman)</b></p> Gryffin, Katie Pearlman|
 
-Updated at `Sun Aug 02 2020 00:35:07 GMT+0000 (Coordinated Universal Time)`
+Updated at `Tue Aug 04 2020 06:28:26 GMT+0000 (Coordinated Universal Time)`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
