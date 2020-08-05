@@ -3,11 +3,11 @@
 
 ## My top 5 artist right now!
 <!-- table start -->
-|<img src="https://i.scdn.co/image/5386e44d5e07dc662c0d6f14c3ae9c47e8898e06">|<img src="https://i.scdn.co/image/3f4c99a2932c2e21fc966123050cd92fe4ff0c15">|<img src="https://i.scdn.co/image/1717dac024e71f64ec421a658c7a9769d41ce251">|<img src="https://i.scdn.co/image/eab97005cbe754ca314c2d741fa4bc0a0b25c9ab">|<img src="https://i.scdn.co/image/97cc8b63e62072026056deb171bb41f52f506613">|
+|<img src="https://i.scdn.co/image/5386e44d5e07dc662c0d6f14c3ae9c47e8898e06">|<img src="https://i.scdn.co/image/3f4c99a2932c2e21fc966123050cd92fe4ff0c15">|<img src="https://i.scdn.co/image/1717dac024e71f64ec421a658c7a9769d41ce251">|<img src="https://i.scdn.co/image/97cc8b63e62072026056deb171bb41f52f506613">|<img src="https://i.scdn.co/image/eab97005cbe754ca314c2d741fa4bc0a0b25c9ab">|
 | :---: | :---: | :---: | :---: | :---: |
-|<b>Joji</b>|<b>Madeon</b>|<b>The 1975</b>|<b>LIONE</b>|<b>Troye Sivan</b>|
+|<b>Joji</b>|<b>Madeon</b>|<b>The 1975</b>|<b>Troye Sivan</b>|<b>LIONE</b>|
 
-Updated at `Tue Aug 04 2020 06:28:26 GMT+0000 (Coordinated Universal Time)`
+Updated at `Wed Aug 05 2020 00:36:41 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Tue Aug 04 2020 06:28:26 GMT+0000 (Coordinated Universal Time)`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>A Moment Apart</b></p> ODESZA|<p><b>SLOW DANCING IN THE DARK</b></p> Joji|<p><b>All My Friends</b></p> Madeon|<p><b>3:00 AM</b></p> Finding Hope|<p><b>Nobody Compares To You (feat. Katie Pearlman)</b></p> Gryffin, Katie Pearlman|
 
-Updated at `Tue Aug 04 2020 06:28:26 GMT+0000 (Coordinated Universal Time)`
+Updated at `Wed Aug 05 2020 00:36:41 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
