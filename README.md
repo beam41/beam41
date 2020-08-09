@@ -7,7 +7,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Joji</b>|<b>Madeon</b>|<b>Troye Sivan</b>|<b>The 1975</b>|<b>Porter Robinson</b>|
 
-Updated at `Sat Aug 08 2020 00:37:30 GMT+0000`
+Updated at `Sun Aug 09 2020 00:39:09 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Sat Aug 08 2020 00:37:30 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>A Moment Apart</b></p> ODESZA|<p><b>SLOW DANCING IN THE DARK</b></p> Joji|<p><b>All My Friends</b></p> Madeon|<p><b>Main Theme - Stars At Our Backs</b></p> TADAYOSHI MAKINO|<p><b>Easy</b></p> Troye Sivan|
 
-Updated at `Sat Aug 08 2020 00:37:31 GMT+0000`
+Updated at `Sun Aug 09 2020 00:39:10 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
