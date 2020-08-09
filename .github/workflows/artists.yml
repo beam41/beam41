@@ -17,7 +17,6 @@ jobs:
         uses: actions/checkout@main
         with:
           persist-credentials: false
-          fetch-depth: 1
       - name: Read README
         id: readFile
         uses: juliangruber/read-file-action@v1
