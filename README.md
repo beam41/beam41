@@ -3,11 +3,11 @@
 
 ## My top 5 artist right now!
 <!-- table start -->
-|<img src="https://i.scdn.co/image/50c288dcdab974637f634438faeafbd4a96ece81">|<img src="https://i.scdn.co/image/73a21de115738931d6c7760408ed367812b55ccd">|<img src="https://i.scdn.co/image/7242d5d165e671eacf02cee6533a005fc1f5c6ca">|<img src="https://i.scdn.co/image/97cc8b63e62072026056deb171bb41f52f506613">|<img src="https://i.scdn.co/image/3b0d44205473ed95bacf537e3cd22e16cec48493">|
+|<img src="https://i.scdn.co/image/73a21de115738931d6c7760408ed367812b55ccd">|<img src="https://i.scdn.co/image/50c288dcdab974637f634438faeafbd4a96ece81">|<img src="https://i.scdn.co/image/97cc8b63e62072026056deb171bb41f52f506613">|<img src="https://i.scdn.co/image/7242d5d165e671eacf02cee6533a005fc1f5c6ca">|<img src="https://i.scdn.co/image/3b0d44205473ed95bacf537e3cd22e16cec48493">|
 | :---: | :---: | :---: | :---: | :---: |
-|<b>Porter Robinson</b>|<b>Coldplay</b>|<b>LANY</b>|<b>Troye Sivan</b>|<b>Jeremy Zucker</b>|
+|<b>Coldplay</b>|<b>Porter Robinson</b>|<b>Troye Sivan</b>|<b>LANY</b>|<b>Jeremy Zucker</b>|
 
-Updated at `Thu Aug 20 2020 00:39:41 GMT+0000`
+Updated at `Fri Aug 21 2020 00:40:13 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Thu Aug 20 2020 00:39:41 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>Daylight</b></p> Joji, Diplo|<p><b>Main Theme - Stars At Our Backs</b></p> TADAYOSHI MAKINO|<p><b>honey</b></p> boy pablo|<p><b>A Moment Apart</b></p> ODESZA|<p><b>supercuts</b></p> Jeremy Zucker|
 
-Updated at `Thu Aug 20 2020 00:39:41 GMT+0000`
+Updated at `Fri Aug 21 2020 00:40:13 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
