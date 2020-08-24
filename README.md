@@ -7,16 +7,16 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Coldplay</b>|<b>Porter Robinson</b>|<b>LANY</b>|<b>Troye Sivan</b>|<b>Jeremy Zucker</b>|
 
-Updated at `Sun Aug 23 2020 00:42:02 GMT+0000`
+Updated at `Mon Aug 24 2020 00:41:12 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
 <!-- table song start -->
-|<img src="https://i.scdn.co/image/ab67616d00001e020e991b59cee17246a5e604d0">|<img src="https://i.scdn.co/image/ab67616d00001e0268ba2b1dfd40ee88ef406483">|<img src="https://i.scdn.co/image/ab67616d00001e02249e7e07a7e0100ebb8bfc11">|<img src="https://i.scdn.co/image/ab67616d00001e0299a3a1c380019cdc2ba9b8c2">|<img src="https://i.scdn.co/image/ab67616d00001e02c0e0e7f9e84a776c29d7012a">|
+|<img src="https://i.scdn.co/image/ab67616d00001e020e991b59cee17246a5e604d0">|<img src="https://i.scdn.co/image/ab67616d00001e0268ba2b1dfd40ee88ef406483">|<img src="https://i.scdn.co/image/ab67616d00001e02249e7e07a7e0100ebb8bfc11">|<img src="https://i.scdn.co/image/ab67616d00001e02c0e0e7f9e84a776c29d7012a">|<img src="https://i.scdn.co/image/ab67616d00001e023c37dd25c0e26b65c508fd74">|
 | :---: | :---: | :---: | :---: | :---: |
-|<p><b>Daylight</b></p> Joji, Diplo|<p><b>Main Theme - Stars At Our Backs</b></p> TADAYOSHI MAKINO|<p><b>honey</b></p> boy pablo|<p><b>A Moment Apart</b></p> ODESZA|<p><b>supercuts</b></p> Jeremy Zucker|
+|<p><b>Daylight</b></p> Joji, Diplo|<p><b>Main Theme - Stars At Our Backs</b></p> TADAYOSHI MAKINO|<p><b>honey</b></p> boy pablo|<p><b>supercuts</b></p> Jeremy Zucker|<p><b>you!</b></p> LANY|
 
-Updated at `Sun Aug 23 2020 00:42:02 GMT+0000`
+Updated at `Mon Aug 24 2020 00:41:12 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
