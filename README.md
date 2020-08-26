@@ -7,16 +7,16 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Coldplay</b>|<b>Porter Robinson</b>|<b>LANY</b>|<b>Troye Sivan</b>|<b>The 1975</b>|
 
-Updated at `Tue Aug 25 2020 00:41:04 GMT+0000`
+Updated at `Wed Aug 26 2020 00:41:04 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
 <!-- table song start -->
-|<img src="https://i.scdn.co/image/ab67616d00001e020e991b59cee17246a5e604d0">|<img src="https://i.scdn.co/image/ab67616d00001e0268ba2b1dfd40ee88ef406483">|<img src="https://i.scdn.co/image/ab67616d00001e02249e7e07a7e0100ebb8bfc11">|<img src="https://i.scdn.co/image/ab67616d00001e023c37dd25c0e26b65c508fd74">|<img src="https://i.scdn.co/image/ab67616d00001e020b4df34612f851b639959f9a">|
+|<img src="https://i.scdn.co/image/ab67616d00001e020e991b59cee17246a5e604d0">|<img src="https://i.scdn.co/image/ab67616d00001e0268ba2b1dfd40ee88ef406483">|<img src="https://i.scdn.co/image/ab67616d00001e023c37dd25c0e26b65c508fd74">|<img src="https://i.scdn.co/image/ab67616d00001e02249e7e07a7e0100ebb8bfc11">|<img src="https://i.scdn.co/image/ab67616d00001e02e079d5866d7cc274b52d98e6">|
 | :---: | :---: | :---: | :---: | :---: |
-|<p><b>Daylight</b></p> Joji, Diplo|<p><b>Main Theme - Stars At Our Backs</b></p> TADAYOSHI MAKINO|<p><b>honey</b></p> boy pablo|<p><b>you!</b></p> LANY|<p><b>Shelter</b></p> Porter Robinson, Madeon|
+|<p><b>Daylight</b></p> Joji, Diplo|<p><b>Main Theme - Stars At Our Backs</b></p> TADAYOSHI MAKINO|<p><b>you!</b></p> LANY|<p><b>honey</b></p> boy pablo|<p><b>Twenty Something</b></p> Nightly|
 
-Updated at `Tue Aug 25 2020 00:41:04 GMT+0000`
+Updated at `Wed Aug 26 2020 00:41:05 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
