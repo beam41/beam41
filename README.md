@@ -7,16 +7,16 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Coldplay</b>|<b>Porter Robinson</b>|<b>lost spaces</b>|<b>LANY</b>|<b>The 1975</b>|
 
-Updated at `Fri Aug 28 2020 00:45:38 GMT+0000`
+Updated at `Sat Aug 29 2020 00:19:58 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
 <!-- table song start -->
-|<img src="https://i.scdn.co/image/ab67616d00001e020e991b59cee17246a5e604d0">|<img src="https://i.scdn.co/image/ab67616d00001e023c37dd25c0e26b65c508fd74">|<img src="https://i.scdn.co/image/ab67616d00001e02249e7e07a7e0100ebb8bfc11">|<img src="https://i.scdn.co/image/ab67616d00001e02e079d5866d7cc274b52d98e6">|<img src="https://i.scdn.co/image/ab67616d00001e020b4df34612f851b639959f9a">|
+|<img src="https://i.scdn.co/image/ab67616d00001e020e991b59cee17246a5e604d0">|<img src="https://i.scdn.co/image/ab67616d00001e023c37dd25c0e26b65c508fd74">|<img src="https://i.scdn.co/image/ab67616d00001e02249e7e07a7e0100ebb8bfc11">|<img src="https://i.scdn.co/image/ab67616d00001e02d6dfafe62fef3ad433ff77d8">|<img src="https://i.scdn.co/image/ab67616d00001e02e079d5866d7cc274b52d98e6">|
 | :---: | :---: | :---: | :---: | :---: |
-|<p><b>Daylight</b></p> Joji, Diplo|<p><b>you!</b></p> LANY|<p><b>honey</b></p> boy pablo|<p><b>Twenty Something</b></p> Nightly|<p><b>Shelter</b></p> Porter Robinson, Madeon|
+|<p><b>Daylight</b></p> Joji, Diplo|<p><b>you!</b></p> LANY|<p><b>honey</b></p> boy pablo|<p><b>Never Meant</b></p> American Football|<p><b>Twenty Something</b></p> Nightly|
 
-Updated at `Fri Aug 28 2020 00:45:38 GMT+0000`
+Updated at `Sat Aug 29 2020 00:19:59 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
