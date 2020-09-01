@@ -7,7 +7,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Coldplay</b>|<b>Porter Robinson</b>|<b>lost spaces</b>|<b>LANY</b>|<b>Troye Sivan</b>|
 
-Updated at `Mon Aug 31 2020 00:19:47 GMT+0000`
+Updated at `Tue Sep 01 2020 00:46:15 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Mon Aug 31 2020 00:19:47 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>Daylight</b></p> Joji, Diplo|<p><b>Never Meant</b></p> American Football|<p><b>you!</b></p> LANY|<p><b>honey</b></p> boy pablo|<p><b>boxset.girlfriend</b></p> lost spaces|
 
-Updated at `Mon Aug 31 2020 00:19:47 GMT+0000`
+Updated at `Tue Sep 01 2020 00:46:15 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
