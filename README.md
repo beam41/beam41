@@ -7,16 +7,16 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Coldplay</b>|<b>Porter Robinson</b>|<b>lost spaces</b>|<b>Troye Sivan</b>|<b>LANY</b>|
 
-Updated at `Sat Sep 05 2020 01:21:48 GMT+0000`
+Updated at `Sun Sep 06 2020 00:47:41 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
 <!-- table song start -->
-|<img src="https://i.scdn.co/image/ab67616d00001e02d6dfafe62fef3ad433ff77d8">|<img src="https://i.scdn.co/image/ab67616d00001e024dc99da0b258b72cdb8fcc04">|<img src="https://i.scdn.co/image/ab67616d00001e020e991b59cee17246a5e604d0">|<img src="https://i.scdn.co/image/ab67616d00001e023c37dd25c0e26b65c508fd74">|<img src="https://i.scdn.co/image/ab67616d00001e0220cf064f71a0d424349c9f6a">|
+|<img src="https://i.scdn.co/image/ab67616d00001e02d6dfafe62fef3ad433ff77d8">|<img src="https://i.scdn.co/image/ab67616d00001e024dc99da0b258b72cdb8fcc04">|<img src="https://i.scdn.co/image/ab67616d00001e023c37dd25c0e26b65c508fd74">|<img src="https://i.scdn.co/image/ab67616d00001e0220cf064f71a0d424349c9f6a">|<img src="https://i.scdn.co/image/ab67616d00001e020e991b59cee17246a5e604d0">|
 | :---: | :---: | :---: | :---: | :---: |
-|<p><b>Never Meant</b></p> American Football|<p><b>boxset.girlfriend</b></p> lost spaces|<p><b>Daylight</b></p> Joji, Diplo|<p><b>you!</b></p> LANY|<p><b>Mirror</b></p> Porter Robinson|
+|<p><b>Never Meant</b></p> American Football|<p><b>boxset.girlfriend</b></p> lost spaces|<p><b>you!</b></p> LANY|<p><b>Mirror</b></p> Porter Robinson|<p><b>Daylight</b></p> Joji, Diplo|
 
-Updated at `Sat Sep 05 2020 01:21:48 GMT+0000`
+Updated at `Sun Sep 06 2020 00:47:41 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
