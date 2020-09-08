@@ -7,7 +7,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Coldplay</b>|<b>lost spaces</b>|<b>Porter Robinson</b>|<b>Troye Sivan</b>|<b>LANY</b>|
 
-Updated at `Mon Sep 07 2020 00:46:37 GMT+0000`
+Updated at `Tue Sep 08 2020 00:46:10 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Mon Sep 07 2020 00:46:37 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>Never Meant</b></p> American Football|<p><b>boxset.girlfriend</b></p> lost spaces|<p><b>you!</b></p> LANY|<p><b>Mirror</b></p> Porter Robinson|<p><b>35.mm</b></p> lost spaces|
 
-Updated at `Mon Sep 07 2020 00:46:37 GMT+0000`
+Updated at `Tue Sep 08 2020 00:46:10 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
