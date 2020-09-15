@@ -3,11 +3,11 @@
 
 ## My top 5 artist right now!
 <!-- table start -->
-|<img src="https://i.scdn.co/image/73a21de115738931d6c7760408ed367812b55ccd">|<img src="https://i.scdn.co/image/9f4f434b79246015baa1c91fb778404453f9795e">|<img src="https://i.scdn.co/image/01055eb987b2124d44e05c313f040cb372a71f92">|<img src="https://i.scdn.co/image/1717dac024e71f64ec421a658c7a9769d41ce251">|<img src="https://i.scdn.co/image/964bc815a4b51e26895f8d0b5190fdc97bf1af2a">|
+|<img src="https://i.scdn.co/image/73a21de115738931d6c7760408ed367812b55ccd">|<img src="https://i.scdn.co/image/9f4f434b79246015baa1c91fb778404453f9795e">|<img src="https://i.scdn.co/image/01055eb987b2124d44e05c313f040cb372a71f92">|<img src="https://i.scdn.co/image/1717dac024e71f64ec421a658c7a9769d41ce251">|<img src="https://i.scdn.co/image/914f109ffee0ce6dc12e47a7be492be49d2b1c12">|
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Coldplay</b>|<b>lost spaces</b>|<b>Troye Sivan</b>|<b>The 1975</b>|<b>Kayden</b>|
 
-Updated at `Mon Sep 14 2020 00:47:09 GMT+0000`
+Updated at `Tue Sep 15 2020 00:46:47 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Mon Sep 14 2020 00:47:09 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>Never Meant</b></p> American Football|<p><b>boxset.girlfriend</b></p> lost spaces|<p><b>35.mm</b></p> lost spaces|<p><b>Space Makes Me Sad</b></p> Fiji Blue|<p><b>Mirror</b></p> Porter Robinson|
 
-Updated at `Mon Sep 14 2020 00:47:09 GMT+0000`
+Updated at `Tue Sep 15 2020 00:46:47 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
