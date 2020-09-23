@@ -7,7 +7,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Coldplay</b>|<b>LANY</b>|<b>Kayden</b>|<b>Hotel Apache</b>|<b>Troye Sivan</b>|
 
-Updated at `Tue Sep 22 2020 00:48:27 GMT+0000`
+Updated at `Wed Sep 23 2020 00:48:15 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Tue Sep 22 2020 00:48:27 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>Never Meant</b></p> American Football|<p><b>Mirror</b></p> Porter Robinson|<p><b>Space Makes Me Sad</b></p> Fiji Blue|<p><b>boxset.girlfriend</b></p> lost spaces|<p><b>Butterflies</b></p> Fiji Blue|
 
-Updated at `Tue Sep 22 2020 00:48:27 GMT+0000`
+Updated at `Wed Sep 23 2020 00:48:15 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
