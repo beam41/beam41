@@ -7,16 +7,16 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Joji</b>|<b>LANY</b>|<b>Coldplay</b>|<b>Kayden</b>|<b>Hotel Apache</b>|
 
-Updated at `Sun Sep 27 2020 00:51:34 GMT+0000`
+Updated at `Mon Sep 28 2020 00:50:25 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
 <!-- table song start -->
-|<img src="https://i.scdn.co/image/ab67616d00001e022da68fa4075114ebe35c1620">|<img src="https://i.scdn.co/image/ab67616d00001e0220cf064f71a0d424349c9f6a">|<img src="https://i.scdn.co/image/ab67616d00001e0260ba1d6104d0475c7555a6b2">|<img src="https://i.scdn.co/image/ab67616d00001e020e991b59cee17246a5e604d0">|<img src="https://i.scdn.co/image/ab67616d00001e022ef849da76c21fbcb896bac7">|
+|<img src="https://i.scdn.co/image/ab67616d00001e020e991b59cee17246a5e604d0">|<img src="https://i.scdn.co/image/ab67616d00001e022da68fa4075114ebe35c1620">|<img src="https://i.scdn.co/image/ab67616d00001e0260ba1d6104d0475c7555a6b2">|<img src="https://i.scdn.co/image/ab67616d00001e02e047d1ab434544ccc2c5445f">|<img src="https://i.scdn.co/image/ab67616d00001e0220cf064f71a0d424349c9f6a">|
 | :---: | :---: | :---: | :---: | :---: |
-|<p><b>Space Makes Me Sad</b></p> Fiji Blue|<p><b>Mirror</b></p> Porter Robinson|<p><b>SLOW DANCING IN THE DARK</b></p> Joji|<p><b>Daylight</b></p> Joji, Diplo|<p><b>Butterflies</b></p> Fiji Blue|
+|<p><b>Daylight</b></p> Joji, Diplo|<p><b>Space Makes Me Sad</b></p> Fiji Blue|<p><b>SLOW DANCING IN THE DARK</b></p> Joji|<p><b>Ew</b></p> Joji|<p><b>Mirror</b></p> Porter Robinson|
 
-Updated at `Sun Sep 27 2020 00:51:34 GMT+0000`
+Updated at `Mon Sep 28 2020 00:50:25 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
