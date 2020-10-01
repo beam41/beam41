@@ -7,16 +7,16 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Joji</b>|<b>LANY</b>|<b>Hotel Apache</b>|<b>Coldplay</b>|<b>Troye Sivan</b>|
 
-Updated at `Wed Sep 30 2020 00:49:55 GMT+0000`
+Updated at `Thu Oct 01 2020 00:52:13 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
 <!-- table song start -->
-|<img src="https://i.scdn.co/image/ab67616d00001e02e047d1ab434544ccc2c5445f">|<img src="https://i.scdn.co/image/ab67616d00001e0260ba1d6104d0475c7555a6b2">|<img src="https://i.scdn.co/image/ab67616d00001e020e991b59cee17246a5e604d0">|<img src="https://i.scdn.co/image/ab67616d00001e02e047d1ab434544ccc2c5445f">|<img src="https://i.scdn.co/image/ab67616d00001e022da68fa4075114ebe35c1620">|
+|<img src="https://i.scdn.co/image/ab67616d00001e02282383a07d5db6159cb5daa4">|<img src="https://i.scdn.co/image/ab67616d00001e02282383a07d5db6159cb5daa4">|<img src="https://i.scdn.co/image/ab67616d00001e02282383a07d5db6159cb5daa4">|<img src="https://i.scdn.co/image/ab67616d00001e0260ba1d6104d0475c7555a6b2">|<img src="https://i.scdn.co/image/ab67616d00001e020e991b59cee17246a5e604d0">|
 | :---: | :---: | :---: | :---: | :---: |
-|<p><b>Ew</b></p> Joji|<p><b>SLOW DANCING IN THE DARK</b></p> Joji|<p><b>Daylight</b></p> Joji, Diplo|<p><b>Pretty Boy (feat. Lil Yachty)</b></p> Joji, Lil Yachty|<p><b>Space Makes Me Sad</b></p> Fiji Blue|
+|<p><b>Afterthought</b></p> Joji, BENEE|<p><b>Pretty Boy (feat. Lil Yachty)</b></p> Joji, Lil Yachty|<p><b>Ew</b></p> Joji|<p><b>SLOW DANCING IN THE DARK</b></p> Joji|<p><b>Daylight</b></p> Joji, Diplo|
 
-Updated at `Wed Sep 30 2020 00:49:55 GMT+0000`
+Updated at `Thu Oct 01 2020 00:52:13 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
