@@ -7,16 +7,16 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Joji</b>|<b>LANY</b>|<b>Troye Sivan</b>|<b>Gareth Coker</b>|<b>Hotel Apache</b>|
 
-Updated at `Sat Oct 03 2020 00:51:00 GMT+0000`
+Updated at `Sun Oct 04 2020 00:53:46 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
 <!-- table song start -->
 |<img src="https://i.scdn.co/image/ab67616d00001e02282383a07d5db6159cb5daa4">|<img src="https://i.scdn.co/image/ab67616d00001e02282383a07d5db6159cb5daa4">|<img src="https://i.scdn.co/image/ab67616d00001e02282383a07d5db6159cb5daa4">|<img src="https://i.scdn.co/image/ab67616d00001e020e991b59cee17246a5e604d0">|<img src="https://i.scdn.co/image/ab67616d00001e0260ba1d6104d0475c7555a6b2">|
 | :---: | :---: | :---: | :---: | :---: |
-|<p><b>Afterthought</b></p> Joji, BENEE|<p><b>Ew</b></p> Joji|<p><b>Pretty Boy (feat. Lil Yachty)</b></p> Joji, Lil Yachty|<p><b>Daylight</b></p> Joji, Diplo|<p><b>SLOW DANCING IN THE DARK</b></p> Joji|
+|<p><b>Pretty Boy (feat. Lil Yachty)</b></p> Joji, Lil Yachty|<p><b>Afterthought</b></p> Joji, BENEE|<p><b>Ew</b></p> Joji|<p><b>Daylight</b></p> Joji, Diplo|<p><b>SLOW DANCING IN THE DARK</b></p> Joji|
 
-Updated at `Sat Oct 03 2020 00:51:01 GMT+0000`
+Updated at `Sun Oct 04 2020 00:53:47 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
