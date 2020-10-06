@@ -7,7 +7,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Joji</b>|<b>LANY</b>|<b>Hotel Apache</b>|<b>Troye Sivan</b>|<b>Gareth Coker</b>|
 
-Updated at `Mon Oct 05 2020 00:52:49 GMT+0000`
+Updated at `Tue Oct 06 2020 00:52:20 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Mon Oct 05 2020 00:52:49 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>Ew</b></p> Joji|<p><b>Pretty Boy (feat. Lil Yachty)</b></p> Joji, Lil Yachty|<p><b>Afterthought</b></p> Joji, BENEE|<p><b>Daylight</b></p> Joji, Diplo|<p><b>SLOW DANCING IN THE DARK</b></p> Joji|
 
-Updated at `Mon Oct 05 2020 00:52:49 GMT+0000`
+Updated at `Tue Oct 06 2020 00:52:20 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
