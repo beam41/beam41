@@ -3,20 +3,20 @@
 
 ## My top 5 artist right now!
 <!-- table start -->
-|<img src="https://i.scdn.co/image/50c504c91a2ccd2b5f39837e6261463267b858a2">|<img src="https://i.scdn.co/image/e01b533f7d220c35549f13a32b3fc6a77f965280">|<img src="https://i.scdn.co/image/cc999d89e7d03c47d4c99dacb58166fc6063fe65">|<img src="https://i.scdn.co/image/01055eb987b2124d44e05c313f040cb372a71f92">|<img src="https://i.scdn.co/image/01d9ba02ae7ec5ae008124dcc5eae37283ba4c78">|
+|<img src="https://i.scdn.co/image/50c504c91a2ccd2b5f39837e6261463267b858a2">|<img src="https://i.scdn.co/image/e01b533f7d220c35549f13a32b3fc6a77f965280">|<img src="https://i.scdn.co/image/cc999d89e7d03c47d4c99dacb58166fc6063fe65">|<img src="https://i.scdn.co/image/01055eb987b2124d44e05c313f040cb372a71f92">|<img src="https://i.scdn.co/image/26e562a525b9404cb5ff1d77faa1b35b7d62451b">|
 | :---: | :---: | :---: | :---: | :---: |
-|<b>Joji</b>|<b>LANY</b>|<b>Hotel Apache</b>|<b>Troye Sivan</b>|<b>Gareth Coker</b>|
+|<b>Joji</b>|<b>LANY</b>|<b>Hotel Apache</b>|<b>Troye Sivan</b>|<b>The Band CAMINO</b>|
 
-Updated at `Tue Oct 06 2020 00:52:20 GMT+0000`
+Updated at `Wed Oct 07 2020 00:52:46 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
 <!-- table song start -->
 |<img src="https://i.scdn.co/image/ab67616d00001e02282383a07d5db6159cb5daa4">|<img src="https://i.scdn.co/image/ab67616d00001e02282383a07d5db6159cb5daa4">|<img src="https://i.scdn.co/image/ab67616d00001e02282383a07d5db6159cb5daa4">|<img src="https://i.scdn.co/image/ab67616d00001e020e991b59cee17246a5e604d0">|<img src="https://i.scdn.co/image/ab67616d00001e0260ba1d6104d0475c7555a6b2">|
 | :---: | :---: | :---: | :---: | :---: |
-|<p><b>Ew</b></p> Joji|<p><b>Pretty Boy (feat. Lil Yachty)</b></p> Joji, Lil Yachty|<p><b>Afterthought</b></p> Joji, BENEE|<p><b>Daylight</b></p> Joji, Diplo|<p><b>SLOW DANCING IN THE DARK</b></p> Joji|
+|<p><b>Ew</b></p> Joji|<p><b>Afterthought</b></p> Joji, BENEE|<p><b>Pretty Boy (feat. Lil Yachty)</b></p> Joji, Lil Yachty|<p><b>Daylight</b></p> Joji, Diplo|<p><b>SLOW DANCING IN THE DARK</b></p> Joji|
 
-Updated at `Tue Oct 06 2020 00:52:20 GMT+0000`
+Updated at `Wed Oct 07 2020 00:52:46 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
