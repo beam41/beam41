@@ -3,11 +3,11 @@
 
 ## My top 5 artist right now!
 <!-- table start -->
-|<img src="https://i.scdn.co/image/50c504c91a2ccd2b5f39837e6261463267b858a2">|<img src="https://i.scdn.co/image/e01b533f7d220c35549f13a32b3fc6a77f965280">|<img src="https://i.scdn.co/image/cc999d89e7d03c47d4c99dacb58166fc6063fe65">|<img src="https://i.scdn.co/image/01d9ba02ae7ec5ae008124dcc5eae37283ba4c78">|<img src="https://i.scdn.co/image/9f4f434b79246015baa1c91fb778404453f9795e">|
+|<img src="https://i.scdn.co/image/50c504c91a2ccd2b5f39837e6261463267b858a2">|<img src="https://i.scdn.co/image/e01b533f7d220c35549f13a32b3fc6a77f965280">|<img src="https://i.scdn.co/image/81f5ac3b73f437052726cf5b413a6a8c98ed1b54">|<img src="https://i.scdn.co/image/cc999d89e7d03c47d4c99dacb58166fc6063fe65">|<img src="https://i.scdn.co/image/01d9ba02ae7ec5ae008124dcc5eae37283ba4c78">|
 | :---: | :---: | :---: | :---: | :---: |
-|<b>Joji</b>|<b>LANY</b>|<b>Hotel Apache</b>|<b>Gareth Coker</b>|<b>lost spaces</b>|
+|<b>Joji</b>|<b>LANY</b>|<b>Vansire</b>|<b>Hotel Apache</b>|<b>Gareth Coker</b>|
 
-Updated at `Thu Oct 08 2020 00:44:04 GMT+0000`
+Updated at `Fri Oct 09 2020 00:53:04 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Thu Oct 08 2020 00:44:04 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>Ew</b></p> Joji|<p><b>Afterthought</b></p> Joji, BENEE|<p><b>Pretty Boy (feat. Lil Yachty)</b></p> Joji, Lil Yachty|<p><b>Daylight</b></p> Joji, Diplo|<p><b>SLOW DANCING IN THE DARK</b></p> Joji|
 
-Updated at `Thu Oct 08 2020 00:44:04 GMT+0000`
+Updated at `Fri Oct 09 2020 00:53:04 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
