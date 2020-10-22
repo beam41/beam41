@@ -7,7 +7,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Joji</b>|<b>LANY</b>|<b>Vansire</b>|<b>Coldplay</b>|<b>lost spaces</b>|
 
-Updated at `Wed Oct 21 2020 00:57:51 GMT+0000`
+Updated at `Thu Oct 22 2020 00:58:53 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Wed Oct 21 2020 00:57:51 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>Afterthought</b></p> Joji, BENEE|<p><b>Pretty Boy (feat. Lil Yachty)</b></p> Joji, Lil Yachty|<p><b>Ew</b></p> Joji|<p><b>Mr. Hollywood</b></p> Joji|<p><b>you!</b></p> LANY|
 
-Updated at `Wed Oct 21 2020 00:57:52 GMT+0000`
+Updated at `Thu Oct 22 2020 00:58:53 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
