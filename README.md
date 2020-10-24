@@ -20,3 +20,7 @@ Updated at `Sat Oct 24 2020 00:59:05 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
+
+---
+
+**Du schaffst das.**
