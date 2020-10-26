@@ -7,16 +7,16 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Joji</b>|<b>LANY</b>|<b>Vansire</b>|<b>lost spaces</b>|<b>Coldplay</b>|
 
-Updated at `Sun Oct 25 2020 01:02:04 GMT+0000`
+Updated at `Mon Oct 26 2020 01:01:29 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
 <!-- table song start -->
-|<img src="https://i.scdn.co/image/ab67616d00001e0253f6fa0d2589c6a7174f4b81">|<img src="https://i.scdn.co/image/ab67616d00001e0253f6fa0d2589c6a7174f4b81">|<img src="https://i.scdn.co/image/ab67616d00001e02be813e62b1e1f5b8ea3dcb27">|<img src="https://i.scdn.co/image/ab67616d00001e0253f6fa0d2589c6a7174f4b81">|<img src="https://i.scdn.co/image/ab67616d00001e0253f6fa0d2589c6a7174f4b81">|
+|<img src="https://i.scdn.co/image/ab67616d00001e0253f6fa0d2589c6a7174f4b81">|<img src="https://i.scdn.co/image/ab67616d00001e02be813e62b1e1f5b8ea3dcb27">|<img src="https://i.scdn.co/image/ab67616d00001e0253f6fa0d2589c6a7174f4b81">|<img src="https://i.scdn.co/image/ab67616d00001e0253f6fa0d2589c6a7174f4b81">|<img src="https://i.scdn.co/image/ab67616d00001e0253f6fa0d2589c6a7174f4b81">|
 | :---: | :---: | :---: | :---: | :---: |
-|<p><b>Afterthought</b></p> Joji, BENEE|<p><b>Pretty Boy (feat. Lil Yachty)</b></p> Joji, Lil Yachty|<p><b>you!</b></p> LANY|<p><b>Ew</b></p> Joji|<p><b>Mr. Hollywood</b></p> Joji|
+|<p><b>Afterthought</b></p> Joji, BENEE|<p><b>you!</b></p> LANY|<p><b>Pretty Boy (feat. Lil Yachty)</b></p> Joji, Lil Yachty|<p><b>Mr. Hollywood</b></p> Joji|<p><b>Ew</b></p> Joji|
 
-Updated at `Sun Oct 25 2020 01:02:04 GMT+0000`
+Updated at `Mon Oct 26 2020 01:01:29 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
