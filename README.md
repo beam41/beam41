@@ -7,16 +7,16 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Joji</b>|<b>LANY</b>|<b>Coldplay</b>|<b>Vansire</b>|<b>Lauv</b>|
 
-Updated at `Sun Nov 01 2020 00:38:53 GMT+0000`
+Updated at `Mon Nov 02 2020 00:36:44 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
 <!-- table song start -->
-|<img src="https://i.scdn.co/image/ab67616d00001e02be813e62b1e1f5b8ea3dcb27">|<img src="https://i.scdn.co/image/ab67616d00001e0253f6fa0d2589c6a7174f4b81">|<img src="https://i.scdn.co/image/ab67616d00001e02113ef593aa679b556f0659b2">|<img src="https://i.scdn.co/image/ab67616d00001e026da0a1b522951bcd497e2bfe">|<img src="https://i.scdn.co/image/ab67616d00001e0253f6fa0d2589c6a7174f4b81">|
+|<img src="https://i.scdn.co/image/ab67616d00001e0253f6fa0d2589c6a7174f4b81">|<img src="https://i.scdn.co/image/ab67616d00001e02be813e62b1e1f5b8ea3dcb27">|<img src="https://i.scdn.co/image/ab67616d00001e02113ef593aa679b556f0659b2">|<img src="https://i.scdn.co/image/ab67616d00001e0253f6fa0d2589c6a7174f4b81">|<img src="https://i.scdn.co/image/ab67616d00001e026da0a1b522951bcd497e2bfe">|
 | :---: | :---: | :---: | :---: | :---: |
-|<p><b>you!</b></p> LANY|<p><b>Afterthought</b></p> Joji, BENEE|<p><b>Overdose (with HONNE)</b></p> SG Lewis, HONNE|<p><b>The Way You Feel</b></p> Hotel Apache|<p><b>Mr. Hollywood</b></p> Joji|
+|<p><b>Afterthought</b></p> Joji, BENEE|<p><b>you!</b></p> LANY|<p><b>Overdose (with HONNE)</b></p> SG Lewis, HONNE|<p><b>Mr. Hollywood</b></p> Joji|<p><b>The Way You Feel</b></p> Hotel Apache|
 
-Updated at `Sun Nov 01 2020 00:38:53 GMT+0000`
+Updated at `Mon Nov 02 2020 00:36:44 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
