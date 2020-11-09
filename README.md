@@ -7,16 +7,16 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Joji</b>|<b>LANY</b>|<b>Chet Porter</b>|<b>Hotel Apache</b>|<b>Coldplay</b>|
 
-Updated at `Sun Nov 08 2020 00:42:05 GMT+0000`
+Updated at `Mon Nov 09 2020 00:42:07 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
 <!-- table song start -->
-|<img src="https://i.scdn.co/image/ab67616d00001e02113ef593aa679b556f0659b2">|<img src="https://i.scdn.co/image/ab67616d00001e026da0a1b522951bcd497e2bfe">|<img src="https://i.scdn.co/image/ab67616d00001e02be813e62b1e1f5b8ea3dcb27">|<img src="https://i.scdn.co/image/ab67616d00001e02898a9df1e91590e96b9110ca">|<img src="https://i.scdn.co/image/ab67616d00001e02206517a3f7e4c34bf0bfc531">|
+|<img src="https://i.scdn.co/image/ab67616d00001e02113ef593aa679b556f0659b2">|<img src="https://i.scdn.co/image/ab67616d00001e026da0a1b522951bcd497e2bfe">|<img src="https://i.scdn.co/image/ab67616d00001e02898a9df1e91590e96b9110ca">|<img src="https://i.scdn.co/image/ab67616d00001e02206517a3f7e4c34bf0bfc531">|<img src="https://i.scdn.co/image/ab67616d00001e022da68fa4075114ebe35c1620">|
 | :---: | :---: | :---: | :---: | :---: |
-|<p><b>Overdose (with HONNE)</b></p> SG Lewis, HONNE|<p><b>The Way You Feel</b></p> Hotel Apache|<p><b>you!</b></p> LANY|<p><b>Tbh Ily - Kidswaste Remix</b></p> Chet Porter, Kidswaste|<p><b>A Change Of Heart</b></p> The 1975|
+|<p><b>Overdose (with HONNE)</b></p> SG Lewis, HONNE|<p><b>The Way You Feel</b></p> Hotel Apache|<p><b>Tbh Ily - Kidswaste Remix</b></p> Chet Porter, Kidswaste|<p><b>A Change Of Heart</b></p> The 1975|<p><b>Space Makes Me Sad</b></p> Fiji Blue|
 
-Updated at `Sun Nov 08 2020 00:42:05 GMT+0000`
+Updated at `Mon Nov 09 2020 00:42:07 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
