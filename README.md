@@ -7,16 +7,16 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Joji</b>|<b>LANY</b>|<b>Chet Porter</b>|<b>Coldplay</b>|<b>Madeon</b>|
 
-Updated at `Wed Nov 11 2020 00:33:20 GMT+0000`
+Updated at `Thu Nov 12 2020 00:37:24 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
 <!-- table song start -->
-|<img src="https://i.scdn.co/image/ab67616d00001e02898a9df1e91590e96b9110ca">|<img src="https://i.scdn.co/image/ab67616d00001e026da0a1b522951bcd497e2bfe">|<img src="https://i.scdn.co/image/ab67616d00001e02113ef593aa679b556f0659b2">|<img src="https://i.scdn.co/image/ab67616d00001e0285844ca856c72b9196ab671f">|<img src="https://i.scdn.co/image/ab67616d00001e02206517a3f7e4c34bf0bfc531">|
+|<img src="https://i.scdn.co/image/ab67616d00001e02898a9df1e91590e96b9110ca">|<img src="https://i.scdn.co/image/ab67616d00001e02113ef593aa679b556f0659b2">|<img src="https://i.scdn.co/image/ab67616d00001e0285844ca856c72b9196ab671f">|<img src="https://i.scdn.co/image/ab67616d00001e026da0a1b522951bcd497e2bfe">|<img src="https://i.scdn.co/image/ab67616d00001e02206517a3f7e4c34bf0bfc531">|
 | :---: | :---: | :---: | :---: | :---: |
-|<p><b>Tbh Ily - Kidswaste Remix</b></p> Chet Porter, Kidswaste|<p><b>The Way You Feel</b></p> Hotel Apache|<p><b>Overdose (with HONNE)</b></p> SG Lewis, HONNE|<p><b>Bummed (feat. Alison Wonderland)</b></p> Chet Porter, Alison Wonderland|<p><b>A Change Of Heart</b></p> The 1975|
+|<p><b>Tbh Ily - Kidswaste Remix</b></p> Chet Porter, Kidswaste|<p><b>Overdose (with HONNE)</b></p> SG Lewis, HONNE|<p><b>Bummed (feat. Alison Wonderland)</b></p> Chet Porter, Alison Wonderland|<p><b>The Way You Feel</b></p> Hotel Apache|<p><b>A Change Of Heart</b></p> The 1975|
 
-Updated at `Wed Nov 11 2020 00:33:20 GMT+0000`
+Updated at `Thu Nov 12 2020 00:37:24 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
