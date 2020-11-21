@@ -3,11 +3,11 @@
 
 ## My top 5 artist right now!
 <!-- table start -->
-|<img src="https://i.scdn.co/image/268c457a93c4bae9eec528263722febc6c937d81">|<img src="https://i.scdn.co/image/50c504c91a2ccd2b5f39837e6261463267b858a2">|<img src="https://i.scdn.co/image/3f4c99a2932c2e21fc966123050cd92fe4ff0c15">|<img src="https://i.scdn.co/image/1c393f8687e94a790ba87feec3f66093a6f849b5">|<img src="https://i.scdn.co/image/73a21de115738931d6c7760408ed367812b55ccd">|
+|<img src="https://i.scdn.co/image/268c457a93c4bae9eec528263722febc6c937d81">|<img src="https://i.scdn.co/image/50c504c91a2ccd2b5f39837e6261463267b858a2">|<img src="https://i.scdn.co/image/3f4c99a2932c2e21fc966123050cd92fe4ff0c15">|<img src="https://i.scdn.co/image/73a21de115738931d6c7760408ed367812b55ccd">|<img src="https://i.scdn.co/image/50c288dcdab974637f634438faeafbd4a96ece81">|
 | :---: | :---: | :---: | :---: | :---: |
-|<b>Chet Porter</b>|<b>Joji</b>|<b>Madeon</b>|<b>boy pablo</b>|<b>Coldplay</b>|
+|<b>Chet Porter</b>|<b>Joji</b>|<b>Madeon</b>|<b>Coldplay</b>|<b>Porter Robinson</b>|
 
-Updated at `Fri Nov 20 2020 00:41:24 GMT+0000`
+Updated at `Sat Nov 21 2020 00:41:19 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Fri Nov 20 2020 00:41:24 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>Tbh Ily - Kidswaste Remix</b></p> Chet Porter, Kidswaste|<p><b>Bummed (feat. Alison Wonderland)</b></p> Chet Porter, Alison Wonderland|<p><b>The Way You Feel</b></p> Hotel Apache|<p><b>My Jinji</b></p> Sunset Rollercoaster|<p><b>Overdose (with HONNE)</b></p> SG Lewis, HONNE|
 
-Updated at `Fri Nov 20 2020 00:41:24 GMT+0000`
+Updated at `Sat Nov 21 2020 00:41:19 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
