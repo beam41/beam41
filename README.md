@@ -7,7 +7,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Chet Porter</b>|<b>The 1975</b>|<b>TEMPOREX</b>|<b>Joji</b>|<b>Madeon</b>|
 
-Updated at `Thu Nov 26 2020 00:42:54 GMT+0000`
+Updated at `Fri Nov 27 2020 00:45:14 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Thu Nov 26 2020 00:42:54 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>Tbh Ily - Kidswaste Remix</b></p> Chet Porter, Kidswaste|<p><b>Bummed (feat. Alison Wonderland)</b></p> Chet Porter, Alison Wonderland|<p><b>The Way You Feel</b></p> Hotel Apache|<p><b>Lucky Girl</b></p> Fazerdaze|<p><b>My Jinji</b></p> Sunset Rollercoaster|
 
-Updated at `Thu Nov 26 2020 00:42:54 GMT+0000`
+Updated at `Fri Nov 27 2020 00:45:14 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
