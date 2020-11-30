@@ -7,16 +7,16 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Joji</b>|<b>The 1975</b>|<b>TEMPOREX</b>|<b>Chet Porter</b>|<b>Madeon</b>|
 
-Updated at `Sun Nov 29 2020 00:48:14 GMT+0000`
+Updated at `Mon Nov 30 2020 00:47:17 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
 <!-- table song start -->
-|<img src="https://i.scdn.co/image/ab67616d00001e02898a9df1e91590e96b9110ca">|<img src="https://i.scdn.co/image/ab67616d00001e0285844ca856c72b9196ab671f">|<img src="https://i.scdn.co/image/ab67616d00001e026da0a1b522951bcd497e2bfe">|<img src="https://i.scdn.co/image/ab67616d00001e02e2a46d54800a72ac33963ffe">|<img src="https://i.scdn.co/image/ab67616d00001e02a16f826ef325cdc2b6d26d66">|
+|<img src="https://i.scdn.co/image/ab67616d00001e02898a9df1e91590e96b9110ca">|<img src="https://i.scdn.co/image/ab67616d00001e026da0a1b522951bcd497e2bfe">|<img src="https://i.scdn.co/image/ab67616d00001e02a16f826ef325cdc2b6d26d66">|<img src="https://i.scdn.co/image/ab67616d00001e02e2a46d54800a72ac33963ffe">|<img src="https://i.scdn.co/image/ab67616d00001e0285844ca856c72b9196ab671f">|
 | :---: | :---: | :---: | :---: | :---: |
-|<p><b>Tbh Ily - Kidswaste Remix</b></p> Chet Porter, Kidswaste|<p><b>Bummed (feat. Alison Wonderland)</b></p> Chet Porter, Alison Wonderland|<p><b>The Way You Feel</b></p> Hotel Apache|<p><b>Lucky Girl</b></p> Fazerdaze|<p><b>Islands</b></p> rei brown|
+|<p><b>Tbh Ily - Kidswaste Remix</b></p> Chet Porter, Kidswaste|<p><b>The Way You Feel</b></p> Hotel Apache|<p><b>Islands</b></p> rei brown|<p><b>Lucky Girl</b></p> Fazerdaze|<p><b>Bummed (feat. Alison Wonderland)</b></p> Chet Porter, Alison Wonderland|
 
-Updated at `Sun Nov 29 2020 00:48:14 GMT+0000`
+Updated at `Mon Nov 30 2020 00:47:17 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
