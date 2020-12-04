@@ -7,7 +7,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Joji</b>|<b>TEMPOREX</b>|<b>The 1975</b>|<b>PREP</b>|<b>Chet Porter</b>|
 
-Updated at `Thu Dec 03 2020 00:46:17 GMT+0000`
+Updated at `Fri Dec 04 2020 00:47:27 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Thu Dec 03 2020 00:46:17 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>Tbh Ily - Kidswaste Remix</b></p> Chet Porter, Kidswaste|<p><b>Islands</b></p> rei brown|<p><b>Lucky Girl</b></p> Fazerdaze|<p><b>Midnight Sun</b></p> OTR, Ukiyo|<p><b>Bummed (feat. Alison Wonderland)</b></p> Chet Porter, Alison Wonderland|
 
-Updated at `Thu Dec 03 2020 00:46:17 GMT+0000`
+Updated at `Fri Dec 04 2020 00:47:27 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
