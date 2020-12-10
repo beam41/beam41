@@ -7,7 +7,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Joji</b>|<b>The 1975</b>|<b>TEMPOREX</b>|<b>J_ust</b>|<b>PREP</b>|
 
-Updated at `Wed Dec 09 2020 00:49:50 GMT+0000`
+Updated at `Thu Dec 10 2020 00:50:44 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Wed Dec 09 2020 00:49:50 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>Islands</b></p> rei brown|<p><b>Lucky Girl</b></p> Fazerdaze|<p><b>Nice Boys</b></p> TEMPOREX|<p><b>Santa Barbara</b></p> The Millennial Club|<p><b>I Love You So</b></p> The Walters|
 
-Updated at `Wed Dec 09 2020 00:49:50 GMT+0000`
+Updated at `Thu Dec 10 2020 00:50:44 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
