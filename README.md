@@ -7,7 +7,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>CASTLEBEAT</b>|<b>Japanese Wallpaper</b>|<b>Parks, Squares and Alleys</b>|<b>Dreams We've Had</b>|<b>Far Caspian</b>|
 
-Updated at `Sat Jan 23 2021 01:32:02 GMT+0000`
+Updated at `Sun Jan 24 2021 01:33:53 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Sat Jan 23 2021 01:32:02 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>We're Not Just Friends</b></p> Parks, Squares and Alleys|<p><b>Part</b></p> CASTLEBEAT|<p><b>A Dream of You</b></p> Far Caspian|<p><b>Grace</b></p> ADOY|<p><b>Change Your Mind</b></p> CASTLEBEAT|
 
-Updated at `Sat Jan 23 2021 01:32:02 GMT+0000`
+Updated at `Sun Jan 24 2021 01:33:53 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
