@@ -7,7 +7,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Japanese Wallpaper</b>|<b>Coldplay</b>|<b>Hashir</b>|<b>CASTLEBEAT</b>|<b>Attom</b>|
 
-Updated at `Thu Feb 04 2021 00:45:28 GMT+0000`
+Updated at `Fri Feb 05 2021 00:46:10 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Thu Feb 04 2021 00:45:28 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>Part</b></p> CASTLEBEAT|<p><b>We're Not Just Friends</b></p> Parks, Squares and Alleys|<p><b>Grace</b></p> ADOY|<p><b>Islands</b></p> rei brown|<p><b>A Dream of You</b></p> Far Caspian|
 
-Updated at `Thu Feb 04 2021 00:45:28 GMT+0000`
+Updated at `Fri Feb 05 2021 00:46:10 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
