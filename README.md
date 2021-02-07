@@ -7,16 +7,16 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Japanese Wallpaper</b>|<b>Coldplay</b>|<b>Hashir</b>|<b>CASTLEBEAT</b>|<b>Attom</b>|
 
-Updated at `Sat Feb 06 2021 00:45:17 GMT+0000`
+Updated at `Sun Feb 07 2021 00:47:45 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
 <!-- table song start -->
-|<img src="https://i.scdn.co/image/ab67616d00001e02aae5901b4a97266f010b8c08">|<img src="https://i.scdn.co/image/ab67616d00001e0287edab62a48772ccc1892810">|<img src="https://i.scdn.co/image/ab67616d00001e02f9f9a2c27a21c3df41c30c8a">|<img src="https://i.scdn.co/image/ab67616d00001e02a16f826ef325cdc2b6d26d66">|<img src="https://i.scdn.co/image/ab67616d00001e0239de100539d8acde526844c3">|
+|<img src="https://i.scdn.co/image/ab67616d00001e02aae5901b4a97266f010b8c08">|<img src="https://i.scdn.co/image/ab67616d00001e0287edab62a48772ccc1892810">|<img src="https://i.scdn.co/image/ab67616d00001e02f9f9a2c27a21c3df41c30c8a">|<img src="https://i.scdn.co/image/ab67616d00001e02a16f826ef325cdc2b6d26d66">|<img src="https://i.scdn.co/image/ab67616d00001e0265f5361e73ed955d6b5e4be5">|
 | :---: | :---: | :---: | :---: | :---: |
-|<p><b>We're Not Just Friends</b></p> Parks, Squares and Alleys|<p><b>Part</b></p> CASTLEBEAT|<p><b>Grace</b></p> ADOY|<p><b>Islands</b></p> rei brown|<p><b>MOUNTAIN MAN</b></p> Hashir|
+|<p><b>We're Not Just Friends</b></p> Parks, Squares and Alleys|<p><b>Part</b></p> CASTLEBEAT|<p><b>Grace</b></p> ADOY|<p><b>Islands</b></p> rei brown|<p><b>A Dream of You</b></p> Far Caspian|
 
-Updated at `Sat Feb 06 2021 00:45:17 GMT+0000`
+Updated at `Sun Feb 07 2021 00:47:45 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
