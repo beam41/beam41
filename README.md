@@ -3,11 +3,11 @@
 
 ## My top 5 artist right now!
 <!-- table start -->
-|<img src="https://i.scdn.co/image/be26a3769c1521d94e38a1515148216777093954">|<img src="https://i.scdn.co/image/499751f23c3a5add34c43d74148125e34b26d796">|<img src="https://i.scdn.co/image/73a21de115738931d6c7760408ed367812b55ccd">|<img src="https://i.scdn.co/image/f28403d7f085a17c5d5f9d3c7ee9201d2e98a96e">|<img src="https://i.scdn.co/image/95e36577564d7cb661d52279ada3e01a326e1f8e">|
+|<img src="https://i.scdn.co/image/be26a3769c1521d94e38a1515148216777093954">|<img src="https://i.scdn.co/image/499751f23c3a5add34c43d74148125e34b26d796">|<img src="https://i.scdn.co/image/73a21de115738931d6c7760408ed367812b55ccd">|<img src="https://i.scdn.co/image/f28403d7f085a17c5d5f9d3c7ee9201d2e98a96e">|<img src="https://i.scdn.co/image/efc64bb47a2b84513ac81e45561410e9c08a3e49">|
 | :---: | :---: | :---: | :---: | :---: |
-|<b>Japanese Wallpaper</b>|<b>Hashir</b>|<b>Coldplay</b>|<b>Attom</b>|<b>CASTLEBEAT</b>|
+|<b>Japanese Wallpaper</b>|<b>Hashir</b>|<b>Coldplay</b>|<b>Attom</b>|<b>Jeremy Zucker</b>|
 
-Updated at `Mon Feb 08 2021 00:46:13 GMT+0000`
+Updated at `Tue Feb 09 2021 00:46:09 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Mon Feb 08 2021 00:46:13 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>Part</b></p> CASTLEBEAT|<p><b>We're Not Just Friends</b></p> Parks, Squares and Alleys|<p><b>MOUNTAIN MAN</b></p> Hashir|<p><b>Grace</b></p> ADOY|<p><b>Islands</b></p> rei brown|
 
-Updated at `Mon Feb 08 2021 00:46:13 GMT+0000`
+Updated at `Tue Feb 09 2021 00:46:09 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
