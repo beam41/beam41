@@ -7,16 +7,16 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Japanese Wallpaper</b>|<b>Hashir</b>|<b>Jeremy Zucker</b>|<b>Coldplay</b>|<b>Attom</b>|
 
-Updated at `Thu Feb 11 2021 00:46:04 GMT+0000`
+Updated at `Fri Feb 12 2021 00:46:26 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
 <!-- table song start -->
-|<img src="https://i.scdn.co/image/ab67616d00001e0287edab62a48772ccc1892810">|<img src="https://i.scdn.co/image/ab67616d00001e0239de100539d8acde526844c3">|<img src="https://i.scdn.co/image/ab67616d00001e02aae5901b4a97266f010b8c08">|<img src="https://i.scdn.co/image/ab67616d00001e02bdcc1b27dac22bfb3a57c2de">|<img src="https://i.scdn.co/image/ab67616d00001e02a16f826ef325cdc2b6d26d66">|
+|<img src="https://i.scdn.co/image/ab67616d00001e0287edab62a48772ccc1892810">|<img src="https://i.scdn.co/image/ab67616d00001e0286dec818dcf0b4bfd72f0d7e">|<img src="https://i.scdn.co/image/ab67616d00001e02a16f826ef325cdc2b6d26d66">|<img src="https://i.scdn.co/image/ab67616d00001e0239de100539d8acde526844c3">|<img src="https://i.scdn.co/image/ab67616d00001e02f9f9a2c27a21c3df41c30c8a">|
 | :---: | :---: | :---: | :---: | :---: |
-|<p><b>Part</b></p> CASTLEBEAT|<p><b>MOUNTAIN MAN</b></p> Hashir|<p><b>We're Not Just Friends</b></p> Parks, Squares and Alleys|<p><b>this is how you fall in love</b></p> Jeremy Zucker, Chelsea Cutler|<p><b>Islands</b></p> rei brown|
+|<p><b>Part</b></p> CASTLEBEAT|<p><b>Wonder</b></p> ADOY|<p><b>Islands</b></p> rei brown|<p><b>MOUNTAIN MAN</b></p> Hashir|<p><b>Grace</b></p> ADOY|
 
-Updated at `Thu Feb 11 2021 00:46:04 GMT+0000`
+Updated at `Fri Feb 12 2021 00:46:26 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
