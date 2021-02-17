@@ -7,16 +7,16 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Japanese Wallpaper</b>|<b>Joji</b>|<b>Hashir</b>|<b>Pink Sweat$</b>|<b>Jeremy Zucker</b>|
 
-Updated at `Tue Feb 16 2021 00:46:47 GMT+0000`
+Updated at `Wed Feb 17 2021 00:46:33 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
 <!-- table song start -->
-|<img src="https://i.scdn.co/image/ab67616d00001e0287edab62a48772ccc1892810">|<img src="https://i.scdn.co/image/ab67616d00001e0239de100539d8acde526844c3">|<img src="https://i.scdn.co/image/ab67616d00001e0265f5361e73ed955d6b5e4be5">|<img src="https://i.scdn.co/image/ab67616d00001e0286dec818dcf0b4bfd72f0d7e">|<img src="https://i.scdn.co/image/ab67616d00001e02f9f9a2c27a21c3df41c30c8a">|
+|<img src="https://i.scdn.co/image/ab67616d00001e0287edab62a48772ccc1892810">|<img src="https://i.scdn.co/image/ab67616d00001e0265f5361e73ed955d6b5e4be5">|<img src="https://i.scdn.co/image/ab67616d00001e0239de100539d8acde526844c3">|<img src="https://i.scdn.co/image/ab67616d00001e02cde9224041a7cbbf4e9f88ff">|<img src="https://i.scdn.co/image/ab67616d00001e02f9f9a2c27a21c3df41c30c8a">|
 | :---: | :---: | :---: | :---: | :---: |
-|<p><b>Part</b></p> CASTLEBEAT|<p><b>MOUNTAIN MAN</b></p> Hashir|<p><b>A Dream of You</b></p> Far Caspian|<p><b>Wonder</b></p> ADOY|<p><b>Grace</b></p> ADOY|
+|<p><b>Part</b></p> CASTLEBEAT|<p><b>A Dream of You</b></p> Far Caspian|<p><b>MOUNTAIN MAN</b></p> Hashir|<p><b>Wonder</b></p> ADOY|<p><b>Grace</b></p> ADOY|
 
-Updated at `Tue Feb 16 2021 00:46:48 GMT+0000`
+Updated at `Wed Feb 17 2021 00:46:33 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
