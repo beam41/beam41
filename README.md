@@ -7,16 +7,16 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Joji</b>|<b>Hashir</b>|<b>Pink Sweat$</b>|<b>Jeremy Zucker</b>|<b>Coldplay</b>|
 
-Updated at `Fri Feb 19 2021 00:47:16 GMT+0000`
+Updated at `Sat Feb 20 2021 00:46:59 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
 <!-- table song start -->
-|<img src="https://i.scdn.co/image/ab67616d00001e0287edab62a48772ccc1892810">|<img src="https://i.scdn.co/image/ab67616d00001e0265f5361e73ed955d6b5e4be5">|<img src="https://i.scdn.co/image/ab67616d00001e02cde9224041a7cbbf4e9f88ff">|<img src="https://i.scdn.co/image/ab67616d00001e02ef254a02bfad4810a567dd1c">|<img src="https://i.scdn.co/image/ab67616d00001e0239de100539d8acde526844c3">|
+|<img src="https://i.scdn.co/image/ab67616d00001e0287edab62a48772ccc1892810">|<img src="https://i.scdn.co/image/ab67616d00001e0265f5361e73ed955d6b5e4be5">|<img src="https://i.scdn.co/image/ab67616d00001e02ef254a02bfad4810a567dd1c">|<img src="https://i.scdn.co/image/ab67616d00001e02cde9224041a7cbbf4e9f88ff">|<img src="https://i.scdn.co/image/ab67616d00001e02bdcc1b27dac22bfb3a57c2de">|
 | :---: | :---: | :---: | :---: | :---: |
-|<p><b>Part</b></p> CASTLEBEAT|<p><b>A Dream of You</b></p> Far Caspian|<p><b>Wonder</b></p> ADOY|<p><b>Roses</b></p> Finn Askew|<p><b>MOUNTAIN MAN</b></p> Hashir|
+|<p><b>Part</b></p> CASTLEBEAT|<p><b>A Dream of You</b></p> Far Caspian|<p><b>Roses</b></p> Finn Askew|<p><b>Wonder</b></p> ADOY|<p><b>this is how you fall in love</b></p> Jeremy Zucker, Chelsea Cutler|
 
-Updated at `Fri Feb 19 2021 00:47:16 GMT+0000`
+Updated at `Sat Feb 20 2021 00:46:59 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
