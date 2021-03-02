@@ -3,11 +3,11 @@
 
 ## My top 5 artist right now!
 <!-- table start -->
-|<img src="https://i.scdn.co/image/50c504c91a2ccd2b5f39837e6261463267b858a2">|<img src="https://i.scdn.co/image/2f11b50c3288556df7e9d991402b80ba079c85f1">|<img src="https://i.scdn.co/image/b9006fdddd1537877c3d104c525edbb5a608f58d">|<img src="https://i.scdn.co/image/73a21de115738931d6c7760408ed367812b55ccd">|<img src="https://i.scdn.co/image/c1839863c4da9e32d9b07162bffdf5bde434a8b1">|
+|<img src="https://i.scdn.co/image/50c504c91a2ccd2b5f39837e6261463267b858a2">|<img src="https://i.scdn.co/image/2f11b50c3288556df7e9d991402b80ba079c85f1">|<img src="https://i.scdn.co/image/b9006fdddd1537877c3d104c525edbb5a608f58d">|<img src="https://i.scdn.co/image/c1839863c4da9e32d9b07162bffdf5bde434a8b1">|<img src="https://i.scdn.co/image/95e36577564d7cb661d52279ada3e01a326e1f8e">|
 | :---: | :---: | :---: | :---: | :---: |
-|<b>Joji</b>|<b>Jeremy Zucker</b>|<b>Pink Sweat$</b>|<b>Coldplay</b>|<b>Dayglow</b>|
+|<b>Joji</b>|<b>Jeremy Zucker</b>|<b>Pink Sweat$</b>|<b>Dayglow</b>|<b>CASTLEBEAT</b>|
 
-Updated at `Mon Mar 01 2021 00:51:46 GMT+0000`
+Updated at `Tue Mar 02 2021 00:41:10 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Mon Mar 01 2021 00:51:46 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>Roses</b></p> Finn Askew|<p><b>this is how you fall in love</b></p> Jeremy Zucker, Chelsea Cutler|<p><b>A Dream of You</b></p> Far Caspian|<p><b>Part</b></p> CASTLEBEAT|<p><b>Tongue Tied</b></p> Japanese Wallpaper|
 
-Updated at `Mon Mar 01 2021 00:51:46 GMT+0000`
+Updated at `Tue Mar 02 2021 00:41:10 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
