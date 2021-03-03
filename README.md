@@ -7,7 +7,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Joji</b>|<b>Jeremy Zucker</b>|<b>Pink Sweat$</b>|<b>Dayglow</b>|<b>CASTLEBEAT</b>|
 
-Updated at `Tue Mar 02 2021 00:41:10 GMT+0000`
+Updated at `Wed Mar 03 2021 00:48:50 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Tue Mar 02 2021 00:41:10 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>Roses</b></p> Finn Askew|<p><b>this is how you fall in love</b></p> Jeremy Zucker, Chelsea Cutler|<p><b>A Dream of You</b></p> Far Caspian|<p><b>Part</b></p> CASTLEBEAT|<p><b>Tongue Tied</b></p> Japanese Wallpaper|
 
-Updated at `Tue Mar 02 2021 00:41:10 GMT+0000`
+Updated at `Wed Mar 03 2021 00:48:50 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
