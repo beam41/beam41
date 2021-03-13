@@ -7,16 +7,16 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Porter Robinson</b>|<b>Jeremy Zucker</b>|<b>Coldplay</b>|<b>CASTLEBEAT</b>|<b>Joji</b>|
 
-Updated at `Fri Mar 12 2021 00:50:48 GMT+0000`
+Updated at `Sat Mar 13 2021 00:49:33 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
 <!-- table song start -->
-|<img src="https://i.scdn.co/image/ab67616d00001e02644c3c62d813e39720e04ecd">|<img src="https://i.scdn.co/image/ab67616d00001e02ef254a02bfad4810a567dd1c">|<img src="https://i.scdn.co/image/ab67616d00001e0265f5361e73ed955d6b5e4be5">|<img src="https://i.scdn.co/image/ab67616d00001e02bdcc1b27dac22bfb3a57c2de">|<img src="https://i.scdn.co/image/ab67616d00001e0275af9fb0fa8dc8f3adef6905">|
+|<img src="https://i.scdn.co/image/ab67616d00001e02644c3c62d813e39720e04ecd">|<img src="https://i.scdn.co/image/ab67616d00001e02ef254a02bfad4810a567dd1c">|<img src="https://i.scdn.co/image/ab67616d00001e02bdcc1b27dac22bfb3a57c2de">|<img src="https://i.scdn.co/image/ab67616d00001e0265f5361e73ed955d6b5e4be5">|<img src="https://i.scdn.co/image/ab67616d00001e0275af9fb0fa8dc8f3adef6905">|
 | :---: | :---: | :---: | :---: | :---: |
-|<p><b>Musician</b></p> Porter Robinson|<p><b>Roses</b></p> Finn Askew|<p><b>A Dream of You</b></p> Far Caspian|<p><b>this is how you fall in love</b></p> Jeremy Zucker, Chelsea Cutler|<p><b>At My Worst</b></p> Pink Sweat$|
+|<p><b>Musician</b></p> Porter Robinson|<p><b>Roses</b></p> Finn Askew|<p><b>this is how you fall in love</b></p> Jeremy Zucker, Chelsea Cutler|<p><b>A Dream of You</b></p> Far Caspian|<p><b>At My Worst</b></p> Pink Sweat$|
 
-Updated at `Fri Mar 12 2021 00:50:48 GMT+0000`
+Updated at `Sat Mar 13 2021 00:49:33 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
