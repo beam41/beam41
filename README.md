@@ -7,7 +7,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Jeremy Zucker</b>|<b>Porter Robinson</b>|<b>Joji</b>|<b>Coldplay</b>|<b>Dayglow</b>|
 
-Updated at `Thu Mar 18 2021 00:51:25 GMT+0000`
+Updated at `Fri Mar 19 2021 00:52:14 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Thu Mar 18 2021 00:51:25 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>Musician</b></p> Porter Robinson|<p><b>this is how you fall in love</b></p> Jeremy Zucker, Chelsea Cutler|<p><b>Roses</b></p> Finn Askew|<p><b>Coffee</b></p> Resident|<p><b>At My Worst</b></p> Pink Sweat$|
 
-Updated at `Thu Mar 18 2021 00:51:25 GMT+0000`
+Updated at `Fri Mar 19 2021 00:52:14 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
