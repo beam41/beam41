@@ -7,16 +7,16 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Porter Robinson</b>|<b>CASTLEBEAT</b>|<b>Jeremy Zucker</b>|<b>Coldplay</b>|<b>Dayglow</b>|
 
-Updated at `Mon Mar 22 2021 00:52:24 GMT+0000`
+Updated at `Tue Mar 23 2021 00:51:43 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
 <!-- table song start -->
-|<img src="https://i.scdn.co/image/ab67616d00001e02644c3c62d813e39720e04ecd">|<img src="https://i.scdn.co/image/ab67616d00001e02bdcc1b27dac22bfb3a57c2de">|<img src="https://i.scdn.co/image/ab67616d00001e02ef254a02bfad4810a567dd1c">|<img src="https://i.scdn.co/image/ab67616d00001e021629a20d58a261bb957d8464">|<img src="https://i.scdn.co/image/ab67616d00001e0287edab62a48772ccc1892810">|
+|<img src="https://i.scdn.co/image/ab67616d00001e02644c3c62d813e39720e04ecd">|<img src="https://i.scdn.co/image/ab67616d00001e02bdcc1b27dac22bfb3a57c2de">|<img src="https://i.scdn.co/image/ab67616d00001e021629a20d58a261bb957d8464">|<img src="https://i.scdn.co/image/ab67616d00001e02ef254a02bfad4810a567dd1c">|<img src="https://i.scdn.co/image/ab67616d00001e0275af9fb0fa8dc8f3adef6905">|
 | :---: | :---: | :---: | :---: | :---: |
-|<p><b>Musician</b></p> Porter Robinson|<p><b>this is how you fall in love</b></p> Jeremy Zucker, Chelsea Cutler|<p><b>Roses</b></p> Finn Askew|<p><b>Coffee</b></p> Resident|<p><b>Who You Are</b></p> CASTLEBEAT|
+|<p><b>Musician</b></p> Porter Robinson|<p><b>this is how you fall in love</b></p> Jeremy Zucker, Chelsea Cutler|<p><b>Coffee</b></p> Resident|<p><b>Roses</b></p> Finn Askew|<p><b>At My Worst</b></p> Pink Sweat$|
 
-Updated at `Mon Mar 22 2021 00:52:24 GMT+0000`
+Updated at `Tue Mar 23 2021 00:51:44 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
