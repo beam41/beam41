@@ -7,7 +7,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>CASTLEBEAT</b>|<b>slchld</b>|<b>Porter Robinson</b>|<b>Jeremy Zucker</b>|<b>Anatomy Rabbit</b>|
 
-Updated at `Sun Mar 28 2021 00:19:36 GMT+0000`
+Updated at `Mon Mar 29 2021 00:19:35 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Sun Mar 28 2021 00:19:36 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>Musician</b></p> Porter Robinson|<p><b>Coffee</b></p> Resident|<p><b>this is how you fall in love</b></p> Jeremy Zucker, Chelsea Cutler|<p><b>pieces</b></p> slchld|<p><b>แอบหวัง</b></p> Anatomy Rabbit|
 
-Updated at `Sun Mar 28 2021 00:19:36 GMT+0000`
+Updated at `Mon Mar 29 2021 00:19:35 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
