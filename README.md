@@ -3,11 +3,11 @@
 
 ## My top 5 artist right now!
 <!-- table start -->
-|<img src="https://i.scdn.co/image/95e36577564d7cb661d52279ada3e01a326e1f8e">|<img src="https://i.scdn.co/image/63cba7a180e58b0dae0c442083755dd6aa5bc715">|<img src="https://i.scdn.co/image/80a2b66d164e0ebabeb4b5c1d0e3a3bbc4386afd">|<img src="https://i.scdn.co/image/2f11b50c3288556df7e9d991402b80ba079c85f1">|<img src="https://i.scdn.co/image/73a21de115738931d6c7760408ed367812b55ccd">|
+|<img src="https://i.scdn.co/image/95e36577564d7cb661d52279ada3e01a326e1f8e">|<img src="https://i.scdn.co/image/63cba7a180e58b0dae0c442083755dd6aa5bc715">|<img src="https://i.scdn.co/image/87af897f01efcfc75331e6ee812a9822e03b0881">|<img src="https://i.scdn.co/image/80a2b66d164e0ebabeb4b5c1d0e3a3bbc4386afd">|<img src="https://i.scdn.co/image/2f11b50c3288556df7e9d991402b80ba079c85f1">|
 | :---: | :---: | :---: | :---: | :---: |
-|<b>CASTLEBEAT</b>|<b>slchld</b>|<b>Anatomy Rabbit</b>|<b>Jeremy Zucker</b>|<b>Coldplay</b>|
+|<b>CASTLEBEAT</b>|<b>slchld</b>|<b>Louis The Child</b>|<b>Anatomy Rabbit</b>|<b>Jeremy Zucker</b>|
 
-Updated at `Thu Apr 01 2021 00:19:22 GMT+0000`
+Updated at `Fri Apr 02 2021 00:25:30 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Thu Apr 01 2021 00:19:22 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>Musician</b></p> Porter Robinson|<p><b>Coffee</b></p> Resident|<p><b>pieces</b></p> slchld|<p><b>this is how you fall in love</b></p> Jeremy Zucker, Chelsea Cutler|<p><b>Wonder</b></p> ADOY|
 
-Updated at `Thu Apr 01 2021 00:19:22 GMT+0000`
+Updated at `Fri Apr 02 2021 00:25:30 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
