@@ -7,7 +7,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Louis The Child</b>|<b>slchld</b>|<b>CASTLEBEAT</b>|<b>Anatomy Rabbit</b>|<b>Jeremy Zucker</b>|
 
-Updated at `Mon Apr 05 2021 00:20:41 GMT+0000`
+Updated at `Tue Apr 06 2021 00:19:59 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Mon Apr 05 2021 00:20:41 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>Coffee</b></p> Resident|<p><b>Musician</b></p> Porter Robinson|<p><b>pieces</b></p> slchld|<p><b>this is how you fall in love</b></p> Jeremy Zucker, Chelsea Cutler|<p><b>แอบหวัง</b></p> Anatomy Rabbit|
 
-Updated at `Mon Apr 05 2021 00:20:41 GMT+0000`
+Updated at `Tue Apr 06 2021 00:20:00 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
