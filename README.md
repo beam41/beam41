@@ -7,7 +7,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Louis The Child</b>|<b>slchld</b>|<b>CASTLEBEAT</b>|<b>Anatomy Rabbit</b>|<b>Blackbeans</b>|
 
-Updated at `Tue Apr 13 2021 00:20:49 GMT+0000`
+Updated at `Wed Apr 14 2021 00:18:06 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Tue Apr 13 2021 00:20:49 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>Musician</b></p> Porter Robinson|<p><b>Coffee</b></p> Resident|<p><b>pieces</b></p> slchld|<p><b>Extraordinary</b></p> Anatomy Rabbit|<p><b>แอบหวัง</b></p> Anatomy Rabbit|
 
-Updated at `Tue Apr 13 2021 00:20:49 GMT+0000`
+Updated at `Wed Apr 14 2021 00:18:06 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
