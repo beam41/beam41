@@ -3,11 +3,11 @@
 
 ## My top 5 artist right now!
 <!-- table start -->
-|<img src="https://i.scdn.co/image/87af897f01efcfc75331e6ee812a9822e03b0881">|<img src="https://i.scdn.co/image/63cba7a180e58b0dae0c442083755dd6aa5bc715">|<img src="https://i.scdn.co/image/95e36577564d7cb661d52279ada3e01a326e1f8e">|<img src="https://i.scdn.co/image/80a2b66d164e0ebabeb4b5c1d0e3a3bbc4386afd">|<img src="https://i.scdn.co/image/45fd065d3a9694f17f3fc2ddbc8f54aa563055e6">|
+|<img src="https://i.scdn.co/image/87af897f01efcfc75331e6ee812a9822e03b0881">|<img src="https://i.scdn.co/image/63cba7a180e58b0dae0c442083755dd6aa5bc715">|<img src="https://i.scdn.co/image/80a2b66d164e0ebabeb4b5c1d0e3a3bbc4386afd">|<img src="https://i.scdn.co/image/45fd065d3a9694f17f3fc2ddbc8f54aa563055e6">|<img src="https://i.scdn.co/image/dadeebe21a7d9de46f5c0544c8c9edf7f1fede92">|
 | :---: | :---: | :---: | :---: | :---: |
-|<b>Louis The Child</b>|<b>slchld</b>|<b>CASTLEBEAT</b>|<b>Anatomy Rabbit</b>|<b>Blackbeans</b>|
+|<b>Louis The Child</b>|<b>slchld</b>|<b>Anatomy Rabbit</b>|<b>Blackbeans</b>|<b>Shallou</b>|
 
-Updated at `Fri Apr 16 2021 00:18:12 GMT+0000`
+Updated at `Sat Apr 17 2021 00:18:56 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Fri Apr 16 2021 00:18:12 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>Musician</b></p> Porter Robinson|<p><b>pieces</b></p> slchld|<p><b>Coffee</b></p> Resident|<p><b>แอบหวัง</b></p> Anatomy Rabbit|<p><b>Extraordinary</b></p> Anatomy Rabbit|
 
-Updated at `Fri Apr 16 2021 00:18:12 GMT+0000`
+Updated at `Sat Apr 17 2021 00:18:56 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
