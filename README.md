@@ -7,7 +7,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Dept</b>|<b>Porter Robinson</b>|<b>Coldplay</b>|<b>Anatomy Rabbit</b>|<b>HONNE</b>|
 
-Updated at `Mon May 10 2021 01:02:49 GMT+0000`
+Updated at `Tue May 11 2021 01:01:59 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Mon May 10 2021 01:02:49 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>ฤดู</b></p> Dept|<p><b>ลา ลา ลา</b></p> Dept|<p><b>Summertime</b></p> YEW, LANDOKMAI|<p><b>หรือไม่ใช่</b></p> Dept|<p><b>Lifelike</b></p> Porter Robinson|
 
-Updated at `Mon May 10 2021 01:02:49 GMT+0000`
+Updated at `Tue May 11 2021 01:01:59 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
