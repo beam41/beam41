@@ -3,11 +3,11 @@
 
 ## My top 5 artist right now!
 <!-- table start -->
-|<img src="https://i.scdn.co/image/ab6761610000f1781804f56bdcb9322c5f3f8f21">|<img src="https://i.scdn.co/image/617a9da2d7e4cdf3c83fa6f676975e1443064f14">|<img src="https://i.scdn.co/image/ab6761610000f1783bcd1c4d6f324498d3de6f8d">|<img src="https://i.scdn.co/image/80a2b66d164e0ebabeb4b5c1d0e3a3bbc4386afd">|<img src="https://i.scdn.co/image/8b9e5d9441a0208eca61b6a1f7fba5e390dd835d">|
+|<img src="https://i.scdn.co/image/ab6761610000f1781804f56bdcb9322c5f3f8f21">|<img src="https://i.scdn.co/image/617a9da2d7e4cdf3c83fa6f676975e1443064f14">|<img src="https://i.scdn.co/image/ab6761610000f1783bcd1c4d6f324498d3de6f8d">|<img src="https://i.scdn.co/image/80a2b66d164e0ebabeb4b5c1d0e3a3bbc4386afd">|<img src="https://i.scdn.co/image/ab6761610000f178dbb890af4cbd4cb8829b1aa0">|
 | :---: | :---: | :---: | :---: | :---: |
-|<b>Porter Robinson</b>|<b>Dept</b>|<b>Coldplay</b>|<b>Anatomy Rabbit</b>|<b>HONNE</b>|
+|<b>Porter Robinson</b>|<b>Dept</b>|<b>Coldplay</b>|<b>Anatomy Rabbit</b>|<b>Fiji Blue</b>|
 
-Updated at `Thu May 13 2021 01:08:39 GMT+0000`
+Updated at `Fri May 14 2021 01:10:13 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Thu May 13 2021 01:08:39 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>ฤดู</b></p> Dept|<p><b>ลา ลา ลา</b></p> Dept|<p><b>หรือไม่ใช่</b></p> Dept|<p><b>Summertime</b></p> YEW, LANDOKMAI|<p><b>Lifelike</b></p> Porter Robinson|
 
-Updated at `Thu May 13 2021 01:08:40 GMT+0000`
+Updated at `Fri May 14 2021 01:10:13 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
