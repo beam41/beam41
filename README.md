@@ -7,7 +7,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Porter Robinson</b>|<b>Dept</b>|<b>Coldplay</b>|<b>Fiji Blue</b>|<b>The 1975</b>|
 
-Updated at `Tue May 18 2021 01:11:34 GMT+0000`
+Updated at `Wed May 19 2021 01:07:10 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Tue May 18 2021 01:11:34 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>ฤดู</b></p> Dept|<p><b>ลา ลา ลา</b></p> Dept|<p><b>หรือไม่ใช่</b></p> Dept|<p><b>Summertime</b></p> YEW, LANDOKMAI|<p><b>Lifelike</b></p> Porter Robinson|
 
-Updated at `Tue May 18 2021 01:11:34 GMT+0000`
+Updated at `Wed May 19 2021 01:07:10 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
