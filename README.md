@@ -3,11 +3,11 @@
 
 ## My top 5 artist right now!
 <!-- table start -->
-|<img src="https://i.scdn.co/image/617a9da2d7e4cdf3c83fa6f676975e1443064f14">|<img src="https://i.scdn.co/image/ab6761610000f1781804f56bdcb9322c5f3f8f21">|<img src="https://i.scdn.co/image/ab6761610000f1783bcd1c4d6f324498d3de6f8d">|<img src="https://i.scdn.co/image/ab6761610000f178dbb890af4cbd4cb8829b1aa0">|<img src="https://i.scdn.co/image/95e36577564d7cb661d52279ada3e01a326e1f8e">|
+|<img src="https://i.scdn.co/image/617a9da2d7e4cdf3c83fa6f676975e1443064f14">|<img src="https://i.scdn.co/image/ab6761610000f1783bcd1c4d6f324498d3de6f8d">|<img src="https://i.scdn.co/image/ab6761610000f1781804f56bdcb9322c5f3f8f21">|<img src="https://i.scdn.co/image/95e36577564d7cb661d52279ada3e01a326e1f8e">|<img src="https://i.scdn.co/image/ab6761610000f178dbb890af4cbd4cb8829b1aa0">|
 | :---: | :---: | :---: | :---: | :---: |
-|<b>Dept</b>|<b>Porter Robinson</b>|<b>Coldplay</b>|<b>Fiji Blue</b>|<b>CASTLEBEAT</b>|
+|<b>Dept</b>|<b>Coldplay</b>|<b>Porter Robinson</b>|<b>CASTLEBEAT</b>|<b>Fiji Blue</b>|
 
-Updated at `Tue May 25 2021 01:11:44 GMT+0000`
+Updated at `Wed May 26 2021 01:26:59 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Tue May 25 2021 01:11:44 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>ฤดู</b></p> Dept|<p><b>ลา ลา ลา</b></p> Dept|<p><b>หรือไม่ใช่</b></p> Dept|<p><b>Summertime</b></p> YEW, LANDOKMAI|<p><b>We're Not Just Friends</b></p> Parks, Squares and Alleys|
 
-Updated at `Tue May 25 2021 01:11:44 GMT+0000`
+Updated at `Wed May 26 2021 01:26:59 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
