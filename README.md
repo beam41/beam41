@@ -7,7 +7,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Dept</b>|<b>J_ust</b>|<b>ford.</b>|<b>Vansire</b>|<b>Dayglow</b>|
 
-Updated at `Sat Jun 05 2021 01:40:54 GMT+0000`
+Updated at `Sun Jun 06 2021 01:29:35 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Sat Jun 05 2021 01:40:54 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>ฤดู</b></p> Dept|<p><b>4:38am</b></p> ford., Barrie|<p><b>หรือไม่ใช่</b></p> Dept|<p><b>We're Not Just Friends</b></p> Parks, Squares and Alleys|<p><b>Overdose (with HONNE)</b></p> SG Lewis, HONNE|
 
-Updated at `Sat Jun 05 2021 01:40:55 GMT+0000`
+Updated at `Sun Jun 06 2021 01:29:35 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
