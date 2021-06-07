@@ -7,16 +7,16 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Dept</b>|<b>J_ust</b>|<b>ford.</b>|<b>Vansire</b>|<b>Dayglow</b>|
 
-Updated at `Sun Jun 06 2021 01:29:35 GMT+0000`
+Updated at `Mon Jun 07 2021 01:35:01 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
 <!-- table song start -->
-|<img src="https://i.scdn.co/image/ab67616d00001e027cb744b7588fdcf838407c50">|<img src="https://i.scdn.co/image/ab67616d00001e02baf6652226fded131e43e80f">|<img src="https://i.scdn.co/image/ab67616d00001e028d2c6fa63d72dd37a04f1df7">|<img src="https://i.scdn.co/image/ab67616d00001e02aae5901b4a97266f010b8c08">|<img src="https://i.scdn.co/image/ab67616d00001e02113ef593aa679b556f0659b2">|
+|<img src="https://i.scdn.co/image/ab67616d00001e027cb744b7588fdcf838407c50">|<img src="https://i.scdn.co/image/ab67616d00001e02baf6652226fded131e43e80f">|<img src="https://i.scdn.co/image/ab67616d00001e02aae5901b4a97266f010b8c08">|<img src="https://i.scdn.co/image/ab67616d00001e02113ef593aa679b556f0659b2">|<img src="https://i.scdn.co/image/ab67616d00001e028d2c6fa63d72dd37a04f1df7">|
 | :---: | :---: | :---: | :---: | :---: |
-|<p><b>ฤดู</b></p> Dept|<p><b>4:38am</b></p> ford., Barrie|<p><b>หรือไม่ใช่</b></p> Dept|<p><b>We're Not Just Friends</b></p> Parks, Squares and Alleys|<p><b>Overdose (with HONNE)</b></p> SG Lewis, HONNE|
+|<p><b>ฤดู</b></p> Dept|<p><b>4:38am</b></p> ford., Barrie|<p><b>We're Not Just Friends</b></p> Parks, Squares and Alleys|<p><b>Overdose (with HONNE)</b></p> SG Lewis, HONNE|<p><b>หรือไม่ใช่</b></p> Dept|
 
-Updated at `Sun Jun 06 2021 01:29:35 GMT+0000`
+Updated at `Mon Jun 07 2021 01:35:01 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
