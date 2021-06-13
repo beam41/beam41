@@ -7,7 +7,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Dept</b>|<b>J_ust</b>|<b>ford.</b>|<b>CASTLEBEAT</b>|<b>Vansire</b>|
 
-Updated at `Sat Jun 12 2021 00:54:28 GMT+0000`
+Updated at `Sun Jun 13 2021 01:00:53 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Sat Jun 12 2021 00:54:28 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>4:38am</b></p> ford., Barrie|<p><b>ฤดู</b></p> Dept|<p><b>หรือไม่ใช่</b></p> Dept|<p><b>Overdose (with HONNE)</b></p> SG Lewis, HONNE|<p><b>ลา ลา ลา</b></p> Dept|
 
-Updated at `Sat Jun 12 2021 00:54:28 GMT+0000`
+Updated at `Sun Jun 13 2021 01:00:53 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
