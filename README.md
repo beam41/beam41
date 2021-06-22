@@ -3,11 +3,11 @@
 
 ## My top 5 artist right now!
 <!-- table start -->
-|<img src="https://i.scdn.co/image/617a9da2d7e4cdf3c83fa6f676975e1443064f14">|<img src="https://i.scdn.co/image/ab6761610000f178b92dcb3d365b9860bf0859dd">|<img src="https://i.scdn.co/image/ab67616d0000485109740fd1a552a03f060231be">|<img src="https://i.scdn.co/image/962265eca633b45bd365ba27d4eb84384e83c980">|<img src="https://i.scdn.co/image/95e36577564d7cb661d52279ada3e01a326e1f8e">|
+|<img src="https://i.scdn.co/image/617a9da2d7e4cdf3c83fa6f676975e1443064f14">|<img src="https://i.scdn.co/image/ab6761610000f178b92dcb3d365b9860bf0859dd">|<img src="https://i.scdn.co/image/ab67616d0000485109740fd1a552a03f060231be">|<img src="https://i.scdn.co/image/962265eca633b45bd365ba27d4eb84384e83c980">|<img src="https://i.scdn.co/image/ab6761610000f1781804f56bdcb9322c5f3f8f21">|
 | :---: | :---: | :---: | :---: | :---: |
-|<b>Dept</b>|<b>TEMPOREX</b>|<b>J_ust</b>|<b>ford.</b>|<b>CASTLEBEAT</b>|
+|<b>Dept</b>|<b>TEMPOREX</b>|<b>J_ust</b>|<b>ford.</b>|<b>Porter Robinson</b>|
 
-Updated at `Mon Jun 21 2021 01:03:12 GMT+0000`
+Updated at `Tue Jun 22 2021 00:55:55 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Mon Jun 21 2021 01:03:12 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>4:38am</b></p> ford., Barrie|<p><b>ฤดู</b></p> Dept|<p><b>หรือไม่ใช่</b></p> Dept|<p><b>Overdose (with HONNE)</b></p> SG Lewis, HONNE|<p><b>ลา ลา ลา</b></p> Dept|
 
-Updated at `Mon Jun 21 2021 01:03:12 GMT+0000`
+Updated at `Tue Jun 22 2021 00:55:55 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
