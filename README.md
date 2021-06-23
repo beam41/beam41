@@ -7,16 +7,16 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Dept</b>|<b>TEMPOREX</b>|<b>J_ust</b>|<b>ford.</b>|<b>Porter Robinson</b>|
 
-Updated at `Tue Jun 22 2021 00:55:55 GMT+0000`
+Updated at `Wed Jun 23 2021 00:51:57 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
 <!-- table song start -->
-|<img src="https://i.scdn.co/image/ab67616d00001e02baf6652226fded131e43e80f">|<img src="https://i.scdn.co/image/ab67616d00001e027cb744b7588fdcf838407c50">|<img src="https://i.scdn.co/image/ab67616d00001e028d2c6fa63d72dd37a04f1df7">|<img src="https://i.scdn.co/image/ab67616d00001e02113ef593aa679b556f0659b2">|<img src="https://i.scdn.co/image/ab67616d00001e02d7f88aacdc8b214df5ccf7ba">|
+|<img src="https://i.scdn.co/image/ab67616d00001e027cb744b7588fdcf838407c50">|<img src="https://i.scdn.co/image/ab67616d00001e02baf6652226fded131e43e80f">|<img src="https://i.scdn.co/image/ab67616d00001e028d2c6fa63d72dd37a04f1df7">|<img src="https://i.scdn.co/image/ab67616d00001e02113ef593aa679b556f0659b2">|<img src="https://i.scdn.co/image/ab67616d00001e028a076ce10ff7a8b42c3a532f">|
 | :---: | :---: | :---: | :---: | :---: |
-|<p><b>4:38am</b></p> ford., Barrie|<p><b>ฤดู</b></p> Dept|<p><b>หรือไม่ใช่</b></p> Dept|<p><b>Overdose (with HONNE)</b></p> SG Lewis, HONNE|<p><b>ลา ลา ลา</b></p> Dept|
+|<p><b>ฤดู</b></p> Dept|<p><b>4:38am</b></p> ford., Barrie|<p><b>หรือไม่ใช่</b></p> Dept|<p><b>Overdose (with HONNE)</b></p> SG Lewis, HONNE|<p><b>คนโปรด</b></p> Pearpilincys|
 
-Updated at `Tue Jun 22 2021 00:55:55 GMT+0000`
+Updated at `Wed Jun 23 2021 00:51:57 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
