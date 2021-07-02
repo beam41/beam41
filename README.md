@@ -7,7 +7,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>TEMPOREX</b>|<b>Porter Robinson</b>|<b>CASTLEBEAT</b>|<b>Joji</b>|<b>HONNE</b>|
 
-Updated at `Thu Jul 01 2021 01:02:14 GMT+0000`
+Updated at `Fri Jul 02 2021 00:58:43 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Thu Jul 01 2021 01:02:14 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>Bad Pin</b></p> TEMPOREX|<p><b>New Lane</b></p> TEMPOREX|<p><b>GUI</b></p> TEMPOREX|<p><b>Milton Post</b></p> TEMPOREX|<p><b>Delayed</b></p> TEMPOREX|
 
-Updated at `Thu Jul 01 2021 01:02:14 GMT+0000`
+Updated at `Fri Jul 02 2021 00:58:43 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
