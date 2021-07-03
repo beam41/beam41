@@ -7,16 +7,16 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>TEMPOREX</b>|<b>Porter Robinson</b>|<b>CASTLEBEAT</b>|<b>Joji</b>|<b>HONNE</b>|
 
-Updated at `Fri Jul 02 2021 00:58:43 GMT+0000`
+Updated at `Sat Jul 03 2021 00:57:31 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
 <!-- table song start -->
-|<img src="https://i.scdn.co/image/ab67616d00001e0248fd6cc2c48544ee665c6ea2">|<img src="https://i.scdn.co/image/ab67616d00001e0248fd6cc2c48544ee665c6ea2">|<img src="https://i.scdn.co/image/ab67616d00001e0248fd6cc2c48544ee665c6ea2">|<img src="https://i.scdn.co/image/ab67616d00001e0248fd6cc2c48544ee665c6ea2">|<img src="https://i.scdn.co/image/ab67616d00001e0248fd6cc2c48544ee665c6ea2">|
+|<img src="https://i.scdn.co/image/ab67616d00001e0248fd6cc2c48544ee665c6ea2">|<img src="https://i.scdn.co/image/ab67616d00001e0267cc416f726062916b7e1f4b">|<img src="https://i.scdn.co/image/ab67616d00001e0248fd6cc2c48544ee665c6ea2">|<img src="https://i.scdn.co/image/ab67616d00001e0248fd6cc2c48544ee665c6ea2">|<img src="https://i.scdn.co/image/ab67616d00001e0248fd6cc2c48544ee665c6ea2">|
 | :---: | :---: | :---: | :---: | :---: |
-|<p><b>Bad Pin</b></p> TEMPOREX|<p><b>New Lane</b></p> TEMPOREX|<p><b>GUI</b></p> TEMPOREX|<p><b>Milton Post</b></p> TEMPOREX|<p><b>Delayed</b></p> TEMPOREX|
+|<p><b>Bad Pin</b></p> TEMPOREX|<p><b>ขอให้โลกนี้ใจดีกับเธอ</b></p> Anatomy Rabbit|<p><b>New Lane</b></p> TEMPOREX|<p><b>GUI</b></p> TEMPOREX|<p><b>Milton Post</b></p> TEMPOREX|
 
-Updated at `Fri Jul 02 2021 00:58:43 GMT+0000`
+Updated at `Sat Jul 03 2021 00:57:31 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
