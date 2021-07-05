@@ -3,11 +3,11 @@
 
 ## My top 5 artist right now!
 <!-- table start -->
-|<img src="https://i.scdn.co/image/ab6761610000f178b92dcb3d365b9860bf0859dd">|<img src="https://i.scdn.co/image/ab6761610000f1781804f56bdcb9322c5f3f8f21">|<img src="https://i.scdn.co/image/ab6761610000f1783305407b0ad464b7414f187a">|<img src="https://i.scdn.co/image/50c504c91a2ccd2b5f39837e6261463267b858a2">|<img src="https://i.scdn.co/image/ab6761610000f178c8db673b6abf599da60d633b">|
+|<img src="https://i.scdn.co/image/ab6761610000f178b92dcb3d365b9860bf0859dd">|<img src="https://i.scdn.co/image/ab6761610000f1781804f56bdcb9322c5f3f8f21">|<img src="https://i.scdn.co/image/ab6761610000f1783305407b0ad464b7414f187a">|<img src="https://i.scdn.co/image/ab6761610000f17828f8b68ea703b22fc0c8be11">|<img src="https://i.scdn.co/image/ab6761610000f178c8db673b6abf599da60d633b">|
 | :---: | :---: | :---: | :---: | :---: |
 |<b>TEMPOREX</b>|<b>Porter Robinson</b>|<b>CASTLEBEAT</b>|<b>Joji</b>|<b>HONNE</b>|
 
-Updated at `Sun Jul 04 2021 01:00:18 GMT+0000`
+Updated at `Mon Jul 05 2021 00:57:46 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Sun Jul 04 2021 01:00:18 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>ขอให้โลกนี้ใจดีกับเธอ</b></p> Anatomy Rabbit|<p><b>Bad Pin</b></p> TEMPOREX|<p><b>Summertime</b></p> YEW, LANDOKMAI|<p><b>New Lane</b></p> TEMPOREX|<p><b>GUI</b></p> TEMPOREX|
 
-Updated at `Sun Jul 04 2021 01:00:18 GMT+0000`
+Updated at `Mon Jul 05 2021 00:57:46 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
