@@ -7,16 +7,16 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>TEMPOREX</b>|<b>HONNE</b>|<b>Joji</b>|<b>Porter Robinson</b>|<b>Chris Tilton</b>|
 
-Updated at `Thu Jul 08 2021 00:58:53 GMT+0000`
+Updated at `Fri Jul 09 2021 01:00:17 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
 <!-- table song start -->
-|<img src="https://i.scdn.co/image/ab67616d00001e0267cc416f726062916b7e1f4b">|<img src="https://i.scdn.co/image/ab67616d00001e02c29248d6b286136532981564">|<img src="https://i.scdn.co/image/ab67616d00001e0248fd6cc2c48544ee665c6ea2">|<img src="https://i.scdn.co/image/ab67616d00001e027cb744b7588fdcf838407c50">|<img src="https://i.scdn.co/image/ab67616d00001e027d6ac8b4a84ad4b342050d87">|
+|<img src="https://i.scdn.co/image/ab67616d00001e0267cc416f726062916b7e1f4b">|<img src="https://i.scdn.co/image/ab67616d00001e02c29248d6b286136532981564">|<img src="https://i.scdn.co/image/ab67616d00001e0248fd6cc2c48544ee665c6ea2">|<img src="https://i.scdn.co/image/ab67616d00001e027cb744b7588fdcf838407c50">|<img src="https://i.scdn.co/image/ab67616d00001e0248fd6cc2c48544ee665c6ea2">|
 | :---: | :---: | :---: | :---: | :---: |
-|<p><b>ขอให้โลกนี้ใจดีกับเธอ</b></p> Anatomy Rabbit|<p><b>Blue Postcard</b></p> Blackbeans|<p><b>Bad Pin</b></p> TEMPOREX|<p><b>ฤดู</b></p> Dept|<p><b>Get Your Wish</b></p> Porter Robinson|
+|<p><b>ขอให้โลกนี้ใจดีกับเธอ</b></p> Anatomy Rabbit|<p><b>Blue Postcard</b></p> Blackbeans|<p><b>Bad Pin</b></p> TEMPOREX|<p><b>ฤดู</b></p> Dept|<p><b>New Lane</b></p> TEMPOREX|
 
-Updated at `Thu Jul 08 2021 00:58:53 GMT+0000`
+Updated at `Fri Jul 09 2021 01:00:17 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
