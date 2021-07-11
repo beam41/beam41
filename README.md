@@ -7,7 +7,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>HONNE</b>|<b>Joji</b>|<b>Porter Robinson</b>|<b>Chris Tilton</b>|<b>J_ust</b>|
 
-Updated at `Sat Jul 10 2021 00:58:26 GMT+0000`
+Updated at `Sun Jul 11 2021 01:04:46 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Sat Jul 10 2021 00:58:26 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>ขอให้โลกนี้ใจดีกับเธอ</b></p> Anatomy Rabbit|<p><b>Blue Postcard</b></p> Blackbeans|<p><b>ฤดู</b></p> Dept|<p><b>Get Your Wish</b></p> Porter Robinson|<p><b>Summertime</b></p> YEW, LANDOKMAI|
 
-Updated at `Sat Jul 10 2021 00:58:26 GMT+0000`
+Updated at `Sun Jul 11 2021 01:04:46 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
