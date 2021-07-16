@@ -7,16 +7,16 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Foreign Gnomes</b>|<b>Anatomy Rabbit</b>|<b>Joji</b>|<b>HONNE</b>|<b>Dept</b>|
 
-Updated at `Thu Jul 15 2021 01:00:39 GMT+0000`
+Updated at `Fri Jul 16 2021 01:00:48 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
 <!-- table song start -->
-|<img src="https://i.scdn.co/image/ab67616d00001e0267cc416f726062916b7e1f4b">|<img src="https://i.scdn.co/image/ab67616d00001e02c29248d6b286136532981564">|<img src="https://i.scdn.co/image/ab67616d00001e02ad53d9f26c11d04b3ea99d90">|<img src="https://i.scdn.co/image/ab67616d00001e027cb744b7588fdcf838407c50">|<img src="https://i.scdn.co/image/ab67616d00001e027d6ac8b4a84ad4b342050d87">|
+|<img src="https://i.scdn.co/image/ab67616d00001e0267cc416f726062916b7e1f4b">|<img src="https://i.scdn.co/image/ab67616d00001e027cb744b7588fdcf838407c50">|<img src="https://i.scdn.co/image/ab67616d00001e02c29248d6b286136532981564">|<img src="https://i.scdn.co/image/ab67616d00001e02ad53d9f26c11d04b3ea99d90">|<img src="https://i.scdn.co/image/ab67616d00001e02f6dd88a85846f9b3657894b3">|
 | :---: | :---: | :---: | :---: | :---: |
-|<p><b>ขอให้โลกนี้ใจดีกับเธอ</b></p> Anatomy Rabbit|<p><b>Blue Postcard</b></p> Blackbeans|<p><b>sucker</b></p> kwassa|<p><b>ฤดู</b></p> Dept|<p><b>Get Your Wish</b></p> Porter Robinson|
+|<p><b>ขอให้โลกนี้ใจดีกับเธอ</b></p> Anatomy Rabbit|<p><b>ฤดู</b></p> Dept|<p><b>Blue Postcard</b></p> Blackbeans|<p><b>sucker</b></p> kwassa|<p><b>รักจางๆที่อ่างแม่ต๋ำ</b></p> YENTED|
 
-Updated at `Thu Jul 15 2021 01:00:39 GMT+0000`
+Updated at `Fri Jul 16 2021 01:00:48 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
