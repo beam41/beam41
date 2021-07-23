@@ -7,7 +7,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Foreign Gnomes</b>|<b>Anatomy Rabbit</b>|<b>Dept</b>|<b>HONNE</b>|<b>J.J. Ipsen</b>|
 
-Updated at `Thu Jul 22 2021 01:02:06 GMT+0000`
+Updated at `Fri Jul 23 2021 01:01:03 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Thu Jul 22 2021 01:02:06 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>ขอให้โลกนี้ใจดีกับเธอ</b></p> Anatomy Rabbit|<p><b>ฤดู</b></p> Dept|<p><b>Summertime</b></p> YEW, LANDOKMAI|<p><b>รักจางๆที่อ่างแม่ต๋ำ</b></p> YENTED|<p><b>Blue Postcard</b></p> Blackbeans|
 
-Updated at `Thu Jul 22 2021 01:02:06 GMT+0000`
+Updated at `Fri Jul 23 2021 01:01:03 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
