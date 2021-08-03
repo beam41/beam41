@@ -7,7 +7,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Foreign Gnomes</b>|<b>Porter Robinson</b>|<b>J.J. Ipsen</b>|<b>HONNE</b>|<b>Safeplanet</b>|
 
-Updated at `Mon Aug 02 2021 00:59:59 GMT+0000`
+Updated at `Tue Aug 03 2021 01:04:34 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Mon Aug 02 2021 00:59:59 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>หากจะเพียงขอ(Sincare)</b></p> PURPEECH|<p><b>รักจางๆที่อ่างแม่ต๋ำ</b></p> YENTED|<p><b>ฤดู</b></p> Dept|<p><b>Shelter</b></p> Porter Robinson, Madeon|<p><b>ลา ลา ลา</b></p> Dept|
 
-Updated at `Mon Aug 02 2021 00:59:59 GMT+0000`
+Updated at `Tue Aug 03 2021 01:04:34 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
