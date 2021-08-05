@@ -3,11 +3,11 @@
 
 ## My top 5 artist right now!
 <!-- table start -->
-|<img src="https://i.scdn.co/image/ab67616d000048513c14b06daaa6a9973d64b866">|<img src="https://i.scdn.co/image/ab6761610000f1781804f56bdcb9322c5f3f8f21">|<img src="https://i.scdn.co/image/ab67616d0000485102c6817446ea4c93f2e0fdee">|<img src="https://i.scdn.co/image/ab6761610000f1784bbf2110a82258ee54a3791e">|<img src="https://i.scdn.co/image/ab6761610000f178001da630489c592d46065c1b">|
+|<img src="https://i.scdn.co/image/ab6761610000f1781804f56bdcb9322c5f3f8f21">|<img src="https://i.scdn.co/image/ab67616d0000485102c6817446ea4c93f2e0fdee">|<img src="https://i.scdn.co/image/ab67616d000048513c14b06daaa6a9973d64b866">|<img src="https://i.scdn.co/image/ab6761610000f1784bbf2110a82258ee54a3791e">|<img src="https://i.scdn.co/image/ab6761610000f178001da630489c592d46065c1b">|
 | :---: | :---: | :---: | :---: | :---: |
-|<b>Foreign Gnomes</b>|<b>Porter Robinson</b>|<b>J.J. Ipsen</b>|<b>Safeplanet</b>|<b>Anatomy Rabbit</b>|
+|<b>Porter Robinson</b>|<b>J.J. Ipsen</b>|<b>Foreign Gnomes</b>|<b>Safeplanet</b>|<b>Anatomy Rabbit</b>|
 
-Updated at `Wed Aug 04 2021 00:59:38 GMT+0000`
+Updated at `Thu Aug 05 2021 01:00:56 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Wed Aug 04 2021 00:59:38 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>หากจะเพียงขอ(Sincare)</b></p> PURPEECH|<p><b>รักจางๆที่อ่างแม่ต๋ำ</b></p> YENTED|<p><b>ฤดู</b></p> Dept|<p><b>ลา ลา ลา</b></p> Dept|<p><b>Shelter</b></p> Porter Robinson, Madeon|
 
-Updated at `Wed Aug 04 2021 00:59:38 GMT+0000`
+Updated at `Thu Aug 05 2021 01:00:56 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
