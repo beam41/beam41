@@ -7,16 +7,16 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Porter Robinson</b>|<b>Arnaud Roy</b>|<b>Jim Guthrie</b>|<b>92914</b>|<b>Far Caspian</b>|
 
-Updated at `Wed Aug 25 2021 00:58:37 GMT+0000`
+Updated at `Thu Aug 26 2021 00:56:30 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
 <!-- table song start -->
-|<img src="https://i.scdn.co/image/ab67616d00001e0284b9b765df0a88c0884b16ef">|<img src="https://i.scdn.co/image/ab67616d00001e027d6ac8b4a84ad4b342050d87">|<img src="https://i.scdn.co/image/ab67616d00001e02efdfb2b0824a74c7fe1be195">|<img src="https://i.scdn.co/image/ab67616d00001e027d6ac8b4a84ad4b342050d87">|<img src="https://i.scdn.co/image/ab67616d00001e02dbbdb2f6843714b3daa043a0">|
+|<img src="https://i.scdn.co/image/ab67616d00001e0284b9b765df0a88c0884b16ef">|<img src="https://i.scdn.co/image/ab67616d00001e027d6ac8b4a84ad4b342050d87">|<img src="https://i.scdn.co/image/ab67616d00001e027d6ac8b4a84ad4b342050d87">|<img src="https://i.scdn.co/image/ab67616d00001e02efdfb2b0824a74c7fe1be195">|<img src="https://i.scdn.co/image/ab67616d00001e027d6ac8b4a84ad4b342050d87">|
 | :---: | :---: | :---: | :---: | :---: |
-|<p><b>Humankind (Main Title)</b></p> Arnaud Roy|<p><b>Musician</b></p> Porter Robinson|<p><b>หากจะเพียงขอ(Sincare)</b></p> PURPEECH|<p><b>Lifelike</b></p> Porter Robinson|<p><b>4:38am (feat. Barrie)</b></p> ford., Barrie|
+|<p><b>Humankind (Main Title)</b></p> Arnaud Roy|<p><b>Musician</b></p> Porter Robinson|<p><b>Look at the Sky</b></p> Porter Robinson|<p><b>หากจะเพียงขอ(Sincare)</b></p> PURPEECH|<p><b>Lifelike</b></p> Porter Robinson|
 
-Updated at `Wed Aug 25 2021 00:58:37 GMT+0000`
+Updated at `Thu Aug 26 2021 00:56:30 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
