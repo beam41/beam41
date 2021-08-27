@@ -3,11 +3,11 @@
 
 ## My top 5 artist right now!
 <!-- table start -->
-|<img src="https://i.scdn.co/image/ab6761610000f1781804f56bdcb9322c5f3f8f21">|<img src="https://i.scdn.co/image/ab6761610000f178c0e28855b7d287869a92cf7f">|<img src="https://i.scdn.co/image/ab6761610000f178e1d9183afe7b4808ca82f24d">|<img src="https://i.scdn.co/image/ab6761610000f178afd62f2620ac80d1c7dd41e7">|<img src="https://i.scdn.co/image/ab6761610000f178921caa2d5d39c74def6fb13e">|
+|<img src="https://i.scdn.co/image/ab6761610000f1781804f56bdcb9322c5f3f8f21">|<img src="https://i.scdn.co/image/ab6761610000f178c0e28855b7d287869a92cf7f">|<img src="https://i.scdn.co/image/ab6761610000f178e1d9183afe7b4808ca82f24d">|<img src="https://i.scdn.co/image/ab6761610000f17828f8b68ea703b22fc0c8be11">|<img src="https://i.scdn.co/image/ab6761610000f178afd62f2620ac80d1c7dd41e7">|
 | :---: | :---: | :---: | :---: | :---: |
-|<b>Porter Robinson</b>|<b>Arnaud Roy</b>|<b>Jim Guthrie</b>|<b>92914</b>|<b>Far Caspian</b>|
+|<b>Porter Robinson</b>|<b>Arnaud Roy</b>|<b>Jim Guthrie</b>|<b>Joji</b>|<b>92914</b>|
 
-Updated at `Thu Aug 26 2021 00:56:30 GMT+0000`
+Updated at `Fri Aug 27 2021 01:02:57 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Thu Aug 26 2021 00:56:30 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>Humankind (Main Title)</b></p> Arnaud Roy|<p><b>Musician</b></p> Porter Robinson|<p><b>Look at the Sky</b></p> Porter Robinson|<p><b>หากจะเพียงขอ(Sincare)</b></p> PURPEECH|<p><b>Lifelike</b></p> Porter Robinson|
 
-Updated at `Thu Aug 26 2021 00:56:30 GMT+0000`
+Updated at `Fri Aug 27 2021 01:02:57 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
