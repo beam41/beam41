@@ -7,7 +7,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Porter Robinson</b>|<b>Arnaud Roy</b>|<b>Jim Guthrie</b>|<b>Joji</b>|<b>92914</b>|
 
-Updated at `Fri Aug 27 2021 01:02:57 GMT+0000`
+Updated at `Sat Aug 28 2021 00:55:56 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Fri Aug 27 2021 01:02:57 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>Humankind (Main Title)</b></p> Arnaud Roy|<p><b>Musician</b></p> Porter Robinson|<p><b>Look at the Sky</b></p> Porter Robinson|<p><b>หากจะเพียงขอ(Sincare)</b></p> PURPEECH|<p><b>Lifelike</b></p> Porter Robinson|
 
-Updated at `Fri Aug 27 2021 01:02:57 GMT+0000`
+Updated at `Sat Aug 28 2021 00:55:56 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
