@@ -7,7 +7,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Porter Robinson</b>|<b>Arnaud Roy</b>|<b>Jim Guthrie</b>|<b>Joji</b>|<b>HONNE</b>|
 
-Updated at `Mon Sep 06 2021 01:07:02 GMT+0000`
+Updated at `Tue Sep 07 2021 00:58:39 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Mon Sep 06 2021 01:07:02 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>Musician</b></p> Porter Robinson|<p><b>Humankind (Main Title)</b></p> Arnaud Roy|<p><b>Look at the Sky</b></p> Porter Robinson|<p><b>Lifelike</b></p> Porter Robinson|<p><b>Mother</b></p> Porter Robinson|
 
-Updated at `Mon Sep 06 2021 01:07:03 GMT+0000`
+Updated at `Tue Sep 07 2021 00:58:39 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
