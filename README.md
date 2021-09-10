@@ -7,16 +7,16 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Porter Robinson</b>|<b>Arnaud Roy</b>|<b>ODESZA</b>|<b>Joji</b>|<b>HONNE</b>|
 
-Updated at `Thu Sep 09 2021 01:03:35 GMT+0000`
+Updated at `Fri Sep 10 2021 01:04:21 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
 <!-- table song start -->
-|<img src="https://i.scdn.co/image/ab67616d00001e027d6ac8b4a84ad4b342050d87">|<img src="https://i.scdn.co/image/ab67616d00001e0284b9b765df0a88c0884b16ef">|<img src="https://i.scdn.co/image/ab67616d00001e02dbbdb2f6843714b3daa043a0">|<img src="https://i.scdn.co/image/ab67616d00001e0299a3a1c380019cdc2ba9b8c2">|<img src="https://i.scdn.co/image/ab67616d00001e027d6ac8b4a84ad4b342050d87">|
+|<img src="https://i.scdn.co/image/ab67616d00001e027d6ac8b4a84ad4b342050d87">|<img src="https://i.scdn.co/image/ab67616d00001e02dbbdb2f6843714b3daa043a0">|<img src="https://i.scdn.co/image/ab67616d00001e0284b9b765df0a88c0884b16ef">|<img src="https://i.scdn.co/image/ab67616d00001e0299a3a1c380019cdc2ba9b8c2">|<img src="https://i.scdn.co/image/ab67616d00001e027d6ac8b4a84ad4b342050d87">|
 | :---: | :---: | :---: | :---: | :---: |
-|<p><b>Musician</b></p> Porter Robinson|<p><b>Humankind (Main Title)</b></p> Arnaud Roy|<p><b>4:38am (feat. Barrie)</b></p> ford., Barrie|<p><b>A Moment Apart</b></p> ODESZA|<p><b>Look at the Sky</b></p> Porter Robinson|
+|<p><b>Musician</b></p> Porter Robinson|<p><b>4:38am (feat. Barrie)</b></p> ford., Barrie|<p><b>Humankind (Main Title)</b></p> Arnaud Roy|<p><b>A Moment Apart</b></p> ODESZA|<p><b>Look at the Sky</b></p> Porter Robinson|
 
-Updated at `Thu Sep 09 2021 01:03:36 GMT+0000`
+Updated at `Fri Sep 10 2021 01:04:21 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
