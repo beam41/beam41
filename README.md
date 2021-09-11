@@ -3,11 +3,11 @@
 
 ## My top 5 artist right now!
 <!-- table start -->
-|<img src="https://i.scdn.co/image/ab6761610000f1781804f56bdcb9322c5f3f8f21">|<img src="https://i.scdn.co/image/ab6761610000f178c0e28855b7d287869a92cf7f">|<img src="https://i.scdn.co/image/ab6761610000f17870cc86dd8a11e2d4383d6852">|<img src="https://i.scdn.co/image/ab6761610000f17828f8b68ea703b22fc0c8be11">|<img src="https://i.scdn.co/image/ab6761610000f178c8db673b6abf599da60d633b">|
+|<img src="https://i.scdn.co/image/ab6761610000f1781804f56bdcb9322c5f3f8f21">|<img src="https://i.scdn.co/image/ab6761610000f178c0e28855b7d287869a92cf7f">|<img src="https://i.scdn.co/image/ab6761610000f17870cc86dd8a11e2d4383d6852">|<img src="https://i.scdn.co/image/ab6761610000f178f147ebb52847d4746bccede1">|<img src="https://i.scdn.co/image/ab6761610000f17828f8b68ea703b22fc0c8be11">|
 | :---: | :---: | :---: | :---: | :---: |
-|<b>Porter Robinson</b>|<b>Arnaud Roy</b>|<b>ODESZA</b>|<b>Joji</b>|<b>HONNE</b>|
+|<b>Porter Robinson</b>|<b>Arnaud Roy</b>|<b>ODESZA</b>|<b>ford.</b>|<b>Joji</b>|
 
-Updated at `Fri Sep 10 2021 01:04:21 GMT+0000`
+Updated at `Sat Sep 11 2021 00:59:58 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Fri Sep 10 2021 01:04:21 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>Musician</b></p> Porter Robinson|<p><b>4:38am (feat. Barrie)</b></p> ford., Barrie|<p><b>Humankind (Main Title)</b></p> Arnaud Roy|<p><b>A Moment Apart</b></p> ODESZA|<p><b>Look at the Sky</b></p> Porter Robinson|
 
-Updated at `Fri Sep 10 2021 01:04:21 GMT+0000`
+Updated at `Sat Sep 11 2021 00:59:59 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
