@@ -7,7 +7,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Porter Robinson</b>|<b>Arnaud Roy</b>|<b>ODESZA</b>|<b>ford.</b>|<b>Joji</b>|
 
-Updated at `Sat Sep 11 2021 00:59:58 GMT+0000`
+Updated at `Sun Sep 12 2021 01:03:35 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Sat Sep 11 2021 00:59:58 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>Musician</b></p> Porter Robinson|<p><b>4:38am (feat. Barrie)</b></p> ford., Barrie|<p><b>Humankind (Main Title)</b></p> Arnaud Roy|<p><b>A Moment Apart</b></p> ODESZA|<p><b>Look at the Sky</b></p> Porter Robinson|
 
-Updated at `Sat Sep 11 2021 00:59:59 GMT+0000`
+Updated at `Sun Sep 12 2021 01:03:35 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
