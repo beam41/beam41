@@ -3,11 +3,11 @@
 
 ## My top 5 artist right now!
 <!-- table start -->
-|<img src="https://i.scdn.co/image/ab6761610000f1781804f56bdcb9322c5f3f8f21">|<img src="https://i.scdn.co/image/ab6761610000f178f147ebb52847d4746bccede1">|<img src="https://i.scdn.co/image/ab6761610000f17870cc86dd8a11e2d4383d6852">|<img src="https://i.scdn.co/image/ab6761610000f178272c9d3c142281308934675f">|<img src="https://i.scdn.co/image/ab6761610000f178c8db673b6abf599da60d633b">|
+|<img src="https://i.scdn.co/image/ab6761610000f1781804f56bdcb9322c5f3f8f21">|<img src="https://i.scdn.co/image/ab6761610000f178f147ebb52847d4746bccede1">|<img src="https://i.scdn.co/image/ab6761610000f17870cc86dd8a11e2d4383d6852">|<img src="https://i.scdn.co/image/ab6761610000f178d395cc1fc2b37c9a2c049061">|<img src="https://i.scdn.co/image/ab6761610000f178272c9d3c142281308934675f">|
 | :---: | :---: | :---: | :---: | :---: |
-|<b>Porter Robinson</b>|<b>ford.</b>|<b>ODESZA</b>|<b>Chet Porter</b>|<b>HONNE</b>|
+|<b>Porter Robinson</b>|<b>ford.</b>|<b>ODESZA</b>|<b>Andrew Prahlow</b>|<b>Chet Porter</b>|
 
-Updated at `Sun Sep 19 2021 01:02:48 GMT+0000`
+Updated at `Mon Sep 20 2021 01:04:39 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Sun Sep 19 2021 01:02:48 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>4:38am (feat. Barrie)</b></p> ford., Barrie|<p><b>Overdose (with HONNE)</b></p> SG Lewis, HONNE|<p><b>Musician</b></p> Porter Robinson|<p><b>A Moment Apart</b></p> ODESZA|<p><b>COMING HOME (feat. NIKI)</b></p> HONNE, NIKI|
 
-Updated at `Sun Sep 19 2021 01:02:48 GMT+0000`
+Updated at `Mon Sep 20 2021 01:04:39 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
