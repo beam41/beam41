@@ -7,7 +7,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>ford.</b>|<b>Porter Robinson</b>|<b>ODESZA</b>|<b>Andrew Prahlow</b>|<b>Kidswaste</b>|
 
-Updated at `Wed Sep 22 2021 01:04:09 GMT+0000`
+Updated at `Thu Sep 23 2021 01:06:03 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Wed Sep 22 2021 01:04:09 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>4:38am (feat. Barrie)</b></p> ford., Barrie|<p><b>Overdose (with HONNE)</b></p> SG Lewis, HONNE|<p><b>A Moment Apart</b></p> ODESZA|<p><b>Outer Wilds</b></p> Andrew Prahlow|<p><b>Space</b></p> Andrew Prahlow|
 
-Updated at `Wed Sep 22 2021 01:04:09 GMT+0000`
+Updated at `Thu Sep 23 2021 01:06:03 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
