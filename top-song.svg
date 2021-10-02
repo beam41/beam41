@@ -1,0 +1,48 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  viewBox="0 0 300 400"
+  height="400px"
+>
+  <defs>
+    <rect id="imgClipRect" x="16" y="16" width="268" height="268" rx="4" />
+    <clipPath id="imgClip">
+      <use xlink:href="#imgClipRect" />
+    </clipPath>
+  </defs>
+
+  <rect x="0" width="300" height="400" rx="4" fill="#21262d" />
+
+  <image
+    href="https://i.scdn.co/image/ab67616d00001e02db6b8ae97f69fee1d432334d"
+    x="16"
+    y="16"
+    width="268"
+    height="268"
+    rx="4"
+    clip-path="url(#imgClip)"
+  />
+  <text
+    x="50%"
+    y="316"
+    fill="white"
+    font-family="Arial"
+    dominant-baseline="hanging"
+    text-anchor="middle"
+    font-size="18"
+    font-weight="600"
+  >
+    Outer Wilds
+  </text>
+  <text
+    x="50%"
+    y="356"
+    fill="white"
+    font-family="Arial"
+    dominant-baseline="hanging"
+    text-anchor="middle"
+    font-size="16"
+  >
+    Andrew Prahlow
+  </text>
+</svg>
