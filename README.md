@@ -4,7 +4,7 @@
 <h2 align="center">Currently listening to</h2>
 
 <p align="center">
-    <img src="https://github.com/beam41/beam41/raw/new-top-list/top-song.svg" height="400" align="center"/>
+    <img src="https://github.com/beam41/beam41/raw/new-top-list/top-song.svg" height="400"/>
 </p>
 ---
 
