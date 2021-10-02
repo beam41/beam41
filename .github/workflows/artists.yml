@@ -1,10 +1,6 @@
-on: 
+on:
   push:
-    branches:
-      - master
   pull_request:
-    branches:
-      - master
   schedule:
     - cron: '0 0 * * *'
 
@@ -17,31 +13,24 @@ jobs:
         uses: actions/checkout@main
         with:
           persist-credentials: false
-      - name: Read README
-        id: readFile
-        uses: juliangruber/read-file-action@v1
-        with:
-          path: ./README.md
       - name: Get info from Spotify and write new readme
         id: spotify
-        uses: beam41/spotify-listening@master
+        uses: beam41/spotify-listening-svg@dev
         with:
-          content: ${{ steps.readFile.outputs.content }}
+          rawBasePath: https://raw.githubusercontent.com/beam41/beam41/master/
+          baseSvgPath: ./base.svg
           token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
           clientId: ${{ secrets.SPOTIFY_CLIENT_ID }}
           cliSecret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-      - name: Get new readme data and create file
-        uses: DamianReeves/write-file-action@v1.0
-        with:
-          path: ./README.md
-          contents: ${{ steps.spotify.outputs.content }}
-          write-mode: overwrite
       - name: Commit file
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git commit -m "Update Spotify data to readme" -a
+          git add .
+          git commit -m "Update Spotify data to readme"
       - name: Push change
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+          force: true
