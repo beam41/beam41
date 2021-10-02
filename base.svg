@@ -4,7 +4,7 @@
   viewBox="0 0 225 300"
 >
   <defs>
-    <rect id="imgClipRect" x="16" y="16" width="268" height="268" rx="4" />
+    <rect id="imgClipRect" x="16" y="16" width="225" height="300" rx="4" />
     <clipPath id="imgClip">
       <use xlink:href="#imgClipRect" />
     </clipPath>
