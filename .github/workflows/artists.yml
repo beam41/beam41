@@ -16,6 +16,7 @@ jobs:
         id: spotify
         uses: beam41/spotify-listening-svg@dev
         with:
+          imgHeight: 300
           rawBasePath: https://raw.githubusercontent.com/beam41/beam41/master/
           baseSvgPath: ./base.svg
           token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
