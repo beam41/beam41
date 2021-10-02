@@ -7,7 +7,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |<b>Coldplay</b>|<b>Andrew Prahlow</b>|<b>ODESZA</b>|<b>Porter Robinson</b>|<b>Jeremy Zucker</b>|
 
-Updated at `Fri Oct 01 2021 01:07:09 GMT+0000`
+Updated at `Sat Oct 02 2021 01:01:39 GMT+0000`
 <!-- table end -->
 
 ## And my top 5 song
@@ -16,7 +16,7 @@ Updated at `Fri Oct 01 2021 01:07:09 GMT+0000`
 | :---: | :---: | :---: | :---: | :---: |
 |<p><b>Outer Wilds</b></p> Andrew Prahlow|<p><b>Overdose (with HONNE)</b></p> SG Lewis, HONNE|<p><b>My Universe</b></p> Coldplay, BTS|<p><b>4:38am (feat. Barrie)</b></p> ford., Barrie|<p><b>Timber Hearth</b></p> Andrew Prahlow|
 
-Updated at `Fri Oct 01 2021 01:07:09 GMT+0000`
+Updated at `Sat Oct 02 2021 01:01:39 GMT+0000`
 <!-- table song end -->
 
 This top 5 is auto generated with help from [My own GitHub action](https://github.com/beam41/spotify-listening)
