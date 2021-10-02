@@ -14,7 +14,7 @@ jobs:
           persist-credentials: false
       - name: Get info from Spotify and write new readme
         id: spotify
-        uses: beam41/spotify-listening-svg@dev
+        uses: beam41/spotify-listening-svg@main
         with:
           imgHeight: 300
           rawBasePath: https://raw.githubusercontent.com/beam41/beam41/master/
