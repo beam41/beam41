@@ -17,6 +17,10 @@ jobs:
         uses: beam41/spotify-listening-svg@main
         with:
           imgHeight: 300
+          txtFont: Arial
+          txtFontSizeSong: 16
+          txtFontSizeArtist: 12
+          txtMaxWidth: 193
           rawBasePath: https://raw.githubusercontent.com/beam41/beam41/master/
           baseSvgPath: ./base.svg
           token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
