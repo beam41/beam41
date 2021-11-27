@@ -6,7 +6,7 @@
 <h1 align="center">Currently listening to</h1>
 
 <!-- spotify-listening-svg-start -->
-<p align="center"><a href="https://open.spotify.com/track/7gXY6hi9SOoYDkLQwgVSs1"><img src="https://raw.githubusercontent.com/beam41/beam41/master/top-song-1637888544919.svg" height="300"/></a></p>
+<p align="center"><a href="https://open.spotify.com/track/7gXY6hi9SOoYDkLQwgVSs1"><img src="https://raw.githubusercontent.com/beam41/beam41/master/top-song-1637974910318.svg" height="300"/></a></p>
 <!-- spotify-listening-svg-end -->
 
 
