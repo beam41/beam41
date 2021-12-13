@@ -9,6 +9,11 @@
 <p align="center"><a href="https://open.spotify.com/track/5W7rKNXaUZ6uyC85SlG2EF"><img src="https://raw.githubusercontent.com/beam41/beam41/master/top-song-1635210075213.svg" height="300"/></a></p>
 <!-- spotify-listening-svg-end -->
 
+---
+
+<h1 align="center">What I play last 2 weeks (on steam)</h1>
+<!-- steam-svg-start -->
+<!-- steam-svg-end -->
 
 
 <p align="center"><small>Powered by <a href="https://github.com/beam41/spotify-listening-svg">my GitHub action</a></small></p>

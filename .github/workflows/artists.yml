@@ -26,6 +26,13 @@ jobs:
           token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
           clientId: ${{ secrets.SPOTIFY_CLIENT_ID }}
           cliSecret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+      - name: Get info from steam and write new readme
+        id: steam
+        uses: beam41/steam-top-svg@main
+        with:
+          rawBasePath: https://raw.githubusercontent.com/beam41/beam41/master/
+          apiKey: ${{ secrets.STEAM_KEY }}
+          steamId: '76561198062644260'
       - name: Commit file
         run: |
           git config --local user.email "action@github.com"
