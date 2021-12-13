@@ -18,8 +18,8 @@
 <!-- steam-svg-end -->
 
 
-<p align="center"><small>Powered by <a href="https://github.com/beam41/spotify-listening-svg">my GitHub action</a></small></p>
+
 
 ---
 
-<p align="center"><b>Du schaffst das.</b></p>
+<p align="center"><small>Powered by <a href="https://github.com/beam41/spotify-listening-svg">my GitHub action</a></small></p>
