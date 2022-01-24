@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 233" height="233"
+    viewBox="0 0 225 297" height="297"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="233" rx="4" />
+        <rect x="0" y="0" width="225" height="297" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -165,7 +165,7 @@
     y="169"
     width="225"
     height="32"
-    fill="rgb(30, 29, 32)"
+    fill="rgb(226, 230, 236)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -174,11 +174,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(30, 29, 32)"
+    fill="rgb(226, 230, 236)"
     filter="url(#shadow169)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gOTAK/9sAQwADAgIDAgIDAwMDBAMDBAUIBQUEBAUKBwcGCAwKDAwLCgsLDQ4SEA0OEQ4LCxAWEBETFBUVFQwPFxgWFBgSFBUU/9sAQwEDBAQFBAUJBQUJFA0LDRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQU/8AAEQgAIAAgAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A/LO6urnUL6SSWSW4uJpCSxJZnYn9TX6Q/Fv9kP4dfsxfAK+ngnm1f4nLb6TBqGrHzLpNDmnurVpZJBEG+zIyNIkZ2GUjGN27mH/gn9+xN4Y8U6FN4w8dXslrdXtibvTtNkP2aae1wrPJHn5xGQyqZVwSJMKQp3SXv2mr7Vde0j4geORpyvp3i3UvCkn+iWl9aC0isVdJJJ/NSOGYu00KxvG83yBc7MjHBTxUatWVNLSNte+rT/L/ACOyVCUIKfc8U+G2h6prOjR2usX+sWchGY4dQt7q6WXLBQvywSgcHOXAHHXkCvO/il/wjGqeGX1PQL3SbLW9EkidRpy2lu8qF1Rtpg2CU5dGztLAK2cDdXut7ZfEHxx8MvENr4R0KLWrjVN1iNTGtafCIkI/egjzFbf5ThdjEY80N2wfm3U/2efGfwyaK+8V6Npum2+JWjjuNUs5pLgBDuEcaysZCuVOADjINe1JS5fhPNTV9z6a8U/tK3niHRPB8PgXQ0TxpomgNZveSXgtkszfW8DP5asyNM6eXEq5VozvYnJCsNb4W/CTxF+0JoK6FptvpdnfSSl9SUaTypgkhZ1jlJnQuZRt81PJ/wBVKn3Sd3w/pvjzU/DWv3E9/pVtf3SiC3lhu43iASGPylT90yFTgId4IbcgbOcmvp/4Jft3t8IDp02kWEtjstTEbCK6Y28B+0zSFW8xGebIk3BjJkF2yWzx48MOqbVl/W/57HputeFl9x6X+0V8LfEfw78UaeL6a+trr+zLWOR4tb0zT1eWOJYmbbM6vzsBJz39q89tvA/jTxJ8L/iRqVha6tq9hZ6cplebWrHUkjRS0rsvlSttOIwDjkjIGTxWH8X/ANu+5+LXjWLUfE3h2LWtHGVktbeSGOcKFcKIpZ7edEG5lJzGwIUgYJ3Dg5v2qNdhtPEPhnwRplzoPh/X4vsR02OeJ2ZGQod7Q28AkYlmIOxcA4x1J9d1rw8zzFT97yP/2Q=="
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD5ZxX6QfMn0T+zR8DNE8eaXpPifVnluWh8aaVpB05gpt7iCQ75lcYySRjoQMBsg5GPKxeIlTbhH+Vs66NNSXM+6Mf41/BzS/DvhjXfGumzG0tpvHOp6JZ6Uqjy4rWIloyp68YK/TFXQrynJU5fyp38xVIJJyXdniAFd5gIBVIk+9/2KPDWoax8D/Ds+l2L3jW3xLju70rgeXbpZIC5J7KWB+pr5zHzUa0lJ/Y/U9LDpuCt3Nq58L6bqfxG+HfgfxFolyyWPiHxP4i1qx1TT3FtPB5kslvIjOvlzIy7B8pbHRsVnztU51IPdRSs/v8AQrlTkoyXVs/PKV1eV2VAikkhByFHpX0p5p7l+yT4m0oeMdW8A+JNg8N+O7M6PNJIoYW90c/ZZxn+JXYgHsZM9q4MbCXIqsN46/Lqb0JK/I9mfa/7J3wr+IfwK+EXizTNXvNH0d7XVbq5gF/aPPE6LDGPP8xJkxG2zIyuQASeuB4GNrUcRVjKKb0X9bHfQhOnBpml8M/F/jLxn+yHJ4ou9a0cTPoF8yEWc88q+WkqZeZ7gln+TJOODxg4qasKcMXyJPdf1sOEpSo81+h+UeM/4V9ieQh0MrwSLJG7RyIQyspwVI6EGhkn6E+Bv23fCPxO+Flh4a+I+qHQL4FYNdna2kkTUrRFJYR+WrENKQiOuB8rSFT0x81Uy+pRqudFXXTyf/APTjiIzjyz+ZX+OP7TPgDwn8KPG+g/D/VrTVIfGSebZW1grILEzKI7wSIVHlAqu9V6l5n4AFPD4SrOrCVVW5fxtsFStCMWoPc/P4V9Geaj/9k="
     x="8"
     y="173"
     width="24"
@@ -188,25 +188,25 @@
   <text
     x="40"
     y="185"
-    fill="#c9d1d9"
+    fill="#24292f"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="start"
     font-size="11"
     font-weight="600"
   >
-    Euro Truck Simulat...
+    HUMANKIND™
   </text>
   <text
     x="217"
     y="185"
-    fill="#c9d1d9"
+    fill="#24292f"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="end"
     font-size="11"
   >
-    1.3h/302.7h
+    1.4h/162.7h
   </text><defs>
     <clipPath id="ico201">
       <rect x="8" y="205" width="24" height="24" rx="4" />
@@ -219,7 +219,7 @@
     y="201"
     width="225"
     height="32"
-    fill="rgb(22, 128, 93)"
+    fill="rgb(30, 29, 32)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -228,11 +228,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(22, 128, 93)"
+    fill="rgb(30, 29, 32)"
     filter="url(#shadow201)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAACAUHAQIG/8QALRAAAQMDAgQFBAMBAAAAAAAAAQIDBAUGEQchABIxQQgTIlFhIzNxgRQyQpH/xAAZAQEAAwEBAAAAAAAAAAAAAAAABQYHBAH/xAAqEQABAwMBBwQDAQAAAAAAAAABAAIDBAURIRITMUFRkaEGYYHRFCIysf/aAAwDAQACEQMRAD8AAOimiytQnVVKqKXHobK+X0bLkKHVKT2A7n9D4Kl+oL+LYNxBrIewH30S1suwYdOCKfbFv5cA+3BjFxw/JIBUfyeCyCaesuUmZHOefk+As3rp/EnpVAui3uVah9udGLbg+QSAofkcEhnrbbJmNzmH5Hgok616LK09dTUqWpcihvL5fXuuOo9EqPcHsf0fktf9P38XMbifSQdiPvqnz4bPDdTqzpyzVa9cLdqWlTnWqYiQGvMdlSlYylCfclQ3369NjwVLit4u8klwq5NhhdjPEk8gPCtyoaRUy86O5TdHtRo896Ag+dbzmYcmUtP9nCrYuKJzjI5QMAEcF2vtUdRHu7XUZ2eLf5J988/8UvbM2xLssUWBXZ9fj3jIlogJoVwASXYkpW3PHWQkoTnfdYB6EHPBdMLaKopvwpnO3hONl2pB6tOmB8oxa36KLp1p1FpNQjV+hSXXaaqZHSULjSkZ+k62rdCwRkdQcZBPBVoUslpnZVRODmtdjI5EcQRy07qZ8MHiopNtWQmi3TQhc9m1N1uoeS2oB6JJTj1oyRkgpG2Qcjr1yU9T1QtcklDVR7Ue1n3B5EeFzl1xJFFuNy57RkS3aG9KVIp9SjZS7HJUVBtzlP03E9CCd8ZGQeCg5oTHIZ6cnZJyCOI9j0ISGsvV1q6qDEvzVK1fIn2yptynXaw4mJKqDqT6GQ0pJEhXfOMDG+OCtMFUJ2Crr4/2j4P4EkcBjmqC158QNBkWXVodtUR+jUdyY5WZ0moyA9LnSyFBJUQAlCRzkBKR/rgopz2XCRtJTMwHOySTkk9egAGUGtMdUF2atUGaFvUtxXN6d1MqPUgdx7jgr3d7OK8b2PR48pDWlqKUkTLerrjDihuuFIU2v8EAg/8AeCzuSnqaJ2HAtK2vDUpx8/zLkuB6U4hOErnyVOrA9khRJ/Q4L1kFTWuw0Fx7o76naoLvJaYMILZpbaub1bKeUOhI7D2HBaHaLOKAb2TV58L/2Q=="
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gOTAK/9sAQwADAgIDAgIDAwMDBAMDBAUIBQUEBAUKBwcGCAwKDAwLCgsLDQ4SEA0OEQ4LCxAWEBETFBUVFQwPFxgWFBgSFBUU/9sAQwEDBAQFBAUJBQUJFA0LDRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQU/8AAEQgAIAAgAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A/LO6urnUL6SSWSW4uJpCSxJZnYn9TX6Q/Fv9kP4dfsxfAK+ngnm1f4nLb6TBqGrHzLpNDmnurVpZJBEG+zIyNIkZ2GUjGN27mH/gn9+xN4Y8U6FN4w8dXslrdXtibvTtNkP2aae1wrPJHn5xGQyqZVwSJMKQp3SXv2mr7Vde0j4geORpyvp3i3UvCkn+iWl9aC0isVdJJJ/NSOGYu00KxvG83yBc7MjHBTxUatWVNLSNte+rT/L/ACOyVCUIKfc8U+G2h6prOjR2usX+sWchGY4dQt7q6WXLBQvywSgcHOXAHHXkCvO/il/wjGqeGX1PQL3SbLW9EkidRpy2lu8qF1Rtpg2CU5dGztLAK2cDdXut7ZfEHxx8MvENr4R0KLWrjVN1iNTGtafCIkI/egjzFbf5ThdjEY80N2wfm3U/2efGfwyaK+8V6Npum2+JWjjuNUs5pLgBDuEcaysZCuVOADjINe1JS5fhPNTV9z6a8U/tK3niHRPB8PgXQ0TxpomgNZveSXgtkszfW8DP5asyNM6eXEq5VozvYnJCsNb4W/CTxF+0JoK6FptvpdnfSSl9SUaTypgkhZ1jlJnQuZRt81PJ/wBVKn3Sd3w/pvjzU/DWv3E9/pVtf3SiC3lhu43iASGPylT90yFTgId4IbcgbOcmvp/4Jft3t8IDp02kWEtjstTEbCK6Y28B+0zSFW8xGebIk3BjJkF2yWzx48MOqbVl/W/57HputeFl9x6X+0V8LfEfw78UaeL6a+trr+zLWOR4tb0zT1eWOJYmbbM6vzsBJz39q89tvA/jTxJ8L/iRqVha6tq9hZ6cplebWrHUkjRS0rsvlSttOIwDjkjIGTxWH8X/ANu+5+LXjWLUfE3h2LWtHGVktbeSGOcKFcKIpZ7edEG5lJzGwIUgYJ3Dg5v2qNdhtPEPhnwRplzoPh/X4vsR02OeJ2ZGQod7Q28AkYlmIOxcA4x1J9d1rw8zzFT97yP/2Q=="
     x="8"
     y="205"
     width="24"
@@ -249,11 +249,119 @@
     font-size="11"
     font-weight="600"
   >
-    Planet Zoo
+    Euro Truck Simulat...
   </text>
   <text
     x="217"
     y="217"
+    fill="#c9d1d9"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="end"
+    font-size="11"
+  >
+    1.3h/302.7h
+  </text><defs>
+    <clipPath id="ico233">
+      <rect x="8" y="237" width="24" height="24" rx="4" />
+    </clipPath>
+    <filter id='shadow233' color-interpolation-filters="sRGB">
+      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
+    </filter>
+  </defs>
+  <rect
+    y="233"
+    width="225"
+    height="32"
+    fill="rgb(213, 199, 113)"
+    clip-path="url(#fullCliping)"
+  />
+  <rect
+    x="8"
+    y="237"
+    width="24"
+    height="24"
+    rx="4"
+    fill="rgb(213, 199, 113)"
+    filter="url(#shadow233)"
+  />
+  <image
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gOTAK/9sAQwADAgIDAgIDAwMDBAMDBAUIBQUEBAUKBwcGCAwKDAwLCgsLDQ4SEA0OEQ4LCxAWEBETFBUVFQwPFxgWFBgSFBUU/9sAQwEDBAQFBAUJBQUJFA0LDRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQU/8AAEQgAIAAgAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A+GP2Xfhf4d+P3xi/4RTxdrmqaXPqcM0lnc2Ox3muFG/Y3mcfMgfHuAO9ch8cPhjefBz4l6z4YnaZ4baTfayzjDywNzGxxxnHBxxkGua8J+KdR8D+LNL8Q6TMbbU9Lu47y2l/uyRuGU/TIr78/wCCgvgzTPjR8FPAvx68LQL9mvLSNr1IhkxLIcOjH1im3L/wJjXz+IxGIwmY0uaV6NRctv5Z9Hfz29TshGFSlJJe8tfkfHH7OPwXv/2gPjBoPgu1nktYLt2mvrxF3fZrWNS0smPUKMDPVio71r/tJ/D7wx8E/iuPDvgvW9W1M6fHG9xeah5aOkx+YBRH0AUqeeea+u/2F/C1j+zz+y947+OniKIR3eswyWOlhuGNnEfnK/8AXWYBP+2a+tfnr4m8R3vi/wATahrepSebf6hcvczv6szZP4VdCtWxOYVOWX7qmrW7y6/ctCZRjCim17z/ACMmT77fU1+hn/BOrxxZ/Fb4SfEL4BeIXM8dxbS6npEZPO11CXMaHsclXHuWPavz5vbKezu5oJ4Xhmjcq8bqQVIPQiu3+BnxR1H4KfFjw140sFdpNKu1lliXjzoT8ssf/AkZh+Nb5rhJYzCTp0/j3j6rVf5EUJqnUUnsfY//AAUu+Jmm+E9A8G/BDwofs+iaFZQCaFGz8kQ2xq3qSwZie5VT3r8+4/vr9RXY/Frx7efFL4ja94ouw+/Ubp5Y0bny484jT8FCj8K5Sysp7y7hggheaaRwqRopJYk9AKvLcK8JhY05/E9Zer3/AMgrzVSba26H/9k="
+    x="8"
+    y="237"
+    width="24"
+    height="24"
+    clip-path="url(#ico233)"
+  />
+  <text
+    x="40"
+    y="249"
+    fill="#24292f"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="start"
+    font-size="11"
+    font-weight="600"
+  >
+    Sid Meier's Civilizati...
+  </text>
+  <text
+    x="217"
+    y="249"
+    fill="#24292f"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="end"
+    font-size="11"
+  >
+    1h/181.4h
+  </text><defs>
+    <clipPath id="ico265">
+      <rect x="8" y="269" width="24" height="24" rx="4" />
+    </clipPath>
+    <filter id='shadow265' color-interpolation-filters="sRGB">
+      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
+    </filter>
+  </defs>
+  <rect
+    y="265"
+    width="225"
+    height="32"
+    fill="rgb(22, 128, 93)"
+    clip-path="url(#fullCliping)"
+  />
+  <rect
+    x="8"
+    y="269"
+    width="24"
+    height="24"
+    rx="4"
+    fill="rgb(22, 128, 93)"
+    filter="url(#shadow265)"
+  />
+  <image
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAACAUHAQIG/8QALRAAAQMDAgQFBAMBAAAAAAAAAQIDBAUGEQchABIxQQgTIlFhIzNxgRQyQpH/xAAZAQEAAwEBAAAAAAAAAAAAAAAABQYHBAH/xAAqEQABAwMBBwQDAQAAAAAAAAABAAIDBAURIRITMUFRkaEGYYHRFCIysf/aAAwDAQACEQMRAD8AAOimiytQnVVKqKXHobK+X0bLkKHVKT2A7n9D4Kl+oL+LYNxBrIewH30S1suwYdOCKfbFv5cA+3BjFxw/JIBUfyeCyCaesuUmZHOefk+As3rp/EnpVAui3uVah9udGLbg+QSAofkcEhnrbbJmNzmH5Hgok616LK09dTUqWpcihvL5fXuuOo9EqPcHsf0fktf9P38XMbifSQdiPvqnz4bPDdTqzpyzVa9cLdqWlTnWqYiQGvMdlSlYylCfclQ3369NjwVLit4u8klwq5NhhdjPEk8gPCtyoaRUy86O5TdHtRo896Ag+dbzmYcmUtP9nCrYuKJzjI5QMAEcF2vtUdRHu7XUZ2eLf5J988/8UvbM2xLssUWBXZ9fj3jIlogJoVwASXYkpW3PHWQkoTnfdYB6EHPBdMLaKopvwpnO3hONl2pB6tOmB8oxa36KLp1p1FpNQjV+hSXXaaqZHSULjSkZ+k62rdCwRkdQcZBPBVoUslpnZVRODmtdjI5EcQRy07qZ8MHiopNtWQmi3TQhc9m1N1uoeS2oB6JJTj1oyRkgpG2Qcjr1yU9T1QtcklDVR7Ue1n3B5EeFzl1xJFFuNy57RkS3aG9KVIp9SjZS7HJUVBtzlP03E9CCd8ZGQeCg5oTHIZ6cnZJyCOI9j0ISGsvV1q6qDEvzVK1fIn2yptynXaw4mJKqDqT6GQ0pJEhXfOMDG+OCtMFUJ2Crr4/2j4P4EkcBjmqC158QNBkWXVodtUR+jUdyY5WZ0moyA9LnSyFBJUQAlCRzkBKR/rgopz2XCRtJTMwHOySTkk9egAGUGtMdUF2atUGaFvUtxXN6d1MqPUgdx7jgr3d7OK8b2PR48pDWlqKUkTLerrjDihuuFIU2v8EAg/8AeCzuSnqaJ2HAtK2vDUpx8/zLkuB6U4hOErnyVOrA9khRJ/Q4L1kFTWuw0Fx7o76naoLvJaYMILZpbaub1bKeUOhI7D2HBaHaLOKAb2TV58L/2Q=="
+    x="8"
+    y="269"
+    width="24"
+    height="24"
+    clip-path="url(#ico265)"
+  />
+  <text
+    x="40"
+    y="281"
+    fill="#c9d1d9"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="start"
+    font-size="11"
+    font-weight="600"
+  >
+    Planet Zoo
+  </text>
+  <text
+    x="217"
+    y="281"
     fill="#c9d1d9"
     font-family="Arial"
     dominant-baseline="middle"
