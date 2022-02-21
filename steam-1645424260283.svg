@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 201" height="201"
+    viewBox="0 0 225 233" height="233"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="201" rx="4" />
+        <rect x="0" y="0" width="225" height="233" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -165,7 +165,7 @@
     y="169"
     width="225"
     height="32"
-    fill="rgb(199, 199, 196)"
+    fill="rgb(92, 151, 162)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -174,11 +174,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(199, 199, 196)"
+    fill="rgb(92, 151, 162)"
     filter="url(#shadow169)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAABgcICQQF/8QAJhAAAgICAgICAgMBAQAAAAAAAQIDBAUGERIHEwAhCBQiIzFBUv/EABkBAAMBAQEAAAAAAAAAAAAAAAADBAIBBf/EACsRAAEDAgMHAwUAAAAAAAAAAAEAAhEDIRIxQQQTImGBobEFUfAycZHB4f/aAAwDAQACEQMRAD8AnXwp4No7jgMlncvrN23Ura/Nmzs2RytRsbHZDWUaSdIw1iWsggY+qFXsNJA6/SkkZeSXCm3UEzryvl+b90w6NARPo34kSZPftWXYdfyWR0fIWFlt7VW1yxSxFeqsahDIFZbEQmDK5eX1MvZG4EYYlzXSwAjiPbrquktwD3QZ5T/DfLZXXNGyXizUdly0NzCtby5krPxj5VX2MtywzCJZ+vY9FEYCeodWclnXINwkNc14lpkKV7VbKavsL1LIs47J0bJilik5SWCVG4ZSP9DAggj4LSrjyRvGJ3TxZ+POFyNOpXSCnbp5yPCgmVq0c8S1XRCewmIadVP/ALsTdQQxBrexzKbSTnf9K2pTdTpNdIMz0yC0C8f6XrnlDUFbN4egMdHLPdpYCrQlWzgp0eaFCYq7KtwslWNfWEA/pUsvIPMFSm2q0sdkeceF572NqNLXZFKHffIO1a7v+3XxgNXvVZaaYSfZJppo8jaEeZGNnjemirAGYRiXqoHEQEhmdf6/kOw7BR9Pp7ujMZ6eAAB0Ak3MkkrDKQYSZknp4ss/vy+r4xPPmasYzHPijb9Vm3VMKxR/ssOJJYlVVAjmKidQBwPdx98c/PSTl1+K9awG/wCQGG2bZIqFrKQTQY6/alWGGncWOFK6P3VgyGMunBMXXkMj9kCtQ8nCHTJ/gTS4kZqsI/yr2HTvFk2AwuOy2PsWJLccuaiso8uH9tqd5YkD/wA3sKtlojI4UxunYhj1+TpSV83kWDP4OfDYSpfx1Ksjzrcyc80lSsEyr2khaaUhZJjCoJsEffPrMiwAqBCTn5GYjW4pMbnYL81nbNhtvkbNNrnsWlSIVawaMp2DSqBOCzjiOWNRGAvdxCAf15K1eevZuS0HVWgkiiZll+yOwYf506jgrzySP+j6+WNw4fqj54juuIqTyhap17DrBUyttojF+1ZrdZmBh9as9ksksjJwGH8QOVAJKMysstpgcJ+fe3YIXs7F57upvUOYx+MxedxKXGdH2vFQ3HlVljHSWLho1CBfr1KOO3PJb7E7jAhuaCl/uOVbb9jyeSdznNgzeWlsTT9LDPF/axBSR25kEvfklx2HQf5yfk1Pelwx5AcrnWfaOVrrImbr/9k="
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gOTAK/9sAQwADAgIDAgIDAwMDBAMDBAUIBQUEBAUKBwcGCAwKDAwLCgsLDQ4SEA0OEQ4LCxAWEBETFBUVFQwPFxgWFBgSFBUU/9sAQwEDBAQFBAUJBQUJFA0LDRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQU/8AAEQgAIAAgAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A5v4LfCDwn4h8H6Vd6hoOnahd3FtHNNcXlqkskjsoLEswJ6mvTZvgD4DS90jTx4X0KK51S48iJm06H5QFLux+XoFU/iVHes79l+FdR8K6JEDkC0hH/jorY8aavq+v/E77ToUIltNIBtrWUvhTtbEz/wDAnG3I7Rj1rrzvFQy3AyqJpTasr6a/8A/O8Rmc4VbK7V9lva+pUtvgH4HvdJiuW8IaJG7Lh0/s6L5W7j7teGftQfC/wz4T+GeqappGjWOlalY+XNb3NjbpC6N5ijqoHYmvqT4f39yfFnifSdQQQ21y6XNqpcNskZMsAfQnP0wBXgf7ZjrB8MPEMBPJjUAf9tFP9K2yzE08yy+OIVr21t3tqdGHx83XjCT0bt+NjV/ZW8QRafpul7nwPJj7+wrvfiD4QvrH4q2y+Fr2TToNdKXwFsdoAEii7Hu2GRgP9r618efDT4wad4RtoLS+v4bO4gUI8c0gRkIGCCDyDXso/as8OFNOujrWnyXmmyNNb5u1HLRtG69ehV2/EA9q0z7BRzHLpRotOoleKdrXtt8zxquCqLFe/F8t90ejfBDRbm/8ZeLPFviC5+2DTriS0sZXOSTzjnuVViCe5PtXjH7Xerpf+EtbIbOY+Of9oVPpn7Rnhnw/4SttIttd087QzzMlwv7yVjuduvck14n8XviZZeNtHurDT7uK9ubjEccMDh2diwwABXdgsNSwGA9ipK/L072NMHhKzxUJcjSTvt5n/9k="
     x="8"
     y="173"
     width="24"
@@ -195,11 +195,65 @@
     font-size="11"
     font-weight="600"
   >
-    Monster Hunter: ...
+    The Sims™ 3
   </text>
   <text
     x="217"
     y="185"
+    fill="#24292f"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="end"
+    font-size="11"
+  >
+    0.6h/65.7h
+  </text><defs>
+    <clipPath id="ico201">
+      <rect x="8" y="205" width="24" height="24" rx="4" />
+    </clipPath>
+    <filter id='shadow201' color-interpolation-filters="sRGB">
+      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
+    </filter>
+  </defs>
+  <rect
+    y="201"
+    width="225"
+    height="32"
+    fill="rgb(199, 199, 196)"
+    clip-path="url(#fullCliping)"
+  />
+  <rect
+    x="8"
+    y="205"
+    width="24"
+    height="24"
+    rx="4"
+    fill="rgb(199, 199, 196)"
+    filter="url(#shadow201)"
+  />
+  <image
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAABgcICQQF/8QAJhAAAgICAgICAgMBAQAAAAAAAQIDBAUGERIHEwAhCBQiIzFBUv/EABkBAAMBAQEAAAAAAAAAAAAAAAADBAIBBf/EACsRAAEDAgMHAwUAAAAAAAAAAAEAAhEDIRIxQQQTImGBobEFUfAycZHB4f/aAAwDAQACEQMRAD8AnXwp4No7jgMlncvrN23Ura/Nmzs2RytRsbHZDWUaSdIw1iWsggY+qFXsNJA6/SkkZeSXCm3UEzryvl+b90w6NARPo34kSZPftWXYdfyWR0fIWFlt7VW1yxSxFeqsahDIFZbEQmDK5eX1MvZG4EYYlzXSwAjiPbrquktwD3QZ5T/DfLZXXNGyXizUdly0NzCtby5krPxj5VX2MtywzCJZ+vY9FEYCeodWclnXINwkNc14lpkKV7VbKavsL1LIs47J0bJilik5SWCVG4ZSP9DAggj4LSrjyRvGJ3TxZ+POFyNOpXSCnbp5yPCgmVq0c8S1XRCewmIadVP/ALsTdQQxBrexzKbSTnf9K2pTdTpNdIMz0yC0C8f6XrnlDUFbN4egMdHLPdpYCrQlWzgp0eaFCYq7KtwslWNfWEA/pUsvIPMFSm2q0sdkeceF572NqNLXZFKHffIO1a7v+3XxgNXvVZaaYSfZJppo8jaEeZGNnjemirAGYRiXqoHEQEhmdf6/kOw7BR9Pp7ujMZ6eAAB0Ak3MkkrDKQYSZknp4ss/vy+r4xPPmasYzHPijb9Vm3VMKxR/ssOJJYlVVAjmKidQBwPdx98c/PSTl1+K9awG/wCQGG2bZIqFrKQTQY6/alWGGncWOFK6P3VgyGMunBMXXkMj9kCtQ8nCHTJ/gTS4kZqsI/yr2HTvFk2AwuOy2PsWJLccuaiso8uH9tqd5YkD/wA3sKtlojI4UxunYhj1+TpSV83kWDP4OfDYSpfx1Ksjzrcyc80lSsEyr2khaaUhZJjCoJsEffPrMiwAqBCTn5GYjW4pMbnYL81nbNhtvkbNNrnsWlSIVawaMp2DSqBOCzjiOWNRGAvdxCAf15K1eevZuS0HVWgkiiZll+yOwYf506jgrzySP+j6+WNw4fqj54juuIqTyhap17DrBUyttojF+1ZrdZmBh9as9ksksjJwGH8QOVAJKMysstpgcJ+fe3YIXs7F57upvUOYx+MxedxKXGdH2vFQ3HlVljHSWLho1CBfr1KOO3PJb7E7jAhuaCl/uOVbb9jyeSdznNgzeWlsTT9LDPF/axBSR25kEvfklx2HQf5yfk1Pelwx5AcrnWfaOVrrImbr/9k="
+    x="8"
+    y="205"
+    width="24"
+    height="24"
+    clip-path="url(#ico201)"
+  />
+  <text
+    x="40"
+    y="217"
+    fill="#24292f"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="start"
+    font-size="11"
+    font-weight="600"
+  >
+    Monster Hunter: ...
+  </text>
+  <text
+    x="217"
+    y="217"
     fill="#24292f"
     font-family="Arial"
     dominant-baseline="middle"
