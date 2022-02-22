@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 233" height="233"
+    viewBox="0 0 225 265" height="265"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="233" rx="4" />
+        <rect x="0" y="0" width="225" height="265" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -44,7 +44,7 @@
       font-size="10"
       font-weight="600"
     >
-      49.7h (2 weeks)/55.1h (total)
+      50.2h (2 weeks)/55.6h (total)
     </text><defs>
     <clipPath id="ico105">
       <rect x="8" y="109" width="24" height="24" rx="4" />
@@ -261,4 +261,58 @@
     font-size="11"
   >
     0.2h/245.2h
+  </text><defs>
+    <clipPath id="ico233">
+      <rect x="8" y="237" width="24" height="24" rx="4" />
+    </clipPath>
+    <filter id='shadow233' color-interpolation-filters="sRGB">
+      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
+    </filter>
+  </defs>
+  <rect
+    y="233"
+    width="225"
+    height="32"
+    fill="rgb(23, 23, 30)"
+    clip-path="url(#fullCliping)"
+  />
+  <rect
+    x="8"
+    y="237"
+    width="24"
+    height="24"
+    rx="4"
+    fill="rgb(23, 23, 30)"
+    filter="url(#shadow233)"
+  />
+  <image
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAcIBgX/xAAvEAABAwMCBAQEBwAAAAAAAAABAgMEBQYRAAcIEhMhMUFRYRYiMoEUM0JxocHw/8QAGgEBAAMBAQEAAAAAAAAAAAAABwUGCAIABP/EADIRAAEDAwIDBgUDBQAAAAAAAAECAwQABREGITFBURITYYGRoQciI3HBFBVicrHR4fD/2gAMAwEAAhEDEQA/AHPbtu2nZ23j9err0WmUiBG60iU+AENoA/k+QA7k9tY5lSp06d3LOVuLOw5k0gIQ0012lbAVJ9y8XlcuurvHbXb6n/Drailqq3CVJVKAP1JbSRyg/uffHhpPjaTZjNj90lK7w8Uo5fcnOfapq16evV9T31vj4b5KWeyD9uZ8s10bA4rajS7qp0Dc+yqVT6FUH0RhW6K4pSIi1HCS6hRPy5PcgjHvr55+l0LjrctUhSlpBPZVzA6EY3r10sF3sKUu3Jkd2TjtJOQCevSq03K21pCLckKTHaUktnwSMEY0X2u6SEyEkKIINRLzKCg7VPV401fE7fKdmJVztWhZFFiRalXpiEByVMeWCpllpJ/SkYJPfuR6DT/8P9LJfLl4UMryQkdBnB8zv5feqDqK9pgBuOdgricE458qK3C4Ctq7JtF+ZQt0LxbdisLV1pMxsNJKU/KAjkGcntgabGtPsPZ/UNgeh/FVlXxBu0VTaLdLWrG2MqAA8N/xUhwpky7dvLrpNSdEyVT1uxRKxgu8oCkKI8iP60aTISLZd0NtcM/6rYmnrxJ1loyUJw7TiQRnrsFAnxFWVs5xc2PuVtNalpv15YvluktxpESWw4gvPNt4VyOEcqyQnPY99Bt20rPt1xemJa+h2yQQQcAnbI4ihFmYhxlKFH5setIfixs96Fu9ZlQtyYKZV65RXFTVujnad6BARlPrg4z7DSZoa+SLfEkHilCwAP6tz713H0unVVwbgJUEqUknJ/iPDrS+VS9wJzX4d+bR4qfAyW+q4oe6UntnSa5rn5MIb3/7xqfj/Aud331pCAjwyfbA/vRzduRrIsWbDZdW+66FKekOfW86vxUf95ao7Ehy5XJLrnXPpvWhmbJF0rp1yDGOdjk8yTtn04DkBSssm45FOptivDlCafW2VoWBhSQXiFDPoQTqyT4La2X1jipJB6cKznJluO6ZisqAw2vY43G6ufnVFcWN1M/Gm1tZiKS80inS45KTkZ5kKx9wTo+0fBUG50R8YJUPz/iutPXIW+8x5SeQUKxre5NKUgFRcQrzSUZ1OKscoHAwfOtKI1jbVJyokHpis9dl7s1hgMRwpLKcqUVdio47an7XbFQyXHD8x9qqd91KxcGwyzskb78zSvtxtU2k21Ab/PeqTWPYdUkn7DvqZkkhleBnY0BPvoFhaazuVfkmv//Z"
+    x="8"
+    y="237"
+    width="24"
+    height="24"
+    clip-path="url(#ico233)"
+  />
+  <text
+    x="40"
+    y="249"
+    fill="#c9d1d9"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="start"
+    font-size="11"
+    font-weight="600"
+  >
+    Among Us
+  </text>
+  <text
+    x="217"
+    y="249"
+    fill="#c9d1d9"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="end"
+    font-size="11"
+  >
+    0.1h/11.6h
   </text></svg>
