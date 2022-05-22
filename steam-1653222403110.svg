@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 329" height="329"
+    viewBox="0 0 225 297" height="297"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="329" rx="4" />
+        <rect x="0" y="0" width="225" height="297" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -98,7 +98,7 @@
     text-anchor="end"
     font-size="11"
   >
-    4h/309.4h
+    8h/313.5h
   </text><defs>
     <clipPath id="ico137">
       <rect x="8" y="141" width="24" height="24" rx="4" />
@@ -273,7 +273,7 @@
     y="233"
     width="225"
     height="32"
-    fill="rgb(92, 151, 162)"
+    fill="rgb(215, 170, 109)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -282,11 +282,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(92, 151, 162)"
+    fill="rgb(215, 170, 109)"
     filter="url(#shadow233)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gOTAK/9sAQwADAgIDAgIDAwMDBAMDBAUIBQUEBAUKBwcGCAwKDAwLCgsLDQ4SEA0OEQ4LCxAWEBETFBUVFQwPFxgWFBgSFBUU/9sAQwEDBAQFBAUJBQUJFA0LDRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQU/8AAEQgAIAAgAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A5v4LfCDwn4h8H6Vd6hoOnahd3FtHNNcXlqkskjsoLEswJ6mvTZvgD4DS90jTx4X0KK51S48iJm06H5QFLux+XoFU/iVHes79l+FdR8K6JEDkC0hH/jorY8aavq+v/E77ToUIltNIBtrWUvhTtbEz/wDAnG3I7Rj1rrzvFQy3AyqJpTasr6a/8A/O8Rmc4VbK7V9lva+pUtvgH4HvdJiuW8IaJG7Lh0/s6L5W7j7teGftQfC/wz4T+GeqappGjWOlalY+XNb3NjbpC6N5ijqoHYmvqT4f39yfFnifSdQQQ21y6XNqpcNskZMsAfQnP0wBXgf7ZjrB8MPEMBPJjUAf9tFP9K2yzE08yy+OIVr21t3tqdGHx83XjCT0bt+NjV/ZW8QRafpul7nwPJj7+wrvfiD4QvrH4q2y+Fr2TToNdKXwFsdoAEii7Hu2GRgP9r618efDT4wad4RtoLS+v4bO4gUI8c0gRkIGCCDyDXso/as8OFNOujrWnyXmmyNNb5u1HLRtG69ehV2/EA9q0z7BRzHLpRotOoleKdrXtt8zxquCqLFe/F8t90ejfBDRbm/8ZeLPFviC5+2DTriS0sZXOSTzjnuVViCe5PtXjH7Xerpf+EtbIbOY+Of9oVPpn7Rnhnw/4SttIttd087QzzMlwv7yVjuduvck14n8XviZZeNtHurDT7uK9ubjEccMDh2diwwABXdgsNSwGA9ipK/L072NMHhKzxUJcjSTvt5n/9k="
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD6Nr8SP1Agu7y20+38+7uoLODcE825lWNNx+6u5iBk9h3pxi5O0Vdg2lq3YZBqthdGHyL+0nM0hhi8qdG8xwMlFweWA5IHIpbbmMa9GduSpF3dlZp3a3S11a6rdFn71BsDNHEsMk8qwW8kwgMzHOx2HyZUfNhjhQwGNxAJHWuqhhqmJvyW+btr2OaviaeHSc7/ACV/meTS+HLL4ueKNC8TeKbqIfDqw0/T7q50S5ffFFLqSXcNrPIV+Zj9oitk2gNguCMAMa+ywOX/AFanK7Tk1v6rRfefHZjipY1OEdFZpJ99r/1seV+N9Bf4f6vdaHr15eaDrdpcwzSxySMiRBRgCPAwYX25wp+fJ+YdK+VlSrUX7OpT1Stt+N+/Z/gfgHsMXltSMalOzp7b2u9eZO9uZ/zb20aPQ/BX7Rj+I9X0XRptOt9T1G+uBDNdafPsEakn94YNrEKq4z856E5rmlR5U3sftWTcayzKvSwdXDv2k3ZyT931tZuyW938zufHttrK6N4gnTUYRpgt7ae2iKRwPZzRTK8jm4IJ2FV3fNlVK/dau3ASUq1Kmo68zfrpY+7x0ZKjVm3o4pempzWpfF/xInwn0bxrqFjpGl6Z9jKtNp0AuYDp0g3RQzWw2bsSJGRKGBjY5QAMwP1dHF+0xDwkL80brbtufM1cJOnQWIlblduvcg8HrFpnxQ07w1eyJdyjSZdRgFxBNMZoXjg+Zp7iaVnCNlVUEAEMf4q8XG1Z4jAKs1Zc1vuuj18HRjRxjot8y5b6/J7HrMVrbW774bS2gkwRvigRGweoyADzXzG+59EoxjrGKXokht5ZW+o20ltd28N3bSDEkFxGJI3Gc4Kng8gdaqMpQfNF2YOKkrSV0QXOh6ZeafHp9xpllcafHjy7Oa2R4Ex0xGRtGMnGBxVKpUjLnjJp97u/3icIOPK4q3a2g+PSbCLUGv0sLVL9kERu1gQTFAAAm/G7bgAYzjgelJzm48jk7dr6fcHLFPmS17luoKP/2Q=="
     x="8"
     y="237"
     width="24"
@@ -303,7 +303,7 @@
     font-size="11"
     font-weight="600"
   >
-    The Sims™ 3
+    Let's Build a Zoo
   </text>
   <text
     x="217"
@@ -314,7 +314,7 @@
     text-anchor="end"
     font-size="11"
   >
-    0.1h/77h
+    0.1h/11.9h
   </text><defs>
     <clipPath id="ico265">
       <rect x="8" y="269" width="24" height="24" rx="4" />
@@ -327,7 +327,7 @@
     y="265"
     width="225"
     height="32"
-    fill="rgb(215, 170, 109)"
+    fill="rgb(250, 189, 91)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -336,11 +336,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(215, 170, 109)"
+    fill="rgb(250, 189, 91)"
     filter="url(#shadow265)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD6Nr8SP1Agu7y20+38+7uoLODcE825lWNNx+6u5iBk9h3pxi5O0Vdg2lq3YZBqthdGHyL+0nM0hhi8qdG8xwMlFweWA5IHIpbbmMa9GduSpF3dlZp3a3S11a6rdFn71BsDNHEsMk8qwW8kwgMzHOx2HyZUfNhjhQwGNxAJHWuqhhqmJvyW+btr2OaviaeHSc7/ACV/meTS+HLL4ueKNC8TeKbqIfDqw0/T7q50S5ffFFLqSXcNrPIV+Zj9oitk2gNguCMAMa+ywOX/AFanK7Tk1v6rRfefHZjipY1OEdFZpJ99r/1seV+N9Bf4f6vdaHr15eaDrdpcwzSxySMiRBRgCPAwYX25wp+fJ+YdK+VlSrUX7OpT1Stt+N+/Z/gfgHsMXltSMalOzp7b2u9eZO9uZ/zb20aPQ/BX7Rj+I9X0XRptOt9T1G+uBDNdafPsEakn94YNrEKq4z856E5rmlR5U3sftWTcayzKvSwdXDv2k3ZyT931tZuyW938zufHttrK6N4gnTUYRpgt7ae2iKRwPZzRTK8jm4IJ2FV3fNlVK/dau3ASUq1Kmo68zfrpY+7x0ZKjVm3o4pempzWpfF/xInwn0bxrqFjpGl6Z9jKtNp0AuYDp0g3RQzWw2bsSJGRKGBjY5QAMwP1dHF+0xDwkL80brbtufM1cJOnQWIlblduvcg8HrFpnxQ07w1eyJdyjSZdRgFxBNMZoXjg+Zp7iaVnCNlVUEAEMf4q8XG1Z4jAKs1Zc1vuuj18HRjRxjot8y5b6/J7HrMVrbW774bS2gkwRvigRGweoyADzXzG+59EoxjrGKXokht5ZW+o20ltd28N3bSDEkFxGJI3Gc4Kng8gdaqMpQfNF2YOKkrSV0QXOh6ZeafHp9xpllcafHjy7Oa2R4Ex0xGRtGMnGBxVKpUjLnjJp97u/3icIOPK4q3a2g+PSbCLUGv0sLVL9kERu1gQTFAAAm/G7bgAYzjgelJzm48jk7dr6fcHLFPmS17luoKP/2Q=="
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABwADBAYBBQj/xAApEAABAwMCBQUAAwAAAAAAAAABAgMEAAURBhIhMUFRYQcTMnGBFMHw/8QAHAEAAgIDAQEAAAAAAAAAAAAABAcABgEDBQII/8QALBEAAQMDAgQFBAMAAAAAAAAAAQIDBAAFESExQVFhgRORscHwBiJCoXHR4f/aAAwDAQACEQMRAD8A67r5fp0VZ7H6e3K9R0SFKbhx1jKFPZ3KHcJHT7q12/6bmT2w6SEJO2dz2HD+a4cq7x4yi2MqI3xw71m+entyssdchKm5jCBlamc7kjuUnp9VJ/03Mgtl0ELSN8ZyOx9qkW8R5Kg2cpJ2zx71V6qldytlpmE3cdQW+M6MtOPJCgeo54/cV1LWwiTOZZc2Khn1/dBTXVMxnHE7gUWNXX9enrSJjcZLr3uhpsL+Kc54nHgcqcN6uKrXF8dCMnIA5D5jSqBbogmv+EpWBjPWlpG/r1FaTMcjJae90tObPirGOIz4PKpZbiq6RfHWjByQcbHqPOpcYghP+ElWRjPWhRqaE3btQXCMyMNNvKCQOg54/M0nrowiNOeZb2Cjj1/VX+E6p6M24rcioMOU5BlsyWTtdaWFpPkHNAsurYdS82fuSQR2olxtLqC2rYjFGa03eBrC0uLKQ42U7ZERYyUH/cj47084M6NeoxVgEbKSdcH+uR96WsmM9bngM45EcfnGoc29NaKhht1Icj7D/EQ2AN57Htjv/daps6PZI+oGPxSNM/5zPvXqPGduLu+vEnh84ChLLlOTpT0h47nXVlaj5JzSRedW+4p1w/coknvTIbQlpAbTsNKarTWyn7XdrjY7iiXAfbbUngULQSFp6pPHlR8Ka9b3g+wcEeRHI9KGkR2pTZadGnp1FK53a43u4uS577bilcAhCCAhPRI48hWJs16e8X3zknyA5DpWY8dqK2Gmhp69TTFA0RX/2Q=="
     x="8"
     y="269"
     width="24"
@@ -357,65 +357,11 @@
     font-size="11"
     font-weight="600"
   >
-    Let's Build a Zoo
-  </text>
-  <text
-    x="217"
-    y="281"
-    fill="#24292f"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="end"
-    font-size="11"
-  >
-    0.1h/11.9h
-  </text><defs>
-    <clipPath id="ico297">
-      <rect x="8" y="301" width="24" height="24" rx="4" />
-    </clipPath>
-    <filter id='shadow297' color-interpolation-filters="sRGB">
-      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
-    </filter>
-  </defs>
-  <rect
-    y="297"
-    width="225"
-    height="32"
-    fill="rgb(250, 189, 91)"
-    clip-path="url(#fullCliping)"
-  />
-  <rect
-    x="8"
-    y="301"
-    width="24"
-    height="24"
-    rx="4"
-    fill="rgb(250, 189, 91)"
-    filter="url(#shadow297)"
-  />
-  <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABwADBAYBBQj/xAApEAABAwMCBQUAAwAAAAAAAAABAgMEAAURBhIhMUFRYQcTMnGBFMHw/8QAHAEAAgIDAQEAAAAAAAAAAAAABAcABgEDBQII/8QALBEAAQMDAgQFBAMAAAAAAAAAAQIDBAAFESExQVFhgRORscHwBiJCoXHR4f/aAAwDAQACEQMRAD8A67r5fp0VZ7H6e3K9R0SFKbhx1jKFPZ3KHcJHT7q12/6bmT2w6SEJO2dz2HD+a4cq7x4yi2MqI3xw71m+entyssdchKm5jCBlamc7kjuUnp9VJ/03Mgtl0ELSN8ZyOx9qkW8R5Kg2cpJ2zx71V6qldytlpmE3cdQW+M6MtOPJCgeo54/cV1LWwiTOZZc2Khn1/dBTXVMxnHE7gUWNXX9enrSJjcZLr3uhpsL+Kc54nHgcqcN6uKrXF8dCMnIA5D5jSqBbogmv+EpWBjPWlpG/r1FaTMcjJae90tObPirGOIz4PKpZbiq6RfHWjByQcbHqPOpcYghP+ElWRjPWhRqaE3btQXCMyMNNvKCQOg54/M0nrowiNOeZb2Cjj1/VX+E6p6M24rcioMOU5BlsyWTtdaWFpPkHNAsurYdS82fuSQR2olxtLqC2rYjFGa03eBrC0uLKQ42U7ZERYyUH/cj47084M6NeoxVgEbKSdcH+uR96WsmM9bngM45EcfnGoc29NaKhht1Icj7D/EQ2AN57Htjv/daps6PZI+oGPxSNM/5zPvXqPGduLu+vEnh84ChLLlOTpT0h47nXVlaj5JzSRedW+4p1w/coknvTIbQlpAbTsNKarTWyn7XdrjY7iiXAfbbUngULQSFp6pPHlR8Ka9b3g+wcEeRHI9KGkR2pTZadGnp1FK53a43u4uS577bilcAhCCAhPRI48hWJs16e8X3zknyA5DpWY8dqK2Gmhp69TTFA0RX/2Q=="
-    x="8"
-    y="301"
-    width="24"
-    height="24"
-    clip-path="url(#ico297)"
-  />
-  <text
-    x="40"
-    y="313"
-    fill="#24292f"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="start"
-    font-size="11"
-    font-weight="600"
-  >
     Mini Motorways
   </text>
   <text
     x="217"
-    y="313"
+    y="281"
     fill="#24292f"
     font-family="Arial"
     dominant-baseline="middle"
