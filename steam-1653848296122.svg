@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 297" height="297"
+    viewBox="0 0 225 233" height="233"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="297" rx="4" />
+        <rect x="0" y="0" width="225" height="233" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -44,7 +44,7 @@
       font-size="10"
       font-weight="600"
     >
-      38.1h (2 weeks)/344.4h (total)
+      38.6h (2 weeks)/346.8h (total)
     </text><defs>
     <clipPath id="ico105">
       <rect x="8" y="109" width="24" height="24" rx="4" />
@@ -98,7 +98,7 @@
     text-anchor="end"
     font-size="11"
   >
-    15.9h/503.8h
+    13.4h/503.8h
   </text><defs>
     <clipPath id="ico137">
       <rect x="8" y="141" width="24" height="24" rx="4" />
@@ -261,112 +261,4 @@
     font-size="11"
   >
     0.8h/259h
-  </text><defs>
-    <clipPath id="ico233">
-      <rect x="8" y="237" width="24" height="24" rx="4" />
-    </clipPath>
-    <filter id='shadow233' color-interpolation-filters="sRGB">
-      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
-    </filter>
-  </defs>
-  <rect
-    y="233"
-    width="225"
-    height="32"
-    fill="rgb(250, 164, 26)"
-    clip-path="url(#fullCliping)"
-  />
-  <rect
-    x="8"
-    y="237"
-    width="24"
-    height="24"
-    rx="4"
-    fill="rgb(250, 164, 26)"
-    filter="url(#shadow233)"
-  />
-  <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAMGBwj/xAAjEAABAwMEAwEBAAAAAAAAAAABAgMEBQYRAAchIggSMRUy/8QAGgEBAAIDAQAAAAAAAAAAAAAAAAIGBAUIB//EACYRAAECBQMEAwEAAAAAAAAAAAECEQADBAUhBjFxEjJBURMUYYH/2gAMAwEAAhEDEQA/AN71w/HSENIQ0hDSENIQ0hDSENIRzfv15q0XZG/GrWTb8ivS2m23ZzrckMJjhY9glIKVe6vUhWOo7Dn7j0iw6KqL5Rms+UIBcJw7t7yGD48nG0VG6ailW2o+v0FRw+WZ/wCZLccxv1tV+JdduUqtwFFcGpRGpjClAgltxAWkkHkcKH3VAqaddJPmU8zuQSk8gsYtEmamfKTNRsoAjg5hctfiWpblVrc9RRBpsR2Y+pIJIbbQVqIA5PCT80pqddXPl08vuWQkcksITpqZEpU1eyQSeBmMB2F81aLvdfjtrKt+RQZbrbjsF1ySH0yAgexSoBKfRXqCrHYdTz8zf79oqosdGKz5QsBgrDM/rJcPjwc7RV7XqKVcqj6/QUnLZd2/mC3PMWXd3xHsTei7WLjrf6USpIbQ08ac+htMpKf5DgUhRzjrlJBxjnga1lo1dcrLTGkp+kpyR1Aln9MRzlw8ZlfYqS4zhPmuFfh35wYh3l8RbM3hplEYcVIoUqixEQIUmAE9YyBhDSkqHZKeSOQRk88nU7Nq6vs8yaoMsTCVKBfuO5BGxPmI3Cw0telALpKAwI9DxxDZrxFszZ6mVthtUiuyq1EXAmyZ4T2jLGFtJSkdUq4J5JOBzwNLzq6vvEyUosgSyFJAfuGxJO5HiFvsNLQJWA6isMSfR8cRNtF4j2Jsvdr9x0T9KXUltraZNRfQ4mKlX9BsJQk5x1yok4zzydQu+rrleqYUlR0hOCekEO3tyecMHiVBYqS3TjPlOVfp24wI/9k="
-    x="8"
-    y="237"
-    width="24"
-    height="24"
-    clip-path="url(#ico233)"
-  />
-  <text
-    x="40"
-    y="249"
-    fill="#24292f"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="start"
-    font-size="11"
-    font-weight="600"
-  >
-    Enter the Gungeon
-  </text>
-  <text
-    x="217"
-    y="249"
-    fill="#24292f"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="end"
-    font-size="11"
-  >
-    0.2h/2.9h
-  </text><defs>
-    <clipPath id="ico265">
-      <rect x="8" y="269" width="24" height="24" rx="4" />
-    </clipPath>
-    <filter id='shadow265' color-interpolation-filters="sRGB">
-      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
-    </filter>
-  </defs>
-  <rect
-    y="265"
-    width="225"
-    height="32"
-    fill="rgb(215, 170, 109)"
-    clip-path="url(#fullCliping)"
-  />
-  <rect
-    x="8"
-    y="269"
-    width="24"
-    height="24"
-    rx="4"
-    fill="rgb(215, 170, 109)"
-    filter="url(#shadow265)"
-  />
-  <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD6Nr8SP1Agu7y20+38+7uoLODcE825lWNNx+6u5iBk9h3pxi5O0Vdg2lq3YZBqthdGHyL+0nM0hhi8qdG8xwMlFweWA5IHIpbbmMa9GduSpF3dlZp3a3S11a6rdFn71BsDNHEsMk8qwW8kwgMzHOx2HyZUfNhjhQwGNxAJHWuqhhqmJvyW+btr2OaviaeHSc7/ACV/meTS+HLL4ueKNC8TeKbqIfDqw0/T7q50S5ffFFLqSXcNrPIV+Zj9oitk2gNguCMAMa+ywOX/AFanK7Tk1v6rRfefHZjipY1OEdFZpJ99r/1seV+N9Bf4f6vdaHr15eaDrdpcwzSxySMiRBRgCPAwYX25wp+fJ+YdK+VlSrUX7OpT1Stt+N+/Z/gfgHsMXltSMalOzp7b2u9eZO9uZ/zb20aPQ/BX7Rj+I9X0XRptOt9T1G+uBDNdafPsEakn94YNrEKq4z856E5rmlR5U3sftWTcayzKvSwdXDv2k3ZyT931tZuyW938zufHttrK6N4gnTUYRpgt7ae2iKRwPZzRTK8jm4IJ2FV3fNlVK/dau3ASUq1Kmo68zfrpY+7x0ZKjVm3o4pempzWpfF/xInwn0bxrqFjpGl6Z9jKtNp0AuYDp0g3RQzWw2bsSJGRKGBjY5QAMwP1dHF+0xDwkL80brbtufM1cJOnQWIlblduvcg8HrFpnxQ07w1eyJdyjSZdRgFxBNMZoXjg+Zp7iaVnCNlVUEAEMf4q8XG1Z4jAKs1Zc1vuuj18HRjRxjot8y5b6/J7HrMVrbW774bS2gkwRvigRGweoyADzXzG+59EoxjrGKXokht5ZW+o20ltd28N3bSDEkFxGJI3Gc4Kng8gdaqMpQfNF2YOKkrSV0QXOh6ZeafHp9xpllcafHjy7Oa2R4Ex0xGRtGMnGBxVKpUjLnjJp97u/3icIOPK4q3a2g+PSbCLUGv0sLVL9kERu1gQTFAAAm/G7bgAYzjgelJzm48jk7dr6fcHLFPmS17luoKP/2Q=="
-    x="8"
-    y="269"
-    width="24"
-    height="24"
-    clip-path="url(#ico265)"
-  />
-  <text
-    x="40"
-    y="281"
-    fill="#24292f"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="start"
-    font-size="11"
-    font-weight="600"
-  >
-    Let's Build a Zoo
-  </text>
-  <text
-    x="217"
-    y="281"
-    fill="#24292f"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="end"
-    font-size="11"
-  >
-    0.1h/11.9h
   </text></svg>
