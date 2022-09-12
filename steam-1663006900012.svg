@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 265" height="265"
+    viewBox="0 0 225 233" height="233"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="265" rx="4" />
+        <rect x="0" y="0" width="225" height="233" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -44,7 +44,7 @@
       font-size="10"
       font-weight="600"
     >
-      35.9h (2 weeks)/43.4h (total)
+      39.7h (2 weeks)/47.2h (total)
     </text><defs>
     <clipPath id="ico105">
       <rect x="8" y="109" width="24" height="24" rx="4" />
@@ -111,7 +111,7 @@
     y="137"
     width="225"
     height="32"
-    fill="rgb(156, 115, 90)"
+    fill="rgb(92, 151, 162)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -120,11 +120,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(156, 115, 90)"
+    fill="rgb(92, 151, 162)"
     filter="url(#shadow137)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD6n+K15d2Hw91qazM6yCIB3tgTKkZOHK45zjuOQM19dnEqsMHN0vnbt1/A+A4dhh6maUY4m3Lra+zlb3U/n97PHG/abn8D/DixjvdKl1nxLEPI8wyBYdv8DyH7xYDAIHUjrXwkeI8TSoKhSim19pu+np1fz8z9Hq8HYTEYyeJnNqDd+RK2vXXon2S0NLwv+05J4w8LX6tozaXrip5UU8cm63LkfeweVPXA5GcU1xPi/YOjUinL+ZafO3f06kS4KwixUK1Ob9mndwet/JS7d79D0/4V3V1d+Dbd7k3DbZHSJ7oEOyj68kZzg19jkNSpUwac22r6N9V/Vz4jiynh6WaSWHSTaXMlspei2drNoh+MXiWTwt8PNTnt3KXt1ts4GU4ZS5wzD6JuNc3EuKdDB+zg7Obt523f4F8JYKOLzL2lRXjTXN5X2j+OvyPi7S9a1TxXqOsaTd+E7nSdHtZSmnajcuFkuyuMkoeQDnII4OPWvzGrRjGnGUZpt9Ox+1UK9SdWUJwaS69zS1a+1vwLaacNK8Kz+IkuJ/8ATxDKA1rDuVSwHV2+bIUdlYms6FKNTmc5qNvxNcVXnScVTg5X/A+tvgv4hk1rwvc2U7SPJpc4hiklBDSQMCUOD2BBWvvOE8XKSqYST295ej3S8r/mflnG+AjCdLHQWsvdl5tapvztocD+0Xf3LeJtGsZGZLJbRposdGcthj9QABXDxHzzxtpbKKt827/kj0+D1Tp5fKUfilJ3+VrfgcJo0lnZXkdxLNuhZNrpKN20/wCyexPrXyySXQ+4c2zodXvLC5gtrp72GFFjCm3t/wCE9wXwN3PfFTNRew4TludP8Eb108W3EEDmS2uLRzJjkfKQVP517eRXp5lSa63Xytf9D5vii1XKKyl05WvVP/gnk/7aXjTWtO+J3h7S9InULb6SZpbZhlXLyE5P904HBFehnk1LMJX6RS/M8jheDWVprdyk/wAkeRW/je9ubSKZ5I4gy5x0IrwXFH1ik9wuPFVw8LytciTYucBufpU8iK53bc9J/Ze8faw/xr0jTbphHZXttPCbeIcZKZDMe+CPwrowU/Y4/Dzj/Nb700cGa0vbZXiYS/lb+7U//9k="
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gOTAK/9sAQwADAgIDAgIDAwMDBAMDBAUIBQUEBAUKBwcGCAwKDAwLCgsLDQ4SEA0OEQ4LCxAWEBETFBUVFQwPFxgWFBgSFBUU/9sAQwEDBAQFBAUJBQUJFA0LDRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQU/8AAEQgAIAAgAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A5v4LfCDwn4h8H6Vd6hoOnahd3FtHNNcXlqkskjsoLEswJ6mvTZvgD4DS90jTx4X0KK51S48iJm06H5QFLux+XoFU/iVHes79l+FdR8K6JEDkC0hH/jorY8aavq+v/E77ToUIltNIBtrWUvhTtbEz/wDAnG3I7Rj1rrzvFQy3AyqJpTasr6a/8A/O8Rmc4VbK7V9lva+pUtvgH4HvdJiuW8IaJG7Lh0/s6L5W7j7teGftQfC/wz4T+GeqappGjWOlalY+XNb3NjbpC6N5ijqoHYmvqT4f39yfFnifSdQQQ21y6XNqpcNskZMsAfQnP0wBXgf7ZjrB8MPEMBPJjUAf9tFP9K2yzE08yy+OIVr21t3tqdGHx83XjCT0bt+NjV/ZW8QRafpul7nwPJj7+wrvfiD4QvrH4q2y+Fr2TToNdKXwFsdoAEii7Hu2GRgP9r618efDT4wad4RtoLS+v4bO4gUI8c0gRkIGCCDyDXso/as8OFNOujrWnyXmmyNNb5u1HLRtG69ehV2/EA9q0z7BRzHLpRotOoleKdrXtt8zxquCqLFe/F8t90ejfBDRbm/8ZeLPFviC5+2DTriS0sZXOSTzjnuVViCe5PtXjH7Xerpf+EtbIbOY+Of9oVPpn7Rnhnw/4SttIttd087QzzMlwv7yVjuduvck14n8XviZZeNtHurDT7uK9ubjEccMDh2diwwABXdgsNSwGA9ipK/L072NMHhKzxUJcjSTvt5n/9k="
     x="8"
     y="141"
     width="24"
@@ -134,25 +134,25 @@
   <text
     x="40"
     y="153"
-    fill="#c9d1d9"
+    fill="#24292f"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="start"
     font-size="11"
     font-weight="600"
   >
-    Hamster Playground
+    The Sims™ 3
   </text>
   <text
     x="217"
     y="153"
-    fill="#c9d1d9"
+    fill="#24292f"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="end"
     font-size="11"
   >
-    0.8h/0.8h
+    0.7h/77.7h
   </text><defs>
     <clipPath id="ico169">
       <rect x="8" y="173" width="24" height="24" rx="4" />
@@ -165,7 +165,7 @@
     y="169"
     width="225"
     height="32"
-    fill="rgb(92, 151, 162)"
+    fill="rgb(137, 131, 130)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -174,11 +174,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(92, 151, 162)"
+    fill="rgb(137, 131, 130)"
     filter="url(#shadow169)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gOTAK/9sAQwADAgIDAgIDAwMDBAMDBAUIBQUEBAUKBwcGCAwKDAwLCgsLDQ4SEA0OEQ4LCxAWEBETFBUVFQwPFxgWFBgSFBUU/9sAQwEDBAQFBAUJBQUJFA0LDRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQU/8AAEQgAIAAgAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A5v4LfCDwn4h8H6Vd6hoOnahd3FtHNNcXlqkskjsoLEswJ6mvTZvgD4DS90jTx4X0KK51S48iJm06H5QFLux+XoFU/iVHes79l+FdR8K6JEDkC0hH/jorY8aavq+v/E77ToUIltNIBtrWUvhTtbEz/wDAnG3I7Rj1rrzvFQy3AyqJpTasr6a/8A/O8Rmc4VbK7V9lva+pUtvgH4HvdJiuW8IaJG7Lh0/s6L5W7j7teGftQfC/wz4T+GeqappGjWOlalY+XNb3NjbpC6N5ijqoHYmvqT4f39yfFnifSdQQQ21y6XNqpcNskZMsAfQnP0wBXgf7ZjrB8MPEMBPJjUAf9tFP9K2yzE08yy+OIVr21t3tqdGHx83XjCT0bt+NjV/ZW8QRafpul7nwPJj7+wrvfiD4QvrH4q2y+Fr2TToNdKXwFsdoAEii7Hu2GRgP9r618efDT4wad4RtoLS+v4bO4gUI8c0gRkIGCCDyDXso/as8OFNOujrWnyXmmyNNb5u1HLRtG69ehV2/EA9q0z7BRzHLpRotOoleKdrXtt8zxquCqLFe/F8t90ejfBDRbm/8ZeLPFviC5+2DTriS0sZXOSTzjnuVViCe5PtXjH7Xerpf+EtbIbOY+Of9oVPpn7Rnhnw/4SttIttd087QzzMlwv7yVjuduvck14n8XviZZeNtHurDT7uK9ubjEccMDh2diwwABXdgsNSwGA9ipK/L072NMHhKzxUJcjSTvt5n/9k="
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAACAEDBQkEBgf/xAAtEAACAQMCBAQFBQAAAAAAAAABAgMEBREABgcSITEIE0GRFBUiMnFRUmGBof/EABgBAAMBAQAAAAAAAAAAAAAAAAABBAID/8QAGxEBAQEAAwEBAAAAAAAAAAAAAAERAiEiQkH/2gAMAwEAAhEDEQA/AAk2Dwlot8bcorzWl6qsrTK80tRVMuXErrjAIPZQf70bP1qTXRLd4aLPVJErQ0aknGTUP2/Prpy8Rlbl4gPBJsnhZwjbeqy3tEhpYZWjt0q1GWdlXLK/ZctknmGMa3ZxxjvQr7v4TX3h3tzb271qiLZc3RqRyGhqY2ILLzIeg6LnIY6xZ1poWxcV927UtyW60Xue30cbs6xwqoILHJ+rGSM+mcazkPaNHYlsu132Vt+4VlwmlklpUkqnaVhIWw5OTnuSP81xl7x3zICis4l7ylur1k+6r01euU8/5hLzgdiAeboPTA6a7ZHDULWXu43Vx8bX1VZmTzD8RMz5Y926nv8Azpkwn+9vzoCwHw83Rr1wnstNPyTrDQS88jHLLypI3U/r9RPtqb7V/EV+6pSFT71/OgHq2ino6uaCeF4Zo3KujqQVIPYjQBm+FzcdLQ8MK9JnQVIt9aihj6+SwUY9vfU9ntRvgFnI37T7aoTnqKinrKuGCCF5ppHCoiKSWJPYDQH/2Q=="
     x="8"
     y="173"
     width="24"
@@ -195,7 +195,7 @@
     font-size="11"
     font-weight="600"
   >
-    The Sims™ 3
+    Getting Over It with ...
   </text>
   <text
     x="217"
@@ -206,7 +206,7 @@
     text-anchor="end"
     font-size="11"
   >
-    0.7h/77.7h
+    0.1h/0.5h
   </text><defs>
     <clipPath id="ico201">
       <rect x="8" y="205" width="24" height="24" rx="4" />
@@ -219,7 +219,7 @@
     y="201"
     width="225"
     height="32"
-    fill="rgb(137, 131, 130)"
+    fill="rgb(110, 39, 4)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -228,11 +228,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(137, 131, 130)"
+    fill="rgb(110, 39, 4)"
     filter="url(#shadow201)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAACAEDBQkEBgf/xAAtEAACAQMCBAQFBQAAAAAAAAABAgMEBREABgcSITEIE0GRFBUiMnFRUmGBof/EABgBAAMBAQAAAAAAAAAAAAAAAAABBAID/8QAGxEBAQEAAwEBAAAAAAAAAAAAAAERAiEiQkH/2gAMAwEAAhEDEQA/AAk2Dwlot8bcorzWl6qsrTK80tRVMuXErrjAIPZQf70bP1qTXRLd4aLPVJErQ0aknGTUP2/Prpy8Rlbl4gPBJsnhZwjbeqy3tEhpYZWjt0q1GWdlXLK/ZctknmGMa3ZxxjvQr7v4TX3h3tzb271qiLZc3RqRyGhqY2ILLzIeg6LnIY6xZ1poWxcV927UtyW60Xue30cbs6xwqoILHJ+rGSM+mcazkPaNHYlsu132Vt+4VlwmlklpUkqnaVhIWw5OTnuSP81xl7x3zICis4l7ylur1k+6r01euU8/5hLzgdiAeboPTA6a7ZHDULWXu43Vx8bX1VZmTzD8RMz5Y926nv8Azpkwn+9vzoCwHw83Rr1wnstNPyTrDQS88jHLLypI3U/r9RPtqb7V/EV+6pSFT71/OgHq2ino6uaCeF4Zo3KujqQVIPYjQBm+FzcdLQ8MK9JnQVIt9aihj6+SwUY9vfU9ntRvgFnI37T7aoTnqKinrKuGCCF5ppHCoiKSWJPYDQH/2Q=="
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYCBQcJ/8QALxAAAQMDAwEFBwUAAAAAAAAAAQIDBAAFEQYSMSEHIkFRgRQXI0JEUqGRscLR8P/EABkBAAMBAQEAAAAAAAAAAAAAAAQFBgIDAf/EACkRAAEEAAQEBwEBAAAAAAAAAAEAAgMEESExQQUSInEVJTJRYoHBctH/2gAMAwEAAhEDEQA/AOYMm3Xa4xpN5dQ8/HLhLspS894nxOecmhzYiEohLuo7IsVZjCZw3oG6qkqWpQAUcnpzRByQoGJwR12stxsS20T2HIq3BuSlZGSPPmh4bEVgExOxwRVirNVIEzeXFEMWy8WyNGvDbb0eOFpU1KSvA3Z6YOecivBZhdIYQ7qGy9dUnbCJ3N6DumDs7mtzVXTTslWI9yaUGyeEujqk/wC8hSnikZj5LjNWHPsnXBpWyCSjIcpBl3CrNG6cVcdWtxJSdjUVZck7uEpQeoPr09aKvWhFVMjNXZD7QfDqZmuiKTRubvpC6zv6tS6ilzc/CKtjQ8kDoP79a7UawqV2xb791w4lbN20+XbQdhor+c5nsntCc/XK/lS6IeayH4j8TWZ3ksQ+R/UmR5TkGc3IZVtdacC0keBBp69gkaWO0Km45HRPEjdRmtE1Jd4cOxSrpCO2XfUpSoD5AB3/AM/vUxVhkfO2CT0xY/fsq65YjjgdYi9U2H17rNKqlGpzmbvdpaxg4ExR/KqRx4eJP/kfioZSfC4x8v8AUpzYT8OW8w+ytl5tZStC0kFJB4Ip4p5QWt5baG1FakIztSeE55xWQ0AkgZlaLiQATkFDYr7T+laWUbF9vnusQmjIf3qCG2ElRBOegArAjYDzADFdDI8t5S44L//Z"
     x="8"
     y="205"
     width="24"
@@ -242,60 +242,6 @@
   <text
     x="40"
     y="217"
-    fill="#24292f"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="start"
-    font-size="11"
-    font-weight="600"
-  >
-    Getting Over It with ...
-  </text>
-  <text
-    x="217"
-    y="217"
-    fill="#24292f"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="end"
-    font-size="11"
-  >
-    0.1h/0.5h
-  </text><defs>
-    <clipPath id="ico233">
-      <rect x="8" y="237" width="24" height="24" rx="4" />
-    </clipPath>
-    <filter id='shadow233' color-interpolation-filters="sRGB">
-      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
-    </filter>
-  </defs>
-  <rect
-    y="233"
-    width="225"
-    height="32"
-    fill="rgb(110, 39, 4)"
-    clip-path="url(#fullCliping)"
-  />
-  <rect
-    x="8"
-    y="237"
-    width="24"
-    height="24"
-    rx="4"
-    fill="rgb(110, 39, 4)"
-    filter="url(#shadow233)"
-  />
-  <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYCBQcJ/8QALxAAAQMDAwEFBwUAAAAAAAAAAQIDBAAFEQYSMSEHIkFRgRQXI0JEUqGRscLR8P/EABkBAAMBAQEAAAAAAAAAAAAAAAQFBgIDAf/EACkRAAEEAAQEBwEBAAAAAAAAAAEAAgMEESExQQUSInEVJTJRYoHBctH/2gAMAwEAAhEDEQA/AOYMm3Xa4xpN5dQ8/HLhLspS894nxOecmhzYiEohLuo7IsVZjCZw3oG6qkqWpQAUcnpzRByQoGJwR12stxsS20T2HIq3BuSlZGSPPmh4bEVgExOxwRVirNVIEzeXFEMWy8WyNGvDbb0eOFpU1KSvA3Z6YOecivBZhdIYQ7qGy9dUnbCJ3N6DumDs7mtzVXTTslWI9yaUGyeEujqk/wC8hSnikZj5LjNWHPsnXBpWyCSjIcpBl3CrNG6cVcdWtxJSdjUVZck7uEpQeoPr09aKvWhFVMjNXZD7QfDqZmuiKTRubvpC6zv6tS6ilzc/CKtjQ8kDoP79a7UawqV2xb791w4lbN20+XbQdhor+c5nsntCc/XK/lS6IeayH4j8TWZ3ksQ+R/UmR5TkGc3IZVtdacC0keBBp69gkaWO0Km45HRPEjdRmtE1Jd4cOxSrpCO2XfUpSoD5AB3/AM/vUxVhkfO2CT0xY/fsq65YjjgdYi9U2H17rNKqlGpzmbvdpaxg4ExR/KqRx4eJP/kfioZSfC4x8v8AUpzYT8OW8w+ytl5tZStC0kFJB4Ip4p5QWt5baG1FakIztSeE55xWQ0AkgZlaLiQATkFDYr7T+laWUbF9vnusQmjIf3qCG2ElRBOegArAjYDzADFdDI8t5S44L//Z"
-    x="8"
-    y="237"
-    width="24"
-    height="24"
-    clip-path="url(#ico233)"
-  />
-  <text
-    x="40"
-    y="249"
     fill="#c9d1d9"
     font-family="Arial"
     dominant-baseline="middle"
@@ -307,7 +253,7 @@
   </text>
   <text
     x="217"
-    y="249"
+    y="217"
     fill="#c9d1d9"
     font-family="Arial"
     dominant-baseline="middle"
