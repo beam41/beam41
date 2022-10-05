@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 265" height="265"
+    viewBox="0 0 225 297" height="297"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="265" rx="4" />
+        <rect x="0" y="0" width="225" height="297" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -315,4 +315,58 @@
     font-size="11"
   >
     0.1h/520.9h
+  </text><defs>
+    <clipPath id="ico265">
+      <rect x="8" y="269" width="24" height="24" rx="4" />
+    </clipPath>
+    <filter id='shadow265' color-interpolation-filters="sRGB">
+      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
+    </filter>
+  </defs>
+  <rect
+    y="265"
+    width="225"
+    height="32"
+    fill="rgb(13, 11, 9)"
+    clip-path="url(#fullCliping)"
+  />
+  <rect
+    x="8"
+    y="269"
+    width="24"
+    height="24"
+    rx="4"
+    fill="rgb(13, 11, 9)"
+    filter="url(#shadow265)"
+  />
+  <image
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gOTAK/9sAQwADAgIDAgIDAwMDBAMDBAUIBQUEBAUKBwcGCAwKDAwLCgsLDQ4SEA0OEQ4LCxAWEBETFBUVFQwPFxgWFBgSFBUU/9sAQwEDBAQFBAUJBQUJFA0LDRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQU/8AAEQgAIAAgAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A/ObUvhb4zl+HK/Eu6sZJPC13qDWA1N7hCz3HJIKbt/8AC3OMfKa+lvh1/wAE3vEfxP8A2adO+IGj61s8W6gst5aaDcKFiuLUEqiiT+GV9pYE/KQyg7eTXO/sgfse+Lf2n7V21PXL3QPhhY3heRlkL/abgDDLbxE7A4BwZSMDOMMciv108OaHp/w28HaB4Y0cP9g0eyg0+2Wdgz+VFGEUuQBliFGTgZOa/LOK+LVkMFGnUi6ildq20ez31f8ASPbwOA+tO7Ttb8T8J5Nf8OaL8JNX8H6j4HuI/iBFq4c+IJZ2R7WJcB7doivBBUjB7sScFQD57Z3k9ndwzwTPFNG4ZJEYgqQeoNf0Z/2zb2mlXeoXcsdhZW6PPcTyuFjjRRud2PQAAEkn0r8Of2idV1L9of4x/Er4j+FtDubnwjZXcavd29uVjgt1URQyOMfKZBEXIPIJOa9bhriSnnqqVaVJwp6Pmcrpt2Vlfb0/zMMZg3hrRlK77WNr9mf9oz4p/sv6ZceJ9G0a51b4dXt99mvIL6CQWEtyFzhJwMRTbe4JyAMq20Y/Yv4d+LrX4t/Dbwv4shtXsIta0+DUFtmcSND5iBjGWAGcE4zgdOlfgne+P/GFp4Mk8BXGrX8fhmG9a7OjSEiJJ+hbHX1OOmSTjJzXvXg//goX8R/h98BtM+G/hy1s9PubFZYI/EThpLpIHdnCxoflVl3EBzu+XGACM1ycT8L/ANu01ywipuWr/uefd/1cvBY36q9W7W/E/ZOzisL+0urWFoNQttz29xEGWZM/deNxyPUFT7g1+Gv7QS6p8CPjN8Uvh14V1q70/wAJ3WpFJdOtZz5MkBIlijYZ52K4Q98Ag9SK5fx94f0/wp4e8Ka3ovj/AP4SXWvENrJdazZwRvHLp82VPlyuWJkLF2ySByjHkEGvP7W1uL+8hhhhkmnkcKiIpJYk9AK7OHOG6WSqapVHKnLaLjazi99fw07NGeLxcsRbmVmut+5//9k="
+    x="8"
+    y="269"
+    width="24"
+    height="24"
+    clip-path="url(#ico265)"
+  />
+  <text
+    x="40"
+    y="281"
+    fill="#c9d1d9"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="start"
+    font-size="11"
+    font-weight="600"
+  >
+    Scribblenauts Unlim...
+  </text>
+  <text
+    x="217"
+    y="281"
+    fill="#c9d1d9"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="end"
+    font-size="11"
+  >
+    0.1h/23.8h
   </text></svg>
