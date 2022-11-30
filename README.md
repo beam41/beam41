@@ -6,7 +6,7 @@
 <h1 align="center">Currently listening to</h1>
 
 <!-- spotify-listening-svg-start -->
-<p align="center"><a href="https://open.spotify.com/track/4yakjUoss5rjOdPWQ8mW6Q"><img src="https://raw.githubusercontent.com/beam41/beam41/master/top-song-1669770711624.svg" height="300"/></a></p>
+<p align="center"><a href="https://open.spotify.com/track/4yakjUoss5rjOdPWQ8mW6Q"><img src="https://raw.githubusercontent.com/beam41/beam41/master/top-song-1669789102262.svg" height="300"/></a></p>
 <!-- spotify-listening-svg-end -->
 
 ---
@@ -14,7 +14,7 @@
 <h1 align="center">What I play last 2 weeks (on steam)</h1>
 <!-- steam-svg-start -->
 <p align="center"><a href="http://steamcommunity.com/profiles/76561198062644260">
-  <img src="https://raw.githubusercontent.com/beam41/beam41/master/steam-1669770713992.svg" height="361"/></a></p>
+  <img src="https://raw.githubusercontent.com/beam41/beam41/master/steam-1669789103452.svg" height="361"/></a></p>
 <!-- steam-svg-end -->
 
 
