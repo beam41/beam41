@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 297" height="297"
+    viewBox="0 0 225 265" height="265"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="297" rx="4" />
+        <rect x="0" y="0" width="225" height="265" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -44,7 +44,7 @@
       font-size="10"
       font-weight="600"
     >
-      60.8h (2 weeks)/168.5h (total)
+      63.3h (2 weeks)/171.1h (total)
     </text><defs>
     <clipPath id="ico105">
       <rect x="8" y="109" width="24" height="24" rx="4" />
@@ -219,7 +219,7 @@
     y="201"
     width="225"
     height="32"
-    fill="rgb(221, 237, 239)"
+    fill="rgb(29, 21, 13)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -228,11 +228,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(221, 237, 239)"
+    fill="rgb(29, 21, 13)"
     filter="url(#shadow201)"
   />
   <image
-    href="data:image/jpeg;base64,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"
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABgcJCP/EACkQAAIBBAEDBQABBQAAAAAAAAECAwQFBhESByExAAgTFCJhIzJRgaH/xAAZAQADAQEBAAAAAAAAAAAAAAAEBQYHAwL/xAAvEQABAwMCBAUCBwEAAAAAAAABAgMRAAQhEjEFQVFxExQiYZFCgQYyM6HB0fBS/9oADAMBAAIRAxEAPwCaSdOrpJ0xlztZKU2aK7LZmiEp+wJjCZeXDX9nEa5E+TrXn0EbtsXQs/rKdXtEx80T5dZY8x9Mx94mnF0v6TNi96tou1viutryewvQVLVMUTfSqqunknpTEdto8I4G+UaKmRgda7zd/wAR8Ztfgq0qbVIicpSoBU7dSI5xinNrZ+GtPiCUrTHYqBIj4GeU0UZR7XLTaMUw7D6cUtVml3vqg5JA8piagkhV+YiJG1BZR43+HOwD2BZ4+4t965VIZQn8sCdQMRP+3FFOcKSlptkfqKVvygjp/udZ0zHpzecGo7bV3NIVp7k9QtK8UnL5Vhk+Nn15Clh2J8j1YW16zdqUls5TE+0iQO/Wp162cYAUvYzH2MU1OgOR4xHj7YnXx3LIbherpBUGwtQhqL+iJCP2vOV2kDBfwq8fJ5gcSk4tb3CnRctQnQkjVOcxyMDG+SZ2xMhnYOspbLLhnUQYjGJ5752/utE02L5JilPZLk9ovGP0Js8VrAyQNQJEv1Ep3WRGHMsVjBDKjAtCNdj6jXFtOa2ypKlair0Qon1FQ25SdiRg1QtOoGkpnCQM4AxBn7dAciii9dHLub/Z47XeZrz1Ix6yq1PRxUMcVAR9cy/ThkMjyGoSKoRw2gjqnHYJJHJN0ylhSlp0sOLySfVvGoiANJKSOoJmvWm68NF8UykSkdJiY5nAPYxFZJ9y/UdLjd3xBMZS2NZo6agWpuFLJFWRRQxjUSxyAGJS7SOxI5PyXfZR6teB2JbR5ou6tcmAQQSTuSN8AAchnrU9xS7Q4rwW04TAk7wBsOmZPU0p8ByubBM5x7JKcM01ouEFcqqxUsY5FfWx/nWv9+qK6YFywtg7KBHyIpGhWhQV0q1OM43b+uNxtliymKuymzy1B+le6y2CmijX4HB+OTnzaQ6DA60Nkhm7awi0t1i7bRbrDSiQCAZMFQ5RHt8SKrA+WgXImMjuNv7pO4D05o4PcDZsfslbda+qt97huFzt9HF8ElDKjinnSUo45xoB+5UQQyFGARRJyXVLvh1vda7RRkKSRtMfeIxPf3o24/ET1zYltbIBKwqQYBMQSE9Tzg6d/TOamX1muy37rBnNyR/kSsvtdUK+97DVDsP+H074Yx5axYY/5QkfAAqKfX4jq19ST+9C9NQippKyf7MEP10VhFK+nl2wXSDXcjez47A+jlL0qCYOf271zCZBM7VUn23+5Lo1UdLsWpxmMWM59T2BbVcY7nXz0EXOKlkjEiSvuFXZxG3NP142N9vWOcT4VxRu7cWGiprVqSUgKOVA7D1Y6HFUDD7KmwNUKiDOOXxQEPcr0s6LS9Rr3RZXU5NnV0pJaOzTWuAn6fKl+IN8iyGJV5s3YSO2hvz5orhjit4401ZpKWsa1LhKiJ9QjKsj2AzBNcEvNJbh5UkTpAyB/G/ep5VlPHAIWSshqzLGHcRBwY2PlW5KNkfxsfz60JKiZkRHb+DSVQAiDNf/2Q=="
     x="8"
     y="205"
     width="24"
@@ -242,25 +242,25 @@
   <text
     x="40"
     y="217"
-    fill="#24292f"
+    fill="#c9d1d9"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="start"
     font-size="11"
     font-weight="600"
   >
-    ENDLESS™ Space 2
+    No Time to Relax
   </text>
   <text
     x="217"
     y="217"
-    fill="#24292f"
+    fill="#c9d1d9"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="end"
     font-size="11"
   >
-    0.9h/0.9h
+    0.1h/2h
   </text><defs>
     <clipPath id="ico233">
       <rect x="8" y="237" width="24" height="24" rx="4" />
@@ -273,7 +273,7 @@
     y="233"
     width="225"
     height="32"
-    fill="rgb(29, 21, 13)"
+    fill="rgb(34, 83, 117)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -282,11 +282,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(29, 21, 13)"
+    fill="rgb(34, 83, 117)"
     filter="url(#shadow233)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABgcJCP/EACkQAAIBBAEDBQABBQAAAAAAAAECAwQFBhESByExAAgTFCJhIzJRgaH/xAAZAQADAQEBAAAAAAAAAAAAAAAEBQYHAwL/xAAvEQABAwMCBAUCBwEAAAAAAAABAgMRAAQhEjEFQVFxExQiYZFCgQYyM6HB0fBS/9oADAMBAAIRAxEAPwCaSdOrpJ0xlztZKU2aK7LZmiEp+wJjCZeXDX9nEa5E+TrXn0EbtsXQs/rKdXtEx80T5dZY8x9Mx94mnF0v6TNi96tou1viutryewvQVLVMUTfSqqunknpTEdto8I4G+UaKmRgda7zd/wAR8Ztfgq0qbVIicpSoBU7dSI5xinNrZ+GtPiCUrTHYqBIj4GeU0UZR7XLTaMUw7D6cUtVml3vqg5JA8piagkhV+YiJG1BZR43+HOwD2BZ4+4t965VIZQn8sCdQMRP+3FFOcKSlptkfqKVvygjp/udZ0zHpzecGo7bV3NIVp7k9QtK8UnL5Vhk+Nn15Clh2J8j1YW16zdqUls5TE+0iQO/Wp162cYAUvYzH2MU1OgOR4xHj7YnXx3LIbherpBUGwtQhqL+iJCP2vOV2kDBfwq8fJ5gcSk4tb3CnRctQnQkjVOcxyMDG+SZ2xMhnYOspbLLhnUQYjGJ5752/utE02L5JilPZLk9ovGP0Js8VrAyQNQJEv1Ep3WRGHMsVjBDKjAtCNdj6jXFtOa2ypKlair0Qon1FQ25SdiRg1QtOoGkpnCQM4AxBn7dAciii9dHLub/Z47XeZrz1Ix6yq1PRxUMcVAR9cy/ThkMjyGoSKoRw2gjqnHYJJHJN0ylhSlp0sOLySfVvGoiANJKSOoJmvWm68NF8UykSkdJiY5nAPYxFZJ9y/UdLjd3xBMZS2NZo6agWpuFLJFWRRQxjUSxyAGJS7SOxI5PyXfZR6teB2JbR5ou6tcmAQQSTuSN8AAchnrU9xS7Q4rwW04TAk7wBsOmZPU0p8ByubBM5x7JKcM01ouEFcqqxUsY5FfWx/nWv9+qK6YFywtg7KBHyIpGhWhQV0q1OM43b+uNxtliymKuymzy1B+le6y2CmijX4HB+OTnzaQ6DA60Nkhm7awi0t1i7bRbrDSiQCAZMFQ5RHt8SKrA+WgXImMjuNv7pO4D05o4PcDZsfslbda+qt97huFzt9HF8ElDKjinnSUo45xoB+5UQQyFGARRJyXVLvh1vda7RRkKSRtMfeIxPf3o24/ET1zYltbIBKwqQYBMQSE9Tzg6d/TOamX1muy37rBnNyR/kSsvtdUK+97DVDsP+H074Yx5axYY/5QkfAAqKfX4jq19ST+9C9NQippKyf7MEP10VhFK+nl2wXSDXcjez47A+jlL0qCYOf271zCZBM7VUn23+5Lo1UdLsWpxmMWM59T2BbVcY7nXz0EXOKlkjEiSvuFXZxG3NP142N9vWOcT4VxRu7cWGiprVqSUgKOVA7D1Y6HFUDD7KmwNUKiDOOXxQEPcr0s6LS9Rr3RZXU5NnV0pJaOzTWuAn6fKl+IN8iyGJV5s3YSO2hvz5orhjit4401ZpKWsa1LhKiJ9QjKsj2AzBNcEvNJbh5UkTpAyB/G/ep5VlPHAIWSshqzLGHcRBwY2PlW5KNkfxsfz60JKiZkRHb+DSVQAiDNf/2Q=="
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcEBQgJ/8QAKxAAAQMCBAYBBAMAAAAAAAAAAQIDBAUGAAcREwgSFCExQSIWYXGRUVOB/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQABQYB/8QAIxEAAgMAAQMEAwAAAAAAAAAAAQMAAgQREyExEhRBUZGxwf/aAAwDAQACEQMRAD8AybbluxuhStad11z5uOud1OKPlRPs43ebMuqwAJgNOll2Ekxq5dcPM3Mi070uCAY7EK14ImyN1BJe11+CdPB5UqPf+PviNKk3pSw72PEiatdS9we1RzAD6ei/1I/WGuhT6inXv9yquG3Y3RFSE7TqPm2632UhQ8KB9EYV0Zl2WQRG82llGAgy8tWBKmU5BjxnnwlI1LTZVp+dBhlJAoOYq4E3PAnQThoo0e0ciGrTmRuStZhQKxN5HAQtDLLG23qPv3I/JxQbLFmjqDxQ1H5M0WKoXn6RHe4sfwJmGmcN9yVfId7M6GeohszFR109DRLuykhKnwfYCzoRp6JxdW2Lro9ufP3/ACUdcTLZ/cDxz4/sTV0QJUOnqMiM8wFAgF1sp1/YwZxBqeIFIIuORDnJbPu+so7feg2pXDS4spYedbEdpzmXoBr80kjsBhUZUvqCyvPaNHW7PYhduOTHRkDnZdOY/FJYlRu6rrqr5LtMbUptDaUtuNuDlCUgDupWA6sy05L1UOPmHyaWO10s08/EJOIrNOv8PN6WtZNi1pdN+mqNsSltJStDr0he65zJUCD4Qe41GuBZEU10s1w59R/UNsffGyqUnj0j9zOmdGft95t2+zAuuuGqRIyy80307TfKvQjXVCQT2Jw37VKASuvBiQ1u0WFWW5HMVFu3DH6FKFnadb+DjTnZSFDykj0RiZtC7LBBk05mUYQRDKxszBYd5US44m09JpctuW224ohKyhQPKdPR00wZt6NoaE+YFVGKZVgHiSMyM2nMzL6rd0VEttS6pJU+ppCiUtjwlAJ9AAD/ADHElaVhdT2E66rHssyw7mA1w3DH6IpSdx1fwbaR3UtR8JA9k4Ho0LqskmEzZmWYABP/2Q=="
     x="8"
     y="237"
     width="24"
@@ -303,65 +303,11 @@
     font-size="11"
     font-weight="600"
   >
-    No Time to Relax
-  </text>
-  <text
-    x="217"
-    y="249"
-    fill="#c9d1d9"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="end"
-    font-size="11"
-  >
-    0.1h/2h
-  </text><defs>
-    <clipPath id="ico265">
-      <rect x="8" y="269" width="24" height="24" rx="4" />
-    </clipPath>
-    <filter id='shadow265' color-interpolation-filters="sRGB">
-      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
-    </filter>
-  </defs>
-  <rect
-    y="265"
-    width="225"
-    height="32"
-    fill="rgb(34, 83, 117)"
-    clip-path="url(#fullCliping)"
-  />
-  <rect
-    x="8"
-    y="269"
-    width="24"
-    height="24"
-    rx="4"
-    fill="rgb(34, 83, 117)"
-    filter="url(#shadow265)"
-  />
-  <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcEBQgJ/8QAKxAAAQMCBAYBBAMAAAAAAAAAAQIDBAUGAAcREwgSFCExQSIWYXGRUVOB/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQABQYB/8QAIxEAAgMAAQMEAwAAAAAAAAAAAQMAAgQREyExEhRBUZGxwf/aAAwDAQACEQMRAD8AybbluxuhStad11z5uOud1OKPlRPs43ebMuqwAJgNOll2Ekxq5dcPM3Mi070uCAY7EK14ImyN1BJe11+CdPB5UqPf+PviNKk3pSw72PEiatdS9we1RzAD6ei/1I/WGuhT6inXv9yquG3Y3RFSE7TqPm2632UhQ8KB9EYV0Zl2WQRG82llGAgy8tWBKmU5BjxnnwlI1LTZVp+dBhlJAoOYq4E3PAnQThoo0e0ciGrTmRuStZhQKxN5HAQtDLLG23qPv3I/JxQbLFmjqDxQ1H5M0WKoXn6RHe4sfwJmGmcN9yVfId7M6GeohszFR109DRLuykhKnwfYCzoRp6JxdW2Lro9ufP3/ACUdcTLZ/cDxz4/sTV0QJUOnqMiM8wFAgF1sp1/YwZxBqeIFIIuORDnJbPu+so7feg2pXDS4spYedbEdpzmXoBr80kjsBhUZUvqCyvPaNHW7PYhduOTHRkDnZdOY/FJYlRu6rrqr5LtMbUptDaUtuNuDlCUgDupWA6sy05L1UOPmHyaWO10s08/EJOIrNOv8PN6WtZNi1pdN+mqNsSltJStDr0he65zJUCD4Qe41GuBZEU10s1w59R/UNsffGyqUnj0j9zOmdGft95t2+zAuuuGqRIyy80307TfKvQjXVCQT2Jw37VKASuvBiQ1u0WFWW5HMVFu3DH6FKFnadb+DjTnZSFDykj0RiZtC7LBBk05mUYQRDKxszBYd5US44m09JpctuW224ohKyhQPKdPR00wZt6NoaE+YFVGKZVgHiSMyM2nMzL6rd0VEttS6pJU+ppCiUtjwlAJ9AAD/ADHElaVhdT2E66rHssyw7mA1w3DH6IpSdx1fwbaR3UtR8JA9k4Ho0LqskmEzZmWYABP/2Q=="
-    x="8"
-    y="269"
-    width="24"
-    height="24"
-    clip-path="url(#ico265)"
-  />
-  <text
-    x="40"
-    y="281"
-    fill="#c9d1d9"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="start"
-    font-size="11"
-    font-weight="600"
-  >
     Project Hospital
   </text>
   <text
     x="217"
-    y="281"
+    y="249"
     fill="#c9d1d9"
     font-family="Arial"
     dominant-baseline="middle"
