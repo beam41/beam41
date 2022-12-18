@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 169" height="169"
+    viewBox="0 0 225 137" height="137"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="169" rx="4" />
+        <rect x="0" y="0" width="225" height="137" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -57,7 +57,7 @@
     y="105"
     width="225"
     height="32"
-    fill="rgb(29, 25, 30)"
+    fill="rgb(25, 25, 34)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -66,11 +66,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(29, 25, 30)"
+    fill="rgb(25, 25, 34)"
     filter="url(#shadow105)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAACAkDBwUGCv/EAC8QAAEDAwIEBAQHAAAAAAAAAAECAwQFBhEABwgSITETIkFRFjJhcQkUI0OBkaH/xAAaAQACAgMAAAAAAAAAAAAAAAAFBgAEAQIH/8QAKhEAAgEDAgQFBQEAAAAAAAAAAQIDAAQRBTESIVGRImGB0fATM0FxoRX/2gAMAwEAAhEDEQA/AFaSJEqpz3HHHXJEl5ZUpSlEqUon1OpUo59u/wAO2fa0aNVb/C5r60BxMKKSYrJx8rixgrV1HlHKMgjKhpLv9YnwVtlwOv59Ph9KabLTIThpmyenvW1XpwZWHdcbMZp2iTseWRTSEpPtlrHKR9QB276Awa9d25wx4h0PvvRabSbaYchwnyoT92uHO4dlZKaixWolUhsrStEiM4Wn2+owSg/X2J09aZqH+kpZYyMb9O9K17p7WfMsCD37VgOHy0Wr33dtaiugKRUatFhn7OPJSf8ADowx4UJoUBlgK6Q/huDLpyGXo6FgowTjVQxK6BHGRWQ7qxdGwTQpcWtl03bm1ZdcpbRZlrwEttK5AtRUkYI7ep641St9As7u9i4x4STkfoE7770Yh1e4WF1O4xg/s0tjfuDU3bTlzqg4gLeQf0GskJA69VHuf6Gum3UEVtZmKFQqgbCgJleZy7nJqLhh2pqG0992luBdrD0eMl1mo02Gls+G+T5my4/goQflUEDmV0woI6ZRoSl8WhikAI7+gq99F4QJXU4pxVhcS1AumEnxQuK420XHObCkIQkeZZUnICfqrGtpYZoPuDl5e1VwFf7Z71R3HJfcC4LfocGA+JDb8pC1Fvr5U5J7fxoropWS7JU54VP9I9jUeN4oSXGMkfzPvS6uIq+aQq2lU0SmzIXzBKEnmJJSpPp3698ZA9SO2mTUZUSEqx5mqqDnUe2HHhdG38D4Zuy32KxTWAIyi22Gn0JHQhSFAoX06Ywn764/daEsrGSByrb9R7j+0z22qtGAsq5HlvV4QOM6wpO28ul0CSLQYWS/NZpaEU+ZMSf2HVlCwtvv5Wsdz76J6Y+oR3KQ3niUZ8R54/PXttWl0LKaNpYjhum3zz3oWd2eKyt3o2zTqRHZpdLio8FhuO1yoSnpk4OVOKVgErcJKvUZAOm9r1IeIWo5ndjufnwUCPEwAY8hVGD8/XKmjm8ebNfWEgqytaz2A0IZmc8THJrNf//Z"
+    href="data:image/jpeg;base64,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"
     x="8"
     y="109"
     width="24"
@@ -87,65 +87,11 @@
     font-size="11"
     font-weight="600"
   >
-    Software Inc.
-  </text>
-  <text
-    x="217"
-    y="121"
-    fill="#c9d1d9"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="end"
-    font-size="11"
-  >
-    2.9h/182.6h
-  </text><defs>
-    <clipPath id="ico137">
-      <rect x="8" y="141" width="24" height="24" rx="4" />
-    </clipPath>
-    <filter id='shadow137' color-interpolation-filters="sRGB">
-      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
-    </filter>
-  </defs>
-  <rect
-    y="137"
-    width="225"
-    height="32"
-    fill="rgb(25, 25, 34)"
-    clip-path="url(#fullCliping)"
-  />
-  <rect
-    x="8"
-    y="141"
-    width="24"
-    height="24"
-    rx="4"
-    fill="rgb(25, 25, 34)"
-    filter="url(#shadow137)"
-  />
-  <image
-    href="data:image/jpeg;base64,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"
-    x="8"
-    y="141"
-    width="24"
-    height="24"
-    clip-path="url(#ico137)"
-  />
-  <text
-    x="40"
-    y="153"
-    fill="#c9d1d9"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="start"
-    font-size="11"
-    font-weight="600"
-  >
     MONSTER HUNTER...
   </text>
   <text
     x="217"
-    y="153"
+    y="121"
     fill="#c9d1d9"
     font-family="Arial"
     dominant-baseline="middle"
