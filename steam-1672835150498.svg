@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 265" height="265"
+    viewBox="0 0 225 297" height="297"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="265" rx="4" />
+        <rect x="0" y="0" width="225" height="297" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -315,4 +315,58 @@
     font-size="11"
   >
     0.1h/145.2h
+  </text><defs>
+    <clipPath id="ico265">
+      <rect x="8" y="269" width="24" height="24" rx="4" />
+    </clipPath>
+    <filter id='shadow265' color-interpolation-filters="sRGB">
+      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
+    </filter>
+  </defs>
+  <rect
+    y="265"
+    width="225"
+    height="32"
+    fill="rgb(121, 156, 198)"
+    clip-path="url(#fullCliping)"
+  />
+  <rect
+    x="8"
+    y="269"
+    width="24"
+    height="24"
+    rx="4"
+    fill="rgb(121, 156, 198)"
+    filter="url(#shadow265)"
+  />
+  <image
+    href="data:image/jpeg;base64,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"
+    x="8"
+    y="269"
+    width="24"
+    height="24"
+    clip-path="url(#ico265)"
+  />
+  <text
+    x="40"
+    y="281"
+    fill="#24292f"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="start"
+    font-size="11"
+    font-weight="600"
+  >
+    Feeding Frenzy 2: Shi...
+  </text>
+  <text
+    x="217"
+    y="281"
+    fill="#24292f"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="end"
+    font-size="11"
+  >
+    0.1h/2.1h
   </text></svg>
