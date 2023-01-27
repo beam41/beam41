@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 393" height="393"
+    viewBox="0 0 225 361" height="361"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="393" rx="4" />
+        <rect x="0" y="0" width="225" height="361" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -44,7 +44,7 @@
       font-size="10"
       font-weight="600"
     >
-      21h (2 weeks)/203.6h (total)
+      26.5h (2 weeks)/209.1h (total)
     </text><defs>
     <clipPath id="ico105">
       <rect x="8" y="109" width="24" height="24" rx="4" />
@@ -477,58 +477,4 @@
     font-size="11"
   >
     0.1h/443h
-  </text><defs>
-    <clipPath id="ico361">
-      <rect x="8" y="365" width="24" height="24" rx="4" />
-    </clipPath>
-    <filter id='shadow361' color-interpolation-filters="sRGB">
-      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
-    </filter>
-  </defs>
-  <rect
-    y="361"
-    width="225"
-    height="32"
-    fill="rgb(9, 7, 7)"
-    clip-path="url(#fullCliping)"
-  />
-  <rect
-    x="8"
-    y="365"
-    width="24"
-    height="24"
-    rx="4"
-    fill="rgb(9, 7, 7)"
-    filter="url(#shadow361)"
-  />
-  <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABgQFBwgJCv/EAC0QAAIBAwMDAwMDBQAAAAAAAAECAwQFEQYHEgAIEwkUISIxQRUyURcjM1Jh/8QAGgEAAgMBAQAAAAAAAAAAAAAAAgYDBAUBB//EACoRAAEDAwIEBgMBAAAAAAAAAAEAAgMEESEFMRJBUWEycYGRsdEGFCLB/9oADAMBAAIRAxEAPwDNXQWldP6oe5Lfta0GjfbwiSmavoqqpWqfOPGPbxyFP5ywx1w3GyJoBP8ARstBtjfSBqNxtvLVcdV6phsEs/kq462zj3nu45AviADcAqKq8gf3EyOPkcSCxa4K1KiGihp2iOQvmJzYWYB0ucl3XAA7po3L9JRbDt/a7tpHcq0aihguE1Pc7zURe2jOZUhWNVEronikR1Yl8lpDkqEHUReGgu5KnFEJH8Drg+V7/HJAd+9LDWNqsN3qabVlsrbnbaB7lJSrErQvErBSBLFLIysQeQ5xqCFbBPE9DFKJjYK5T6e6qnZBE8XebC9xm2Ad99tzuLoj7OOxKyaj0tpbcfWtRUVMlTIa+msIHCF4QT4WkdWDZJAkwPgqVBHycUqipLSWNW3pejNnjbUTbHYdloKq19HaEo7NcJ7Y9LTiG3hZZDBSlE4w/wBtWHJEwv0ZGQMZ6zhPID4imeXTqRzCBE2/kmOvFbpDYu96QWkgu1qktlS1TS00J8nuZC801RCHZi4MzvJ4nJODgN8AG7FVEGxWOdL/AFpoquB1nMc0kcsEe3wkfaMq/wBRrlRxwwvQ19mY1UaIPHIodOJIAwR9bD5/DHpglwMJ0/NAxunskZgtkHCRjcH6BUO9lfcVprdfafTGnXuFFRaws1DHbZ7OGWOSRIFWOOWJPjkrIqE8R9LEj4GMrFVC5jy4DBSlo+oRSwNhcQHNxZWVX6RgDH/OqITCc7pFea16WOGliQy3Ovb2tDRr/kqJmGAAP9R+5m+yqCT1MxheeEc1TqaiOnic+Q4U4ba7Tad2vtwjtFvjhrZYY46qsLM8kxUflmJIXOTgYHz9ume5IAK881DV63VOEVUlw3YbAeg5991zGI7RuroxR1OQynBB/nrixlaPtP7tH2qh19Sa2vV7ultq9Oz/AKJTrXVBeK6oV9uEYMREjAuHbH2VfyADA+Bkm4WjT11TACGSEDp1+f8AFJfZz6jeqdIbwacpNwamx1Gmq2aSnu1/qLckdekbI3BjMmBxV/HkcSCAfyeXRtjazwhQPlmqnASOue5+8BHW63q/XuW96po9KWUPa5rlUQ0bSVRUGlRVjil8ijliXDu0a8CmBiRuR4i5jjezrAoo5Io7F7OIjvj1A391/9k="
-    x="8"
-    y="365"
-    width="24"
-    height="24"
-    clip-path="url(#ico361)"
-  />
-  <text
-    x="40"
-    y="377"
-    fill="#c9d1d9"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="start"
-    font-size="11"
-    font-weight="600"
-  >
-    STORY OF SEASONS: ...
-  </text>
-  <text
-    x="217"
-    y="377"
-    fill="#c9d1d9"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="end"
-    font-size="11"
-  >
-    0.1h/1.6h
   </text></svg>
