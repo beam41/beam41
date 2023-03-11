@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 233" height="233"
+    viewBox="0 0 225 265" height="265"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="233" rx="4" />
+        <rect x="0" y="0" width="225" height="265" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -44,7 +44,7 @@
       font-size="10"
       font-weight="600"
     >
-      43.5h (2 weeks)/67h (total)
+      41h (2 weeks)/67.9h (total)
     </text><defs>
     <clipPath id="ico105">
       <rect x="8" y="109" width="24" height="24" rx="4" />
@@ -219,7 +219,7 @@
     y="201"
     width="225"
     height="32"
-    fill="rgb(9, 9, 9)"
+    fill="rgb(229, 44, 132)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -228,11 +228,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(9, 9, 9)"
+    fill="rgb(229, 44, 132)"
     filter="url(#shadow201)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAACAEFBwkEBgr/xAAtEAACAQMDAwMDAwUAAAAAAAABAgMEBQYHERIACCETMUEJIlEUMnEVJCVCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCrGtrZ6yrmnnmeaaRyzu7EliT7k9A96e4ReNT86sGJWKM1F3vVbFQUqEniHkYKGYj2Ub7sfgAn46A4O93C8DwLX3Q7RaouMNrwTF7dSteq+TlGxSab+4Zyg39R4oFYEf7Te48noNM1Ry/BO6mz59l2BY5Waa5BiSf1p19OnkgvFP63FpJp0iWSGpPNWERkkRingE8nABi/72/noLKvo09vgvmYZDq/dKblS2QNaLMzjwauRN6iUHfwUhZU/BFQ3yvQQ33GajVXdf3ZtT5LFCNPqLNocaiymjokiehtrVJj4PUKoDBkWWdfW5FSJOJC8x0C9/VJmGjmolfpDaMXosF0veSKptFusNLst6hXbhPU1J3lqZQwHJZGIVkXYeFYgHD/AL2/noLZPox6+LcscyfSG5Sj9TbWa+Wgn3aB2VKiP8fZIY3HuT6z/C9Ab+F9r2kun2SZJd8ewi1W+539f8oqhpI51MnqAei7GNF5ryAVQN1/50GTrhjdputnjuNbbaWrr6GGRaWpmhV5IAzI7cCRuu7RRHx8ov46Dm5raKejq5oJ4Xhmjcq6OpBUg+xHQSD266xXHt+1qxPPbfHJKbRWK9TTpsDUUzApPF58AtGzqCfYkH46AufqNa/ZVTdwdqzLCLnWW3Hr1h1Lb6K72yokjStiE8lUrq6EFZI5ZI3XyGHFD7N5B71x7wM41Z7KdKb3SXSaPLVvj2m9GiJiernSCdYZSqEbkjhNttxEgUhftXYP/9k="
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDkCea98/uUTNMAzQAZoApanrVnoyGW9N0kI5aSCynnCjPcxo2Pxqbpbnm4vMcPgFzYhSUV1VOpJffGMkvmz5u8XfFzxnqOtXD2njLRvDFoGPk6eqShkXtuZ4NzN6npnoB0rzp16jlo7H4Rj+Js2xdaU4Y+FCPSC51ZebdO8n3b67JbFWbxZ8TLd71JfiRpkbWUay3IZyPJDFQob9x97LqNv3gcggbWwvaVf5zneZZ9FzUs0S5Um/enpe2/ub6pcvxJ3ulyyt6t8I9H8d3TQa34p8X/ANpaXLCJbOxtVwJww+WSQmNSFwQwUcnIJwBg9dKNR+9OWh+j8MYPO6soY/Msa50mrxim/eutHK8U1Hqlu9Hot8r4/wCh+OvHyw+HvDWjTHRYWWa7u5LiKBbqXGVVd7glEz+LZ4+UEzXVSolCC0/P/hvz+Rw8ZYXPM5ksBl1CTox1k24xU5WurXavGN/Ryvp7qZp6X8AbFdP8PQ6zrWoai+lIZfIWTdCbtgN0oLAkhSsYVcBcRDIO5stYdWSb/wCHOnD8DUnRoQxuIlJwV7LZTe7Tle6VopLlS91XWsr6ll8B/BttbpFc2d1qzC5a8ll1C6Z3uZjj55iu3zMc4B4G9+DuOaWHpKyS2/ryPWo8FZNTio1YyqO7k3KWsm+suVRvbW1+8u7PQWYuxJ5JrpbufdCHrSEFABQAUAf/2Q=="
     x="8"
     y="205"
     width="24"
@@ -249,11 +249,65 @@
     font-size="11"
     font-weight="600"
   >
-    The Elder Scrolls V: S...
+    Forza Horizon 5
   </text>
   <text
     x="217"
     y="217"
+    fill="#c9d1d9"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="end"
+    font-size="11"
+  >
+    0.3h/275.1h
+  </text><defs>
+    <clipPath id="ico233">
+      <rect x="8" y="237" width="24" height="24" rx="4" />
+    </clipPath>
+    <filter id='shadow233' color-interpolation-filters="sRGB">
+      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
+    </filter>
+  </defs>
+  <rect
+    y="233"
+    width="225"
+    height="32"
+    fill="rgb(9, 9, 9)"
+    clip-path="url(#fullCliping)"
+  />
+  <rect
+    x="8"
+    y="237"
+    width="24"
+    height="24"
+    rx="4"
+    fill="rgb(9, 9, 9)"
+    filter="url(#shadow233)"
+  />
+  <image
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAACAEFBwkEBgr/xAAtEAACAQMDAwMDAwUAAAAAAAABAgMEBQYHERIACCETMUEJIlEUMnEVJCVCYf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCrGtrZ6yrmnnmeaaRyzu7EliT7k9A96e4ReNT86sGJWKM1F3vVbFQUqEniHkYKGYj2Ub7sfgAn46A4O93C8DwLX3Q7RaouMNrwTF7dSteq+TlGxSab+4Zyg39R4oFYEf7Te48noNM1Ry/BO6mz59l2BY5Waa5BiSf1p19OnkgvFP63FpJp0iWSGpPNWERkkRingE8nABi/72/noLKvo09vgvmYZDq/dKblS2QNaLMzjwauRN6iUHfwUhZU/BFQ3yvQQ33GajVXdf3ZtT5LFCNPqLNocaiymjokiehtrVJj4PUKoDBkWWdfW5FSJOJC8x0C9/VJmGjmolfpDaMXosF0veSKptFusNLst6hXbhPU1J3lqZQwHJZGIVkXYeFYgHD/AL2/noLZPox6+LcscyfSG5Sj9TbWa+Wgn3aB2VKiP8fZIY3HuT6z/C9Ab+F9r2kun2SZJd8ewi1W+539f8oqhpI51MnqAei7GNF5ryAVQN1/50GTrhjdputnjuNbbaWrr6GGRaWpmhV5IAzI7cCRuu7RRHx8ov46Dm5raKejq5oJ4Xhmjcq6OpBUg+xHQSD266xXHt+1qxPPbfHJKbRWK9TTpsDUUzApPF58AtGzqCfYkH46AufqNa/ZVTdwdqzLCLnWW3Hr1h1Lb6K72yokjStiE8lUrq6EFZI5ZI3XyGHFD7N5B71x7wM41Z7KdKb3SXSaPLVvj2m9GiJiernSCdYZSqEbkjhNttxEgUhftXYP/9k="
+    x="8"
+    y="237"
+    width="24"
+    height="24"
+    clip-path="url(#ico233)"
+  />
+  <text
+    x="40"
+    y="249"
+    fill="#c9d1d9"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="start"
+    font-size="11"
+    font-weight="600"
+  >
+    The Elder Scrolls V: S...
+  </text>
+  <text
+    x="217"
+    y="249"
     fill="#c9d1d9"
     font-family="Arial"
     dominant-baseline="middle"
