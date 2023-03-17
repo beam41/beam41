@@ -44,7 +44,7 @@
       font-size="10"
       font-weight="600"
     >
-      22.3h (2 weeks)/68.2h (total)
+      19h (2 weeks)/68.2h (total)
     </text><defs>
     <clipPath id="ico105">
       <rect x="8" y="109" width="24" height="24" rx="4" />
@@ -165,7 +165,7 @@
     y="169"
     width="225"
     height="32"
-    fill="rgb(11, 7, 6)"
+    fill="rgb(131, 164, 172)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -174,11 +174,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(11, 7, 6)"
+    fill="rgb(131, 164, 172)"
     filter="url(#shadow169)"
   />
   <image
-    href="data:image/jpeg;base64,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"
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABgcABQMECP/EACoQAAEDAwIEBgMBAAAAAAAAAAECAwQFBhEAIQcSMVEIExQyQWEWIqGB/8QAGgEAAgMBAQAAAAAAAAAAAAAABQYDBAcCAP/EACYRAAEDBAIBAwUAAAAAAAAAAAEAAgMEBRESITETBkFxFCJRgfD/2gAMAwEAAhEDEQA/ACP0h7aed1meqw1GPIiUSpzo0J2oPQ2Q8mKzgKc/dKcZPT3Z/wA0LuNzitsImmOG5wilutz7jP4I+8EqntCszLjjvrm0h2jOtrCUsvuJUpYx7tvj41xbrtBc2OfA4EA44U1ztM1se1ko7GeUQ+jPbRbdBtEQimHtql5Fc0VTeFWFqWjWpJaWsuRVIHJjbCkrJ3+knSn6lpnXCjbTsOCXA8/tNfpmVtHXed/QBSwt/hfcrt2WbfMavxk02tQedcMtEueQVc3ln4ByOo0jWK7xW6tNsaw7B2pOeCfynC8W990ppLgXjVoyARzjtOkUv61snkWS6IzFvq7fzQvzBEvCUvePNLMLhxVVq2Hp3s5+m1HVGpkDtflFKCMsc74QNAh3vaHh/sq9BVKNPo8K33KgzDcadD3ljmUGiQcZxtn+aVGWambcnXAZ2Jzj2z/cpw+tkdQGj9iMZ902uG1S/PbDpNxrYTCTNZLqm+fKUYJB3ONttO7pte0hPptXFoW5eXH21qDRKhNoT8a53oCsSGosgJS1hQSrmVgnIz8A576VJri2NwaOSUxR0Jc0udxhc+8V/EQzxQizbeZVGpNCqDPLHmqaWZKSU4X7sJUDuOnQ/WqUlwlxnTpXIqWNh+13alSodyVnhjb1pUd+fU7cjsCC4ypKmg7EUSSEv5ONv16HXobg5oLn8kqBzyCW4TBoqLjue1KlZcqjJsSgRmPRxkwiHFvIJOHEr5tjtuCMHJ1HNXyycHGCuBGxuHDtf//Z"
     x="8"
     y="173"
     width="24"
@@ -188,25 +188,25 @@
   <text
     x="40"
     y="185"
-    fill="#c9d1d9"
+    fill="#24292f"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="start"
     font-size="11"
     font-weight="600"
   >
-    It Takes Two
+    LEGO® Builder's Journ...
   </text>
   <text
     x="217"
     y="185"
-    fill="#c9d1d9"
+    fill="#24292f"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="end"
     font-size="11"
   >
-    0.9h/24.6h
+    1.8h/4h
   </text><defs>
     <clipPath id="ico201">
       <rect x="8" y="205" width="24" height="24" rx="4" />
