@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 265" height="265"
+    viewBox="0 0 225 297" height="297"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="265" rx="4" />
+        <rect x="0" y="0" width="225" height="297" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -57,7 +57,7 @@
     y="105"
     width="225"
     height="32"
-    fill="rgb(131, 164, 172)"
+    fill="rgb(229, 44, 132)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -66,11 +66,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(131, 164, 172)"
+    fill="rgb(229, 44, 132)"
     filter="url(#shadow105)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABgcABQMECP/EACoQAAEDAwIEBgMBAAAAAAAAAAECAwQFBhEAIQcSMVEIExQyQWEWIqGB/8QAGgEAAgMBAQAAAAAAAAAAAAAABQYDBAcCAP/EACYRAAEDBAIBAwUAAAAAAAAAAAEAAgMEBRESITETBkFxFCJRgfD/2gAMAwEAAhEDEQA/ACP0h7aed1meqw1GPIiUSpzo0J2oPQ2Q8mKzgKc/dKcZPT3Z/wA0LuNzitsImmOG5wilutz7jP4I+8EqntCszLjjvrm0h2jOtrCUsvuJUpYx7tvj41xbrtBc2OfA4EA44U1ztM1se1ko7GeUQ+jPbRbdBtEQimHtql5Fc0VTeFWFqWjWpJaWsuRVIHJjbCkrJ3+knSn6lpnXCjbTsOCXA8/tNfpmVtHXed/QBSwt/hfcrt2WbfMavxk02tQedcMtEueQVc3ln4ByOo0jWK7xW6tNsaw7B2pOeCfynC8W990ppLgXjVoyARzjtOkUv61snkWS6IzFvq7fzQvzBEvCUvePNLMLhxVVq2Hp3s5+m1HVGpkDtflFKCMsc74QNAh3vaHh/sq9BVKNPo8K33KgzDcadD3ljmUGiQcZxtn+aVGWambcnXAZ2Jzj2z/cpw+tkdQGj9iMZ902uG1S/PbDpNxrYTCTNZLqm+fKUYJB3ONttO7pte0hPptXFoW5eXH21qDRKhNoT8a53oCsSGosgJS1hQSrmVgnIz8A576VJri2NwaOSUxR0Jc0udxhc+8V/EQzxQizbeZVGpNCqDPLHmqaWZKSU4X7sJUDuOnQ/WqUlwlxnTpXIqWNh+13alSodyVnhjb1pUd+fU7cjsCC4ypKmg7EUSSEv5ONv16HXobg5oLn8kqBzyCW4TBoqLjue1KlZcqjJsSgRmPRxkwiHFvIJOHEr5tjtuCMHJ1HNXyycHGCuBGxuHDtf//Z"
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDkCea98/uUTNMAzQAZoApanrVnoyGW9N0kI5aSCynnCjPcxo2Pxqbpbnm4vMcPgFzYhSUV1VOpJffGMkvmz5u8XfFzxnqOtXD2njLRvDFoGPk6eqShkXtuZ4NzN6npnoB0rzp16jlo7H4Rj+Js2xdaU4Y+FCPSC51ZebdO8n3b67JbFWbxZ8TLd71JfiRpkbWUay3IZyPJDFQob9x97LqNv3gcggbWwvaVf5zneZZ9FzUs0S5Um/enpe2/ub6pcvxJ3ulyyt6t8I9H8d3TQa34p8X/ANpaXLCJbOxtVwJww+WSQmNSFwQwUcnIJwBg9dKNR+9OWh+j8MYPO6soY/Msa50mrxim/eutHK8U1Hqlu9Hot8r4/wCh+OvHyw+HvDWjTHRYWWa7u5LiKBbqXGVVd7glEz+LZ4+UEzXVSolCC0/P/hvz+Rw8ZYXPM5ksBl1CTox1k24xU5WurXavGN/Ryvp7qZp6X8AbFdP8PQ6zrWoai+lIZfIWTdCbtgN0oLAkhSsYVcBcRDIO5stYdWSb/wCHOnD8DUnRoQxuIlJwV7LZTe7Tle6VopLlS91XWsr6ll8B/BttbpFc2d1qzC5a8ll1C6Z3uZjj55iu3zMc4B4G9+DuOaWHpKyS2/ryPWo8FZNTio1YyqO7k3KWsm+suVRvbW1+8u7PQWYuxJ5JrpbufdCHrSEFABQAUAf/2Q=="
     x="8"
     y="109"
     width="24"
@@ -80,25 +80,25 @@
   <text
     x="40"
     y="121"
-    fill="#24292f"
+    fill="#c9d1d9"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="start"
     font-size="11"
     font-weight="600"
   >
-    LEGO® Builder's Journ...
+    Forza Horizon 5
   </text>
   <text
     x="217"
     y="121"
-    fill="#24292f"
+    fill="#c9d1d9"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="end"
     font-size="11"
   >
-    1.8h/4h
+    2.3h/277.4h
   </text><defs>
     <clipPath id="ico137">
       <rect x="8" y="141" width="24" height="24" rx="4" />
@@ -111,7 +111,7 @@
     y="137"
     width="225"
     height="32"
-    fill="rgb(194, 195, 194)"
+    fill="rgb(131, 164, 172)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -120,11 +120,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(194, 195, 194)"
+    fill="rgb(131, 164, 172)"
     filter="url(#shadow137)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQFCAb/xAAtEAABAwIEBAUEAwAAAAAAAAABAgMEESEABQYSMUFRYQcTFCKBI0JSoWJxsf/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABkRAAIDAQAAAAAAAAAAAAAAAAERAAIhA//aAAwDAQACEQMRAD8ASGXPTGriudsSDq1mC2vdKbSoCyAobieNKfGCPVOs3XXXEQrNCySm6nFdO2K+QqNEo8wpDkhAPmyFEVUr7gD8W4c+uLboGk4RUpzrdO67n574htsx398Ci23GEpPAcXLj8rVr1theYd2XSQK/OMpeDsyRl+t2n3mVCO6FsF3glFiR+wMafyh1EpYDS0Okq2+1QIB6YtTmmWwRyD64MCRqJuWlpAiJBCWrbeYPe1D+/mu1LkcVUgGKgbyVEipNjWg/sYfdP6ZyuK3KiM5e8yG1pBccSAHKVA2dqf71rjn3znuW5lmLELJUekaWVMONRqlzcpVL3uEjj/LGAsjGQ8gPpgT2NQRstah7vOIP1Ga+3r3sDjQejMpk5fJSthpDDJuptIFBXntHCvXENUnUjZmFnI0l0R2zHX6cVW6Wr7qjkoitxwN+WLXKcx1K5MQqZHfQwZaUFJYFfKJUKm1iKJJNaU74Z6YoRTZ//9k="
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABgcABQMECP/EACoQAAEDAwIEBgMBAAAAAAAAAAECAwQFBhEAIQcSMVEIExQyQWEWIqGB/8QAGgEAAgMBAQAAAAAAAAAAAAAABQYDBAcCAP/EACYRAAEDBAIBAwUAAAAAAAAAAAEAAgMEBRESITETBkFxFCJRgfD/2gAMAwEAAhEDEQA/ACP0h7aed1meqw1GPIiUSpzo0J2oPQ2Q8mKzgKc/dKcZPT3Z/wA0LuNzitsImmOG5wilutz7jP4I+8EqntCszLjjvrm0h2jOtrCUsvuJUpYx7tvj41xbrtBc2OfA4EA44U1ztM1se1ko7GeUQ+jPbRbdBtEQimHtql5Fc0VTeFWFqWjWpJaWsuRVIHJjbCkrJ3+knSn6lpnXCjbTsOCXA8/tNfpmVtHXed/QBSwt/hfcrt2WbfMavxk02tQedcMtEueQVc3ln4ByOo0jWK7xW6tNsaw7B2pOeCfynC8W990ppLgXjVoyARzjtOkUv61snkWS6IzFvq7fzQvzBEvCUvePNLMLhxVVq2Hp3s5+m1HVGpkDtflFKCMsc74QNAh3vaHh/sq9BVKNPo8K33KgzDcadD3ljmUGiQcZxtn+aVGWambcnXAZ2Jzj2z/cpw+tkdQGj9iMZ902uG1S/PbDpNxrYTCTNZLqm+fKUYJB3ONttO7pte0hPptXFoW5eXH21qDRKhNoT8a53oCsSGosgJS1hQSrmVgnIz8A576VJri2NwaOSUxR0Jc0udxhc+8V/EQzxQizbeZVGpNCqDPLHmqaWZKSU4X7sJUDuOnQ/WqUlwlxnTpXIqWNh+13alSodyVnhjb1pUd+fU7cjsCC4ypKmg7EUSSEv5ONv16HXobg5oLn8kqBzyCW4TBoqLjue1KlZcqjJsSgRmPRxkwiHFvIJOHEr5tjtuCMHJ1HNXyycHGCuBGxuHDtf//Z"
     x="8"
     y="141"
     width="24"
@@ -141,7 +141,7 @@
     font-size="11"
     font-weight="600"
   >
-    WILD HEARTS™
+    LEGO® Builder's Journ...
   </text>
   <text
     x="217"
@@ -152,7 +152,7 @@
     text-anchor="end"
     font-size="11"
   >
-    1.5h/69.7h
+    1.8h/4h
   </text><defs>
     <clipPath id="ico169">
       <rect x="8" y="173" width="24" height="24" rx="4" />
@@ -165,7 +165,7 @@
     y="169"
     width="225"
     height="32"
-    fill="rgb(229, 44, 132)"
+    fill="rgb(194, 195, 194)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -174,11 +174,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(229, 44, 132)"
+    fill="rgb(194, 195, 194)"
     filter="url(#shadow169)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDkCea98/uUTNMAzQAZoApanrVnoyGW9N0kI5aSCynnCjPcxo2Pxqbpbnm4vMcPgFzYhSUV1VOpJffGMkvmz5u8XfFzxnqOtXD2njLRvDFoGPk6eqShkXtuZ4NzN6npnoB0rzp16jlo7H4Rj+Js2xdaU4Y+FCPSC51ZebdO8n3b67JbFWbxZ8TLd71JfiRpkbWUay3IZyPJDFQob9x97LqNv3gcggbWwvaVf5zneZZ9FzUs0S5Um/enpe2/ub6pcvxJ3ulyyt6t8I9H8d3TQa34p8X/ANpaXLCJbOxtVwJww+WSQmNSFwQwUcnIJwBg9dKNR+9OWh+j8MYPO6soY/Msa50mrxim/eutHK8U1Hqlu9Hot8r4/wCh+OvHyw+HvDWjTHRYWWa7u5LiKBbqXGVVd7glEz+LZ4+UEzXVSolCC0/P/hvz+Rw8ZYXPM5ksBl1CTox1k24xU5WurXavGN/Ryvp7qZp6X8AbFdP8PQ6zrWoai+lIZfIWTdCbtgN0oLAkhSsYVcBcRDIO5stYdWSb/wCHOnD8DUnRoQxuIlJwV7LZTe7Tle6VopLlS91XWsr6ll8B/BttbpFc2d1qzC5a8ll1C6Z3uZjj55iu3zMc4B4G9+DuOaWHpKyS2/ryPWo8FZNTio1YyqO7k3KWsm+suVRvbW1+8u7PQWYuxJ5JrpbufdCHrSEFABQAUAf/2Q=="
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQFCAb/xAAtEAABAwIEBAUEAwAAAAAAAAABAgMEESEABQYSMUFRYQcTFCKBI0JSoWJxsf/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABkRAAIDAQAAAAAAAAAAAAAAAAERAAIhA//aAAwDAQACEQMRAD8ASGXPTGriudsSDq1mC2vdKbSoCyAobieNKfGCPVOs3XXXEQrNCySm6nFdO2K+QqNEo8wpDkhAPmyFEVUr7gD8W4c+uLboGk4RUpzrdO67n574htsx398Ci23GEpPAcXLj8rVr1theYd2XSQK/OMpeDsyRl+t2n3mVCO6FsF3glFiR+wMafyh1EpYDS0Okq2+1QIB6YtTmmWwRyD64MCRqJuWlpAiJBCWrbeYPe1D+/mu1LkcVUgGKgbyVEipNjWg/sYfdP6ZyuK3KiM5e8yG1pBccSAHKVA2dqf71rjn3znuW5lmLELJUekaWVMONRqlzcpVL3uEjj/LGAsjGQ8gPpgT2NQRstah7vOIP1Ga+3r3sDjQejMpk5fJSthpDDJuptIFBXntHCvXENUnUjZmFnI0l0R2zHX6cVW6Wr7qjkoitxwN+WLXKcx1K5MQqZHfQwZaUFJYFfKJUKm1iKJJNaU74Z6YoRTZ//9k="
     x="8"
     y="173"
     width="24"
@@ -188,25 +188,25 @@
   <text
     x="40"
     y="185"
-    fill="#c9d1d9"
+    fill="#24292f"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="start"
     font-size="11"
     font-weight="600"
   >
-    Forza Horizon 5
+    WILD HEARTS™
   </text>
   <text
     x="217"
     y="185"
-    fill="#c9d1d9"
+    fill="#24292f"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="end"
     font-size="11"
   >
-    0.9h/276h
+    1.5h/69.7h
   </text><defs>
     <clipPath id="ico201">
       <rect x="8" y="205" width="24" height="24" rx="4" />
@@ -273,7 +273,7 @@
     y="233"
     width="225"
     height="32"
-    fill="rgb(29, 25, 30)"
+    fill="rgb(172, 176, 171)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -282,11 +282,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(29, 25, 30)"
+    fill="rgb(172, 176, 171)"
     filter="url(#shadow233)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAACAkDBwUGCv/EAC8QAAEDAwIEBAQHAAAAAAAAAAECAwQFBhEABwgSITETIkFRFjJhcQkUI0OBkaH/xAAaAQACAgMAAAAAAAAAAAAAAAAFBgAEAQIH/8QAKhEAAgEDAgQFBQEAAAAAAAAAAQIDAAQRBTESIVGRImGB0fATM0FxoRX/2gAMAwEAAhEDEQA/AFaSJEqpz3HHHXJEl5ZUpSlEqUon1OpUo59u/wAO2fa0aNVb/C5r60BxMKKSYrJx8rixgrV1HlHKMgjKhpLv9YnwVtlwOv59Ph9KabLTIThpmyenvW1XpwZWHdcbMZp2iTseWRTSEpPtlrHKR9QB276Awa9d25wx4h0PvvRabSbaYchwnyoT92uHO4dlZKaixWolUhsrStEiM4Wn2+owSg/X2J09aZqH+kpZYyMb9O9K17p7WfMsCD37VgOHy0Wr33dtaiugKRUatFhn7OPJSf8ADowx4UJoUBlgK6Q/huDLpyGXo6FgowTjVQxK6BHGRWQ7qxdGwTQpcWtl03bm1ZdcpbRZlrwEttK5AtRUkYI7ep641St9As7u9i4x4STkfoE7770Yh1e4WF1O4xg/s0tjfuDU3bTlzqg4gLeQf0GskJA69VHuf6Gum3UEVtZmKFQqgbCgJleZy7nJqLhh2pqG0992luBdrD0eMl1mo02Gls+G+T5my4/goQflUEDmV0woI6ZRoSl8WhikAI7+gq99F4QJXU4pxVhcS1AumEnxQuK420XHObCkIQkeZZUnICfqrGtpYZoPuDl5e1VwFf7Z71R3HJfcC4LfocGA+JDb8pC1Fvr5U5J7fxoropWS7JU54VP9I9jUeN4oSXGMkfzPvS6uIq+aQq2lU0SmzIXzBKEnmJJSpPp3698ZA9SO2mTUZUSEqx5mqqDnUe2HHhdG38D4Zuy32KxTWAIyi22Gn0JHQhSFAoX06Ywn764/daEsrGSByrb9R7j+0z22qtGAsq5HlvV4QOM6wpO28ul0CSLQYWS/NZpaEU+ZMSf2HVlCwtvv5Wsdz76J6Y+oR3KQ3niUZ8R54/PXttWl0LKaNpYjhum3zz3oWd2eKyt3o2zTqRHZpdLio8FhuO1yoSnpk4OVOKVgErcJKvUZAOm9r1IeIWo5ndjufnwUCPEwAY8hVGD8/XKmjm8ebNfWEgqytaz2A0IZmc8THJrNf//Z"
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAABggDBQf/xAAtEAACAgEDAgQFBAMAAAAAAAABAgMEBQYHEQASCBQhMRMVIjJBFiNCcSRRc//EABoBAAIDAQEAAAAAAAAAAAAAAAIDBAUGAQD/xAAqEQACAgECAgoDAQAAAAAAAAABAgADBBExIUEFBhITUWFxgZGxodHw4f/aAAwDAQACEQMRAD8AU/SfgvyO5FWnk62skvTZGFLPxIY67q0jRLK8Yd7SdzoHAZeOR+QB0DuqDVpwkDeWF/wC5XGSrHPqO2JGJAWPHQSE8AsT9Ns+gAJJ9gASeOOkLlUswRW4+8AWKToDBjE+EqplLOqI4twad75Hdes64mCO3JJCkEcz2SgsKREokZSy9ygxvyQB093CKWO3z9QyQo1Mls+FRcFjbObra3nrR0FeRblvHx1oPiohkWIS+ZP1t2+igEnkenHUbHy6coE0nUDyI+xFV3JbxQ6/MDPDXua+hNefLbOT+VYfNvHBJdcnsx9tWJq3Tx+IpDw/Hq0Mk6fzPUplDqVPONI1Ghjoaj3FTKqpzmOliX/JxmZxIcCWIOj1btcH2D9rToG9geCOsC2Uej83Szkfwecoe+7i7RuUWba/ZPMaC3N1fH2nI3seV0/gJYV4XJWsnE8daaMH+Pk2nsrz+ViVvv63NlvZr7a8fDzJ2l4zaLqIAeIvcCHV+vVxGJuea0tppfleMeNiY7Haf37Q/wBmaQM4J9Qnwk9kHHMelcepal2H9r7zlaCtQomUP97f31IjI3G32sf19ozF52aTvyEJiwebBPJNhIiKdo/9q8RjY/mSmWPrKOsV1lwjZUMtN14H0/w/coulKNUFy7jf0hRuRuJktIbYS5q3PCrYurNgtNIkfbN5y4D5iw7e8nwaycI3vEzw8cAjp3V++zLx1Fm1ZIB8fD4BPyIfR1jXVjtbL/fj9RH0+9f7618upNdpT07c0E8LwzRuVdHUgqQfYjr09DfZvX8OgdSWlyiWpNOZeq2PykdRA8yxlleOeJWIBkhmSKZASATH2kgMegdFsUo41B4GCyhgVOxl1v8Abq09x8jhMfgvOHTmFqlIGu11ry2bMpD2LDxK8gQniOMAO30QR8nnnqLh4leFQtFewiaKVx6xWvKZdSpT3LcMEELzTSOFREUksSfYDqbJE//Z"
     x="8"
     y="237"
     width="24"
@@ -296,6 +296,60 @@
   <text
     x="40"
     y="249"
+    fill="#24292f"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="start"
+    font-size="11"
+    font-weight="600"
+  >
+    Grand Theft Auto V
+  </text>
+  <text
+    x="217"
+    y="249"
+    fill="#24292f"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="end"
+    font-size="11"
+  >
+    0.3h/19.2h
+  </text><defs>
+    <clipPath id="ico265">
+      <rect x="8" y="269" width="24" height="24" rx="4" />
+    </clipPath>
+    <filter id='shadow265' color-interpolation-filters="sRGB">
+      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
+    </filter>
+  </defs>
+  <rect
+    y="265"
+    width="225"
+    height="32"
+    fill="rgb(29, 25, 30)"
+    clip-path="url(#fullCliping)"
+  />
+  <rect
+    x="8"
+    y="269"
+    width="24"
+    height="24"
+    rx="4"
+    fill="rgb(29, 25, 30)"
+    filter="url(#shadow265)"
+  />
+  <image
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAACAkDBwUGCv/EAC8QAAEDAwIEBAQHAAAAAAAAAAECAwQFBhEABwgSITETIkFRFjJhcQkUI0OBkaH/xAAaAQACAgMAAAAAAAAAAAAAAAAFBgAEAQIH/8QAKhEAAgEDAgQFBQEAAAAAAAAAAQIDAAQRBTESIVGRImGB0fATM0FxoRX/2gAMAwEAAhEDEQA/AFaSJEqpz3HHHXJEl5ZUpSlEqUon1OpUo59u/wAO2fa0aNVb/C5r60BxMKKSYrJx8rixgrV1HlHKMgjKhpLv9YnwVtlwOv59Ph9KabLTIThpmyenvW1XpwZWHdcbMZp2iTseWRTSEpPtlrHKR9QB276Awa9d25wx4h0PvvRabSbaYchwnyoT92uHO4dlZKaixWolUhsrStEiM4Wn2+owSg/X2J09aZqH+kpZYyMb9O9K17p7WfMsCD37VgOHy0Wr33dtaiugKRUatFhn7OPJSf8ADowx4UJoUBlgK6Q/huDLpyGXo6FgowTjVQxK6BHGRWQ7qxdGwTQpcWtl03bm1ZdcpbRZlrwEttK5AtRUkYI7ep641St9As7u9i4x4STkfoE7770Yh1e4WF1O4xg/s0tjfuDU3bTlzqg4gLeQf0GskJA69VHuf6Gum3UEVtZmKFQqgbCgJleZy7nJqLhh2pqG0992luBdrD0eMl1mo02Gls+G+T5my4/goQflUEDmV0woI6ZRoSl8WhikAI7+gq99F4QJXU4pxVhcS1AumEnxQuK420XHObCkIQkeZZUnICfqrGtpYZoPuDl5e1VwFf7Z71R3HJfcC4LfocGA+JDb8pC1Fvr5U5J7fxoropWS7JU54VP9I9jUeN4oSXGMkfzPvS6uIq+aQq2lU0SmzIXzBKEnmJJSpPp3698ZA9SO2mTUZUSEqx5mqqDnUe2HHhdG38D4Zuy32KxTWAIyi22Gn0JHQhSFAoX06Ywn764/daEsrGSByrb9R7j+0z22qtGAsq5HlvV4QOM6wpO28ul0CSLQYWS/NZpaEU+ZMSf2HVlCwtvv5Wsdz76J6Y+oR3KQ3niUZ8R54/PXttWl0LKaNpYjhum3zz3oWd2eKyt3o2zTqRHZpdLio8FhuO1yoSnpk4OVOKVgErcJKvUZAOm9r1IeIWo5ndjufnwUCPEwAY8hVGD8/XKmjm8ebNfWEgqytaz2A0IZmc8THJrNf//Z"
+    x="8"
+    y="269"
+    width="24"
+    height="24"
+    clip-path="url(#ico265)"
+  />
+  <text
+    x="40"
+    y="281"
     fill="#c9d1d9"
     font-family="Arial"
     dominant-baseline="middle"
@@ -307,7 +361,7 @@
   </text>
   <text
     x="217"
-    y="249"
+    y="281"
     fill="#c9d1d9"
     font-family="Arial"
     dominant-baseline="middle"
