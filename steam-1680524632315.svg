@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 265" height="265"
+    viewBox="0 0 225 233" height="233"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="265" rx="4" />
+        <rect x="0" y="0" width="225" height="233" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -44,7 +44,7 @@
       font-size="10"
       font-weight="600"
     >
-      15.2h (2 weeks)/109.9h (total)
+      18.5h (2 weeks)/113.2h (total)
     </text><defs>
     <clipPath id="ico105">
       <rect x="8" y="109" width="24" height="24" rx="4" />
@@ -261,58 +261,4 @@
     font-size="11"
   >
     0.3h/19.2h
-  </text><defs>
-    <clipPath id="ico233">
-      <rect x="8" y="237" width="24" height="24" rx="4" />
-    </clipPath>
-    <filter id='shadow233' color-interpolation-filters="sRGB">
-      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
-    </filter>
-  </defs>
-  <rect
-    y="233"
-    width="225"
-    height="32"
-    fill="rgb(29, 25, 30)"
-    clip-path="url(#fullCliping)"
-  />
-  <rect
-    x="8"
-    y="237"
-    width="24"
-    height="24"
-    rx="4"
-    fill="rgb(29, 25, 30)"
-    filter="url(#shadow233)"
-  />
-  <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAACAkDBwUGCv/EAC8QAAEDAwIEBAQHAAAAAAAAAAECAwQFBhEABwgSITETIkFRFjJhcQkUI0OBkaH/xAAaAQACAgMAAAAAAAAAAAAAAAAFBgAEAQIH/8QAKhEAAgEDAgQFBQEAAAAAAAAAAQIDAAQRBTESIVGRImGB0fATM0FxoRX/2gAMAwEAAhEDEQA/AFaSJEqpz3HHHXJEl5ZUpSlEqUon1OpUo59u/wAO2fa0aNVb/C5r60BxMKKSYrJx8rixgrV1HlHKMgjKhpLv9YnwVtlwOv59Ph9KabLTIThpmyenvW1XpwZWHdcbMZp2iTseWRTSEpPtlrHKR9QB276Awa9d25wx4h0PvvRabSbaYchwnyoT92uHO4dlZKaixWolUhsrStEiM4Wn2+owSg/X2J09aZqH+kpZYyMb9O9K17p7WfMsCD37VgOHy0Wr33dtaiugKRUatFhn7OPJSf8ADowx4UJoUBlgK6Q/huDLpyGXo6FgowTjVQxK6BHGRWQ7qxdGwTQpcWtl03bm1ZdcpbRZlrwEttK5AtRUkYI7ep641St9As7u9i4x4STkfoE7770Yh1e4WF1O4xg/s0tjfuDU3bTlzqg4gLeQf0GskJA69VHuf6Gum3UEVtZmKFQqgbCgJleZy7nJqLhh2pqG0992luBdrD0eMl1mo02Gls+G+T5my4/goQflUEDmV0woI6ZRoSl8WhikAI7+gq99F4QJXU4pxVhcS1AumEnxQuK420XHObCkIQkeZZUnICfqrGtpYZoPuDl5e1VwFf7Z71R3HJfcC4LfocGA+JDb8pC1Fvr5U5J7fxoropWS7JU54VP9I9jUeN4oSXGMkfzPvS6uIq+aQq2lU0SmzIXzBKEnmJJSpPp3698ZA9SO2mTUZUSEqx5mqqDnUe2HHhdG38D4Zuy32KxTWAIyi22Gn0JHQhSFAoX06Ywn764/daEsrGSByrb9R7j+0z22qtGAsq5HlvV4QOM6wpO28ul0CSLQYWS/NZpaEU+ZMSf2HVlCwtvv5Wsdz76J6Y+oR3KQ3niUZ8R54/PXttWl0LKaNpYjhum3zz3oWd2eKyt3o2zTqRHZpdLio8FhuO1yoSnpk4OVOKVgErcJKvUZAOm9r1IeIWo5ndjufnwUCPEwAY8hVGD8/XKmjm8ebNfWEgqytaz2A0IZmc8THJrNf//Z"
-    x="8"
-    y="237"
-    width="24"
-    height="24"
-    clip-path="url(#ico233)"
-  />
-  <text
-    x="40"
-    y="249"
-    fill="#c9d1d9"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="start"
-    font-size="11"
-    font-weight="600"
-  >
-    Software Inc.
-  </text>
-  <text
-    x="217"
-    y="249"
-    fill="#c9d1d9"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="end"
-    font-size="11"
-  >
-    0.2h/210.2h
   </text></svg>
