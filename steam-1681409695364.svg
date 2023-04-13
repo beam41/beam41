@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 265" height="265"
+    viewBox="0 0 225 233" height="233"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="265" rx="4" />
+        <rect x="0" y="0" width="225" height="233" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -111,7 +111,7 @@
     y="137"
     width="225"
     height="32"
-    fill="rgb(229, 44, 132)"
+    fill="rgb(92, 151, 162)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -120,11 +120,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(229, 44, 132)"
+    fill="rgb(92, 151, 162)"
     filter="url(#shadow137)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDkCea98/uUTNMAzQAZoApanrVnoyGW9N0kI5aSCynnCjPcxo2Pxqbpbnm4vMcPgFzYhSUV1VOpJffGMkvmz5u8XfFzxnqOtXD2njLRvDFoGPk6eqShkXtuZ4NzN6npnoB0rzp16jlo7H4Rj+Js2xdaU4Y+FCPSC51ZebdO8n3b67JbFWbxZ8TLd71JfiRpkbWUay3IZyPJDFQob9x97LqNv3gcggbWwvaVf5zneZZ9FzUs0S5Um/enpe2/ub6pcvxJ3ulyyt6t8I9H8d3TQa34p8X/ANpaXLCJbOxtVwJww+WSQmNSFwQwUcnIJwBg9dKNR+9OWh+j8MYPO6soY/Msa50mrxim/eutHK8U1Hqlu9Hot8r4/wCh+OvHyw+HvDWjTHRYWWa7u5LiKBbqXGVVd7glEz+LZ4+UEzXVSolCC0/P/hvz+Rw8ZYXPM5ksBl1CTox1k24xU5WurXavGN/Ryvp7qZp6X8AbFdP8PQ6zrWoai+lIZfIWTdCbtgN0oLAkhSsYVcBcRDIO5stYdWSb/wCHOnD8DUnRoQxuIlJwV7LZTe7Tle6VopLlS91XWsr6ll8B/BttbpFc2d1qzC5a8ll1C6Z3uZjj55iu3zMc4B4G9+DuOaWHpKyS2/ryPWo8FZNTio1YyqO7k3KWsm+suVRvbW1+8u7PQWYuxJ5JrpbufdCHrSEFABQAUAf/2Q=="
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gOTAK/9sAQwADAgIDAgIDAwMDBAMDBAUIBQUEBAUKBwcGCAwKDAwLCgsLDQ4SEA0OEQ4LCxAWEBETFBUVFQwPFxgWFBgSFBUU/9sAQwEDBAQFBAUJBQUJFA0LDRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQU/8AAEQgAIAAgAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A5v4LfCDwn4h8H6Vd6hoOnahd3FtHNNcXlqkskjsoLEswJ6mvTZvgD4DS90jTx4X0KK51S48iJm06H5QFLux+XoFU/iVHes79l+FdR8K6JEDkC0hH/jorY8aavq+v/E77ToUIltNIBtrWUvhTtbEz/wDAnG3I7Rj1rrzvFQy3AyqJpTasr6a/8A/O8Rmc4VbK7V9lva+pUtvgH4HvdJiuW8IaJG7Lh0/s6L5W7j7teGftQfC/wz4T+GeqappGjWOlalY+XNb3NjbpC6N5ijqoHYmvqT4f39yfFnifSdQQQ21y6XNqpcNskZMsAfQnP0wBXgf7ZjrB8MPEMBPJjUAf9tFP9K2yzE08yy+OIVr21t3tqdGHx83XjCT0bt+NjV/ZW8QRafpul7nwPJj7+wrvfiD4QvrH4q2y+Fr2TToNdKXwFsdoAEii7Hu2GRgP9r618efDT4wad4RtoLS+v4bO4gUI8c0gRkIGCCDyDXso/as8OFNOujrWnyXmmyNNb5u1HLRtG69ehV2/EA9q0z7BRzHLpRotOoleKdrXtt8zxquCqLFe/F8t90ejfBDRbm/8ZeLPFviC5+2DTriS0sZXOSTzjnuVViCe5PtXjH7Xerpf+EtbIbOY+Of9oVPpn7Rnhnw/4SttIttd087QzzMlwv7yVjuduvck14n8XviZZeNtHurDT7uK9ubjEccMDh2diwwABXdgsNSwGA9ipK/L072NMHhKzxUJcjSTvt5n/9k="
     x="8"
     y="141"
     width="24"
@@ -134,25 +134,25 @@
   <text
     x="40"
     y="153"
-    fill="#c9d1d9"
+    fill="#24292f"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="start"
     font-size="11"
     font-weight="600"
   >
-    Forza Horizon 5
+    The Sims™ 3
   </text>
   <text
     x="217"
     y="153"
-    fill="#c9d1d9"
+    fill="#24292f"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="end"
     font-size="11"
   >
-    3.5h/279.5h
+    4.5h/158h
   </text><defs>
     <clipPath id="ico169">
       <rect x="8" y="173" width="24" height="24" rx="4" />
@@ -165,7 +165,7 @@
     y="169"
     width="225"
     height="32"
-    fill="rgb(194, 195, 194)"
+    fill="rgb(229, 44, 132)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -174,11 +174,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(194, 195, 194)"
+    fill="rgb(229, 44, 132)"
     filter="url(#shadow169)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQFCAb/xAAtEAABAwIEBAUEAwAAAAAAAAABAgMEESEABQYSMUFRYQcTFCKBI0JSoWJxsf/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABkRAAIDAQAAAAAAAAAAAAAAAAERAAIhA//aAAwDAQACEQMRAD8ASGXPTGriudsSDq1mC2vdKbSoCyAobieNKfGCPVOs3XXXEQrNCySm6nFdO2K+QqNEo8wpDkhAPmyFEVUr7gD8W4c+uLboGk4RUpzrdO67n574htsx398Ci23GEpPAcXLj8rVr1theYd2XSQK/OMpeDsyRl+t2n3mVCO6FsF3glFiR+wMafyh1EpYDS0Okq2+1QIB6YtTmmWwRyD64MCRqJuWlpAiJBCWrbeYPe1D+/mu1LkcVUgGKgbyVEipNjWg/sYfdP6ZyuK3KiM5e8yG1pBccSAHKVA2dqf71rjn3znuW5lmLELJUekaWVMONRqlzcpVL3uEjj/LGAsjGQ8gPpgT2NQRstah7vOIP1Ga+3r3sDjQejMpk5fJSthpDDJuptIFBXntHCvXENUnUjZmFnI0l0R2zHX6cVW6Wr7qjkoitxwN+WLXKcx1K5MQqZHfQwZaUFJYFfKJUKm1iKJJNaU74Z6YoRTZ//9k="
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDkCea98/uUTNMAzQAZoApanrVnoyGW9N0kI5aSCynnCjPcxo2Pxqbpbnm4vMcPgFzYhSUV1VOpJffGMkvmz5u8XfFzxnqOtXD2njLRvDFoGPk6eqShkXtuZ4NzN6npnoB0rzp16jlo7H4Rj+Js2xdaU4Y+FCPSC51ZebdO8n3b67JbFWbxZ8TLd71JfiRpkbWUay3IZyPJDFQob9x97LqNv3gcggbWwvaVf5zneZZ9FzUs0S5Um/enpe2/ub6pcvxJ3ulyyt6t8I9H8d3TQa34p8X/ANpaXLCJbOxtVwJww+WSQmNSFwQwUcnIJwBg9dKNR+9OWh+j8MYPO6soY/Msa50mrxim/eutHK8U1Hqlu9Hot8r4/wCh+OvHyw+HvDWjTHRYWWa7u5LiKBbqXGVVd7glEz+LZ4+UEzXVSolCC0/P/hvz+Rw8ZYXPM5ksBl1CTox1k24xU5WurXavGN/Ryvp7qZp6X8AbFdP8PQ6zrWoai+lIZfIWTdCbtgN0oLAkhSsYVcBcRDIO5stYdWSb/wCHOnD8DUnRoQxuIlJwV7LZTe7Tle6VopLlS91XWsr6ll8B/BttbpFc2d1qzC5a8ll1C6Z3uZjj55iu3zMc4B4G9+DuOaWHpKyS2/ryPWo8FZNTio1YyqO7k3KWsm+suVRvbW1+8u7PQWYuxJ5JrpbufdCHrSEFABQAUAf/2Q=="
     x="8"
     y="173"
     width="24"
@@ -188,25 +188,25 @@
   <text
     x="40"
     y="185"
-    fill="#24292f"
+    fill="#c9d1d9"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="start"
     font-size="11"
     font-weight="600"
   >
-    WILD HEARTS™
+    Forza Horizon 5
   </text>
   <text
     x="217"
     y="185"
-    fill="#24292f"
+    fill="#c9d1d9"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="end"
     font-size="11"
   >
-    1.1h/70.8h
+    2.8h/280.2h
   </text><defs>
     <clipPath id="ico201">
       <rect x="8" y="205" width="24" height="24" rx="4" />
@@ -219,7 +219,7 @@
     y="201"
     width="225"
     height="32"
-    fill="rgb(92, 151, 162)"
+    fill="rgb(194, 195, 194)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -228,11 +228,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(92, 151, 162)"
+    fill="rgb(194, 195, 194)"
     filter="url(#shadow201)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gOTAK/9sAQwADAgIDAgIDAwMDBAMDBAUIBQUEBAUKBwcGCAwKDAwLCgsLDQ4SEA0OEQ4LCxAWEBETFBUVFQwPFxgWFBgSFBUU/9sAQwEDBAQFBAUJBQUJFA0LDRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQU/8AAEQgAIAAgAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A5v4LfCDwn4h8H6Vd6hoOnahd3FtHNNcXlqkskjsoLEswJ6mvTZvgD4DS90jTx4X0KK51S48iJm06H5QFLux+XoFU/iVHes79l+FdR8K6JEDkC0hH/jorY8aavq+v/E77ToUIltNIBtrWUvhTtbEz/wDAnG3I7Rj1rrzvFQy3AyqJpTasr6a/8A/O8Rmc4VbK7V9lva+pUtvgH4HvdJiuW8IaJG7Lh0/s6L5W7j7teGftQfC/wz4T+GeqappGjWOlalY+XNb3NjbpC6N5ijqoHYmvqT4f39yfFnifSdQQQ21y6XNqpcNskZMsAfQnP0wBXgf7ZjrB8MPEMBPJjUAf9tFP9K2yzE08yy+OIVr21t3tqdGHx83XjCT0bt+NjV/ZW8QRafpul7nwPJj7+wrvfiD4QvrH4q2y+Fr2TToNdKXwFsdoAEii7Hu2GRgP9r618efDT4wad4RtoLS+v4bO4gUI8c0gRkIGCCDyDXso/as8OFNOujrWnyXmmyNNb5u1HLRtG69ehV2/EA9q0z7BRzHLpRotOoleKdrXtt8zxquCqLFe/F8t90ejfBDRbm/8ZeLPFviC5+2DTriS0sZXOSTzjnuVViCe5PtXjH7Xerpf+EtbIbOY+Of9oVPpn7Rnhnw/4SttIttd087QzzMlwv7yVjuduvck14n8XviZZeNtHurDT7uK9ubjEccMDh2diwwABXdgsNSwGA9ipK/L072NMHhKzxUJcjSTvt5n/9k="
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQFCAb/xAAtEAABAwIEBAUEAwAAAAAAAAABAgMEESEABQYSMUFRYQcTFCKBI0JSoWJxsf/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABkRAAIDAQAAAAAAAAAAAAAAAAERAAIhA//aAAwDAQACEQMRAD8ASGXPTGriudsSDq1mC2vdKbSoCyAobieNKfGCPVOs3XXXEQrNCySm6nFdO2K+QqNEo8wpDkhAPmyFEVUr7gD8W4c+uLboGk4RUpzrdO67n574htsx398Ci23GEpPAcXLj8rVr1theYd2XSQK/OMpeDsyRl+t2n3mVCO6FsF3glFiR+wMafyh1EpYDS0Okq2+1QIB6YtTmmWwRyD64MCRqJuWlpAiJBCWrbeYPe1D+/mu1LkcVUgGKgbyVEipNjWg/sYfdP6ZyuK3KiM5e8yG1pBccSAHKVA2dqf71rjn3znuW5lmLELJUekaWVMONRqlzcpVL3uEjj/LGAsjGQ8gPpgT2NQRstah7vOIP1Ga+3r3sDjQejMpk5fJSthpDDJuptIFBXntHCvXENUnUjZmFnI0l0R2zHX6cVW6Wr7qjkoitxwN+WLXKcx1K5MQqZHfQwZaUFJYFfKJUKm1iKJJNaU74Z6YoRTZ//9k="
     x="8"
     y="205"
     width="24"
@@ -249,7 +249,7 @@
     font-size="11"
     font-weight="600"
   >
-    The Sims™ 3
+    WILD HEARTS™
   </text>
   <text
     x="217"
@@ -260,59 +260,5 @@
     text-anchor="end"
     font-size="11"
   >
-    1h/154.5h
-  </text><defs>
-    <clipPath id="ico233">
-      <rect x="8" y="237" width="24" height="24" rx="4" />
-    </clipPath>
-    <filter id='shadow233' color-interpolation-filters="sRGB">
-      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
-    </filter>
-  </defs>
-  <rect
-    y="233"
-    width="225"
-    height="32"
-    fill="rgb(172, 176, 171)"
-    clip-path="url(#fullCliping)"
-  />
-  <rect
-    x="8"
-    y="237"
-    width="24"
-    height="24"
-    rx="4"
-    fill="rgb(172, 176, 171)"
-    filter="url(#shadow233)"
-  />
-  <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAABggDBQf/xAAtEAACAgEDAgQFBAMAAAAAAAABAgMEBQYHEQASCBQhMRMVIjJBFiNCcSRRc//EABoBAAIDAQEAAAAAAAAAAAAAAAIDBAUGAQD/xAAqEQACAgECAgoDAQAAAAAAAAABAgADBBExIUEFBhITUWFxgZGxodHw4f/aAAwDAQACEQMRAD8AU/SfgvyO5FWnk62skvTZGFLPxIY67q0jRLK8Yd7SdzoHAZeOR+QB0DuqDVpwkDeWF/wC5XGSrHPqO2JGJAWPHQSE8AsT9Ns+gAJJ9gASeOOkLlUswRW4+8AWKToDBjE+EqplLOqI4twad75Hdes64mCO3JJCkEcz2SgsKREokZSy9ygxvyQB093CKWO3z9QyQo1Mls+FRcFjbObra3nrR0FeRblvHx1oPiohkWIS+ZP1t2+igEnkenHUbHy6coE0nUDyI+xFV3JbxQ6/MDPDXua+hNefLbOT+VYfNvHBJdcnsx9tWJq3Tx+IpDw/Hq0Mk6fzPUplDqVPONI1Ghjoaj3FTKqpzmOliX/JxmZxIcCWIOj1btcH2D9rToG9geCOsC2Uej83Szkfwecoe+7i7RuUWba/ZPMaC3N1fH2nI3seV0/gJYV4XJWsnE8daaMH+Pk2nsrz+ViVvv63NlvZr7a8fDzJ2l4zaLqIAeIvcCHV+vVxGJuea0tppfleMeNiY7Haf37Q/wBmaQM4J9Qnwk9kHHMelcepal2H9r7zlaCtQomUP97f31IjI3G32sf19ozF52aTvyEJiwebBPJNhIiKdo/9q8RjY/mSmWPrKOsV1lwjZUMtN14H0/w/coulKNUFy7jf0hRuRuJktIbYS5q3PCrYurNgtNIkfbN5y4D5iw7e8nwaycI3vEzw8cAjp3V++zLx1Fm1ZIB8fD4BPyIfR1jXVjtbL/fj9RH0+9f7618upNdpT07c0E8LwzRuVdHUgqQfYjr09DfZvX8OgdSWlyiWpNOZeq2PykdRA8yxlleOeJWIBkhmSKZASATH2kgMegdFsUo41B4GCyhgVOxl1v8Abq09x8jhMfgvOHTmFqlIGu11ry2bMpD2LDxK8gQniOMAO30QR8nnnqLh4leFQtFewiaKVx6xWvKZdSpT3LcMEELzTSOFREUksSfYDqbJE//Z"
-    x="8"
-    y="237"
-    width="24"
-    height="24"
-    clip-path="url(#ico233)"
-  />
-  <text
-    x="40"
-    y="249"
-    fill="#24292f"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="start"
-    font-size="11"
-    font-weight="600"
-  >
-    Grand Theft Auto V
-  </text>
-  <text
-    x="217"
-    y="249"
-    fill="#24292f"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="end"
-    font-size="11"
-  >
-    0.3h/19.2h
+    1.7h/71.4h
   </text></svg>
