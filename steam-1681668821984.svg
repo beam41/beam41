@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 233" height="233"
+    viewBox="0 0 225 265" height="265"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="233" rx="4" />
+        <rect x="0" y="0" width="225" height="265" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -44,7 +44,7 @@
       font-size="10"
       font-weight="600"
     >
-      16h (2 weeks)/125.5h (total)
+      15.8h (2 weeks)/125.5h (total)
     </text><defs>
     <clipPath id="ico105">
       <rect x="8" y="109" width="24" height="24" rx="4" />
@@ -219,7 +219,7 @@
     y="201"
     width="225"
     height="32"
-    fill="rgb(194, 195, 194)"
+    fill="rgb(234, 232, 232)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -228,11 +228,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(194, 195, 194)"
+    fill="rgb(234, 232, 232)"
     filter="url(#shadow201)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQFCAb/xAAtEAABAwIEBAUEAwAAAAAAAAABAgMEESEABQYSMUFRYQcTFCKBI0JSoWJxsf/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABkRAAIDAQAAAAAAAAAAAAAAAAERAAIhA//aAAwDAQACEQMRAD8ASGXPTGriudsSDq1mC2vdKbSoCyAobieNKfGCPVOs3XXXEQrNCySm6nFdO2K+QqNEo8wpDkhAPmyFEVUr7gD8W4c+uLboGk4RUpzrdO67n574htsx398Ci23GEpPAcXLj8rVr1theYd2XSQK/OMpeDsyRl+t2n3mVCO6FsF3glFiR+wMafyh1EpYDS0Okq2+1QIB6YtTmmWwRyD64MCRqJuWlpAiJBCWrbeYPe1D+/mu1LkcVUgGKgbyVEipNjWg/sYfdP6ZyuK3KiM5e8yG1pBccSAHKVA2dqf71rjn3znuW5lmLELJUekaWVMONRqlzcpVL3uEjj/LGAsjGQ8gPpgT2NQRstah7vOIP1Ga+3r3sDjQejMpk5fJSthpDDJuptIFBXntHCvXENUnUjZmFnI0l0R2zHX6cVW6Wr7qjkoitxwN+WLXKcx1K5MQqZHfQwZaUFJYFfKJUKm1iKJJNaU74Z6YoRTZ//9k="
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABgMHCAEE/8QALBAAAgEDAwMDAwQDAAAAAAAAAQIDBAURAAYHEhMhCDFBFSIyFCMlYUJRgf/EABoBAAEFAQAAAAAAAAAAAAAAAAUAAQIDBAb/xAAsEQABBAECBAUDBQAAAAAAAAABAAIDEQQhMQUSQVEGEyKBkWFxoRWSweHw/9oADAMBAAIRAxEAPwDVXOW+uc7FyTAePtoSXfZ8UcNvkhSOj7k9VJGzmrQuwZKeMmKN2YY6g2Acag8EtIaaK040kUUzXzs52Ddt8t+9GkFj9Q/O8G444xxrdquzUc8zVVV2bdItWqQkRxRNHMBiSYj78/h0kD7iNQja9t87r9qWvNycScNGLj+VW/rLr+QKWq+It1Xnf+x6O97k2a+yrlUO/wDE1FTHUukYb9ty6Dpyy4bAzjOMnGTchaYVFPEIJD2o/Cn3Uf60klyClheCMtDGxKjJKg58aSSh+jW6JGAt9MFIywWBfOP+acC0xNKnd42m88f7jqt20FUailXvGakjkYwUtOFDKzIWwo8NkgY8D2zowyVk0YgcKAr5+64LMxsrBynZ8Li6ybAJIA0rS/mvonW0eQKbdVjqa2Z6aBolA7yS4hkRxlHGfbJyMH5HzofNH5Wg2K6Xh+ac1pJbTm7/AO/jcIPzd6grfxdUU9p+s222Va0KV1S9UQ8sMLP20YR5Gepgw+fb21ZjshIL5Tt0uv7VXEZuIB7YcCOyRqauvp2+VlzeHrYma510Lw3Letqo4yJGsM8itFUghgzdgAmNR+YwCqnPnJ1iysxrJPJx26/j9x79kV4bwHJmgOZxScAajlv1WevI3oOhJ691BTV3JfN0Ee4djVzVFmmTqp4bVSRyyqsp7iLLM79Ik6WVWfPSBgYPnQf9Tz5JRAxoF7kguAPtp+V1uP4d8LYzfPypXPcNms0JHX1Os39+itz0h8Ybc3JsW41962sZitS6QTXeUS96VMpOUjDtGyLIniRRhySR4A1uxzkujBzHBz9dtkOzmcOhmLeFRGOLTQ3ZPc33SL1EcJWz1KX+3ben2nahS0cRpLhvWtQfrKKGRA7R0A/yl8JiVsrGWJCsQRrUWgiyhwNKy9ucL2Xi/hmo2FxrUxbQKUMtPR3PpFRNHO/UTUSFjmRyzFiSfc+PAA0gojQ2vF6auJ24N4wotmyxWKKmoy5ElqVlNSzElpZer8nbPk/0PgDTlOTeqe0W19u2Rp57bbbdQTupy9NEkefH9Y1GhunLiRRK/9k="
     x="8"
     y="205"
     width="24"
@@ -249,11 +249,65 @@
     font-size="11"
     font-weight="600"
   >
-    WILD HEARTS™
+    Burnout™ Paradise R...
   </text>
   <text
     x="217"
     y="217"
+    fill="#24292f"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="end"
+    font-size="11"
+  >
+    1.8h/1.8h
+  </text><defs>
+    <clipPath id="ico233">
+      <rect x="8" y="237" width="24" height="24" rx="4" />
+    </clipPath>
+    <filter id='shadow233' color-interpolation-filters="sRGB">
+      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
+    </filter>
+  </defs>
+  <rect
+    y="233"
+    width="225"
+    height="32"
+    fill="rgb(194, 195, 194)"
+    clip-path="url(#fullCliping)"
+  />
+  <rect
+    x="8"
+    y="237"
+    width="24"
+    height="24"
+    rx="4"
+    fill="rgb(194, 195, 194)"
+    filter="url(#shadow233)"
+  />
+  <image
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQFCAb/xAAtEAABAwIEBAUEAwAAAAAAAAABAgMEESEABQYSMUFRYQcTFCKBI0JSoWJxsf/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABkRAAIDAQAAAAAAAAAAAAAAAAERAAIhA//aAAwDAQACEQMRAD8ASGXPTGriudsSDq1mC2vdKbSoCyAobieNKfGCPVOs3XXXEQrNCySm6nFdO2K+QqNEo8wpDkhAPmyFEVUr7gD8W4c+uLboGk4RUpzrdO67n574htsx398Ci23GEpPAcXLj8rVr1theYd2XSQK/OMpeDsyRl+t2n3mVCO6FsF3glFiR+wMafyh1EpYDS0Okq2+1QIB6YtTmmWwRyD64MCRqJuWlpAiJBCWrbeYPe1D+/mu1LkcVUgGKgbyVEipNjWg/sYfdP6ZyuK3KiM5e8yG1pBccSAHKVA2dqf71rjn3znuW5lmLELJUekaWVMONRqlzcpVL3uEjj/LGAsjGQ8gPpgT2NQRstah7vOIP1Ga+3r3sDjQejMpk5fJSthpDDJuptIFBXntHCvXENUnUjZmFnI0l0R2zHX6cVW6Wr7qjkoitxwN+WLXKcx1K5MQqZHfQwZaUFJYFfKJUKm1iKJJNaU74Z6YoRTZ//9k="
+    x="8"
+    y="237"
+    width="24"
+    height="24"
+    clip-path="url(#ico233)"
+  />
+  <text
+    x="40"
+    y="249"
+    fill="#24292f"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="start"
+    font-size="11"
+    font-weight="600"
+  >
+    WILD HEARTS™
+  </text>
+  <text
+    x="217"
+    y="249"
     fill="#24292f"
     font-family="Arial"
     dominant-baseline="middle"
