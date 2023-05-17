@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 265" height="265"
+    viewBox="0 0 225 297" height="297"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="265" rx="4" />
+        <rect x="0" y="0" width="225" height="297" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -273,7 +273,7 @@
     y="233"
     width="225"
     height="32"
-    fill="rgb(94, 125, 150)"
+    fill="rgb(194, 195, 194)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -282,11 +282,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(94, 125, 150)"
+    fill="rgb(194, 195, 194)"
     filter="url(#shadow233)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCBAgF/8QAKhAAAQMDAgUEAgMAAAAAAAAAAQIDEQQFBhIhAAcxQWEIEzJRFSIjcfD/xAAbAQACAgMBAAAAAAAAAAAAAAAFBgIHAAMEAf/EADARAAEDAgMGBQIHAAAAAAAAAAECAxEABCExQQUSE1FhsQYicZHBQoEVI6HR4fDx/9oADAMBAAIRAxEAPwADx6zodT7LTa1q1lCUIUSSZgADi3GGEoTAwAqriUuJDjgBJAJJFP3lRystd1vdytT9rbZuKLPWOFC0e4EO6mktqAEBUBZIg9zuDwmbQcU6sLJlOg5c/emjZ7SEIKUZ6nnyw0igvNsctNk5iZBi349DqrSzSuisCgkO+8gqjRpMRpjqZntxOwvH+MhgqkE9ZyPXpWX2z7XgruAmDGkRgeUazQrzH5cu4pQ0AqFqWasfyJTOhsz8dXc7/wC68NTqUPIUCJFKVu+glSmwARlz9aZ3LnlZRs465kSLgaqpbpFViWkj2g2oqQFJXM6oS4oCNMmD44BP7RUz5OHmTrnR22sBcIBDmQGEZYY0RYXk9FZs1rrm3UoOu2PABRCFJksEK32Px6cBblablxTidY7CjVkwq2ZS0ozE9yfmlxeLkjJOfeW1+xaKaAAI6EJQ8kbydtuvfxMCFggKuWwcp+DWy+UUWrhGcHuKjziujl0s9EWgXEtVSC5B6JJifO8cPzzXDQY6VXtvCVnewkGrWBZfRs2e8MPOCnW5QvtJClfOHGlbbfSCY67eOK43QtaiD9Rp+4haQgEfSB7VoSqzHGrJS2210PLykuzLlhLrhpKamDzIAQklSnlIBEHoJJI6/ZNVju4TP2H70JRtQqkqEY6k/CTUsZzXHa7H7MzjVgwq9VX4htqvYcdbFQkhCQNS20KITJUCCmQd57ceIsd8DhLE/wB9a2u7VDZ/NbMT694rJ+XX+111gduVvLjdOUCGEwSVjrMn9R4/v643/jawyEujfOOOX2y05610K2QhazueX9fn/KR3L/L3UZAll9LiG1uVSVBYiJSYnbx08jgPxApBJrs4cGIprVvqXVabTTUZNJU1ZpkNLCKRzUnUgTCtcT0JjvG30SX4qfZbDfDBMRkeXtSg74Vsg6Xd5eJmMIznl/Nc9/1OXS1UDDNC1bKlFNTBsPLp3PdjoNtY7JBO0T246GvE90lAQlCfKAJgz36VNzwnZuuKcK1YmYkR2pW2jOGrTYDaF0RecdKW2wonXEgyP12Eap8geYWSqKe0jGv/2Q=="
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQFCAb/xAAtEAABAwIEBAUEAwAAAAAAAAABAgMEESEABQYSMUFRYQcTFCKBI0JSoWJxsf/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABkRAAIDAQAAAAAAAAAAAAAAAAERAAIhA//aAAwDAQACEQMRAD8ASGXPTGriudsSDq1mC2vdKbSoCyAobieNKfGCPVOs3XXXEQrNCySm6nFdO2K+QqNEo8wpDkhAPmyFEVUr7gD8W4c+uLboGk4RUpzrdO67n574htsx398Ci23GEpPAcXLj8rVr1theYd2XSQK/OMpeDsyRl+t2n3mVCO6FsF3glFiR+wMafyh1EpYDS0Okq2+1QIB6YtTmmWwRyD64MCRqJuWlpAiJBCWrbeYPe1D+/mu1LkcVUgGKgbyVEipNjWg/sYfdP6ZyuK3KiM5e8yG1pBccSAHKVA2dqf71rjn3znuW5lmLELJUekaWVMONRqlzcpVL3uEjj/LGAsjGQ8gPpgT2NQRstah7vOIP1Ga+3r3sDjQejMpk5fJSthpDDJuptIFBXntHCvXENUnUjZmFnI0l0R2zHX6cVW6Wr7qjkoitxwN+WLXKcx1K5MQqZHfQwZaUFJYFfKJUKm1iKJJNaU74Z6YoRTZ//9k="
     x="8"
     y="237"
     width="24"
@@ -296,6 +296,60 @@
   <text
     x="40"
     y="249"
+    fill="#24292f"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="start"
+    font-size="11"
+    font-weight="600"
+  >
+    WILD HEARTS™
+  </text>
+  <text
+    x="217"
+    y="249"
+    fill="#24292f"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="end"
+    font-size="11"
+  >
+    0.1h/71.4h
+  </text><defs>
+    <clipPath id="ico265">
+      <rect x="8" y="269" width="24" height="24" rx="4" />
+    </clipPath>
+    <filter id='shadow265' color-interpolation-filters="sRGB">
+      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
+    </filter>
+  </defs>
+  <rect
+    y="265"
+    width="225"
+    height="32"
+    fill="rgb(94, 125, 150)"
+    clip-path="url(#fullCliping)"
+  />
+  <rect
+    x="8"
+    y="269"
+    width="24"
+    height="24"
+    rx="4"
+    fill="rgb(94, 125, 150)"
+    filter="url(#shadow265)"
+  />
+  <image
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCBAgF/8QAKhAAAQMDAgUEAgMAAAAAAAAAAQIDEQQFBhIhAAcxQWEIEzJRFSIjcfD/xAAbAQACAgMBAAAAAAAAAAAAAAAFBgIHAAMEAf/EADARAAEDAgMGBQIHAAAAAAAAAAECAxEABCExQQUSE1FhsQYicZHBQoEVI6HR4fDx/9oADAMBAAIRAxEAPwADx6zodT7LTa1q1lCUIUSSZgADi3GGEoTAwAqriUuJDjgBJAJJFP3lRystd1vdytT9rbZuKLPWOFC0e4EO6mktqAEBUBZIg9zuDwmbQcU6sLJlOg5c/emjZ7SEIKUZ6nnyw0igvNsctNk5iZBi349DqrSzSuisCgkO+8gqjRpMRpjqZntxOwvH+MhgqkE9ZyPXpWX2z7XgruAmDGkRgeUazQrzH5cu4pQ0AqFqWasfyJTOhsz8dXc7/wC68NTqUPIUCJFKVu+glSmwARlz9aZ3LnlZRs465kSLgaqpbpFViWkj2g2oqQFJXM6oS4oCNMmD44BP7RUz5OHmTrnR22sBcIBDmQGEZYY0RYXk9FZs1rrm3UoOu2PABRCFJksEK32Px6cBblablxTidY7CjVkwq2ZS0ozE9yfmlxeLkjJOfeW1+xaKaAAI6EJQ8kbydtuvfxMCFggKuWwcp+DWy+UUWrhGcHuKjziujl0s9EWgXEtVSC5B6JJifO8cPzzXDQY6VXtvCVnewkGrWBZfRs2e8MPOCnW5QvtJClfOHGlbbfSCY67eOK43QtaiD9Rp+4haQgEfSB7VoSqzHGrJS2210PLykuzLlhLrhpKamDzIAQklSnlIBEHoJJI6/ZNVju4TP2H70JRtQqkqEY6k/CTUsZzXHa7H7MzjVgwq9VX4htqvYcdbFQkhCQNS20KITJUCCmQd57ceIsd8DhLE/wB9a2u7VDZ/NbMT694rJ+XX+111gduVvLjdOUCGEwSVjrMn9R4/v643/jawyEujfOOOX2y05610K2QhazueX9fn/KR3L/L3UZAll9LiG1uVSVBYiJSYnbx08jgPxApBJrs4cGIprVvqXVabTTUZNJU1ZpkNLCKRzUnUgTCtcT0JjvG30SX4qfZbDfDBMRkeXtSg74Vsg6Xd5eJmMIznl/Nc9/1OXS1UDDNC1bKlFNTBsPLp3PdjoNtY7JBO0T246GvE90lAQlCfKAJgz36VNzwnZuuKcK1YmYkR2pW2jOGrTYDaF0RecdKW2wonXEgyP12Eap8geYWSqKe0jGv/2Q=="
+    x="8"
+    y="269"
+    width="24"
+    height="24"
+    clip-path="url(#ico265)"
+  />
+  <text
+    x="40"
+    y="281"
     fill="#c9d1d9"
     font-family="Arial"
     dominant-baseline="middle"
@@ -307,7 +361,7 @@
   </text>
   <text
     x="217"
-    y="249"
+    y="281"
     fill="#c9d1d9"
     font-family="Arial"
     dominant-baseline="middle"
