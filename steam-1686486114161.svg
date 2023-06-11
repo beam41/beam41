@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 169" height="169"
+    viewBox="0 0 225 201" height="201"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="169" rx="4" />
+        <rect x="0" y="0" width="225" height="201" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -98,7 +98,7 @@
     text-anchor="end"
     font-size="11"
   >
-    9.2h/208.6h
+    6.3h/208.6h
   </text><defs>
     <clipPath id="ico137">
       <rect x="8" y="141" width="24" height="24" rx="4" />
@@ -111,7 +111,7 @@
     y="137"
     width="225"
     height="32"
-    fill="rgb(199, 199, 196)"
+    fill="rgb(232, 236, 233)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -120,11 +120,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(199, 199, 196)"
+    fill="rgb(232, 236, 233)"
     filter="url(#shadow137)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAABgcICQQF/8QAJhAAAgICAgICAgMBAQAAAAAAAQIDBAUGERIHEwAhCBQiIzFBUv/EABkBAAMBAQEAAAAAAAAAAAAAAAADBAIBBf/EACsRAAEDAgMHAwUAAAAAAAAAAAEAAhEDIRIxQQQTImGBobEFUfAycZHB4f/aAAwDAQACEQMRAD8AnXwp4No7jgMlncvrN23Ura/Nmzs2RytRsbHZDWUaSdIw1iWsggY+qFXsNJA6/SkkZeSXCm3UEzryvl+b90w6NARPo34kSZPftWXYdfyWR0fIWFlt7VW1yxSxFeqsahDIFZbEQmDK5eX1MvZG4EYYlzXSwAjiPbrquktwD3QZ5T/DfLZXXNGyXizUdly0NzCtby5krPxj5VX2MtywzCJZ+vY9FEYCeodWclnXINwkNc14lpkKV7VbKavsL1LIs47J0bJilik5SWCVG4ZSP9DAggj4LSrjyRvGJ3TxZ+POFyNOpXSCnbp5yPCgmVq0c8S1XRCewmIadVP/ALsTdQQxBrexzKbSTnf9K2pTdTpNdIMz0yC0C8f6XrnlDUFbN4egMdHLPdpYCrQlWzgp0eaFCYq7KtwslWNfWEA/pUsvIPMFSm2q0sdkeceF572NqNLXZFKHffIO1a7v+3XxgNXvVZaaYSfZJppo8jaEeZGNnjemirAGYRiXqoHEQEhmdf6/kOw7BR9Pp7ujMZ6eAAB0Ak3MkkrDKQYSZknp4ss/vy+r4xPPmasYzHPijb9Vm3VMKxR/ssOJJYlVVAjmKidQBwPdx98c/PSTl1+K9awG/wCQGG2bZIqFrKQTQY6/alWGGncWOFK6P3VgyGMunBMXXkMj9kCtQ8nCHTJ/gTS4kZqsI/yr2HTvFk2AwuOy2PsWJLccuaiso8uH9tqd5YkD/wA3sKtlojI4UxunYhj1+TpSV83kWDP4OfDYSpfx1Ksjzrcyc80lSsEyr2khaaUhZJjCoJsEffPrMiwAqBCTn5GYjW4pMbnYL81nbNhtvkbNNrnsWlSIVawaMp2DSqBOCzjiOWNRGAvdxCAf15K1eevZuS0HVWgkiiZll+yOwYf506jgrzySP+j6+WNw4fqj54juuIqTyhap17DrBUyttojF+1ZrdZmBh9as9ksksjJwGH8QOVAJKMysstpgcJ+fe3YIXs7F57upvUOYx+MxedxKXGdH2vFQ3HlVljHSWLho1CBfr1KOO3PJb7E7jAhuaCl/uOVbb9jyeSdznNgzeWlsTT9LDPF/axBSR25kEvfklx2HQf5yfk1Pelwx5AcrnWfaOVrrImbr/9k="
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABwUGCAME/8QALhAAAQMCBAQFAwUAAAAAAAAAAQIDBAURAAYSIQcxQWEIExVxoSIjgUJRUpGi/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwUBAgT/xAAlEQABAwMDAwUAAAAAAAAAAAACAQMRAAQxEkFhBRNRIYGxwdH/2gAMAwEAAhEDEQA/AHrNXETLeWJDsWr1AtzEICiyhpa1WPLkLb++Dyq+IehsSFtU2l1GUpJt9woaSfzdR+MRfiEyw/PzjTJ7a0NR1xdCyeZUhR3t12UMFsej0+Ep+otKbnNsOKD6VEEAdrciO98FFkyTVtS646pbsOdmZPxyuEVcJNKbHGrMlaeDNFosCPcalLfWp3Qnqom6QP6wucPKtJrmX2p8qUH3CtTSyEBACkKKVWFrgbdb4zo/NZjU+HPUyI0CYpAb+kJKx/JXYDe3t2xoLhvGbhUl+NHUdHm+YSe6QPnTfAHHWQIWxPUpTEY9M1axfurpSI2lABRM5lfrmvJxWp7c6PSvNXoHnqbva5N0FVv8YG2csZagwXqLJmhp+WXXtRd0qUnUbc9thb3se+HbiVR51ayu8xRigVNt1p6MVmyQpKwTftp1D84EY/A7M1emLl5hr0FCz9F2m1OkAE7WskdemMV0zcvOJodUQRNsz+UwZZtQ1GTaERKkzxj3SoFrNlKolM9JqQZrioK7RHW0BSCm21yrkRy2vtbF+4H57l1/MU6FJaZYaXGDrLTYJI0LAJJPZY6Y707w90NoD1GqVGWocw2EtJPwo/OLvlXhzlzK1STLo0BbcoNFBeW8taiFc+Zt+n9sSx09pk+5kvPzCYSaO5cGY6dq/9k="
     x="8"
     y="141"
     width="24"
@@ -141,11 +141,65 @@
     font-size="11"
     font-weight="600"
   >
-    Monster Hunter: ...
+    Riders Republic
   </text>
   <text
     x="217"
     y="153"
+    fill="#24292f"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="end"
+    font-size="11"
+  >
+    2.6h/2.6h
+  </text><defs>
+    <clipPath id="ico169">
+      <rect x="8" y="173" width="24" height="24" rx="4" />
+    </clipPath>
+    <filter id='shadow169' color-interpolation-filters="sRGB">
+      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
+    </filter>
+  </defs>
+  <rect
+    y="169"
+    width="225"
+    height="32"
+    fill="rgb(199, 199, 196)"
+    clip-path="url(#fullCliping)"
+  />
+  <rect
+    x="8"
+    y="173"
+    width="24"
+    height="24"
+    rx="4"
+    fill="rgb(199, 199, 196)"
+    filter="url(#shadow169)"
+  />
+  <image
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAABgcICQQF/8QAJhAAAgICAgICAgMBAQAAAAAAAQIDBAUGERIHEwAhCBQiIzFBUv/EABkBAAMBAQEAAAAAAAAAAAAAAAADBAIBBf/EACsRAAEDAgMHAwUAAAAAAAAAAAEAAhEDIRIxQQQTImGBobEFUfAycZHB4f/aAAwDAQACEQMRAD8AnXwp4No7jgMlncvrN23Ura/Nmzs2RytRsbHZDWUaSdIw1iWsggY+qFXsNJA6/SkkZeSXCm3UEzryvl+b90w6NARPo34kSZPftWXYdfyWR0fIWFlt7VW1yxSxFeqsahDIFZbEQmDK5eX1MvZG4EYYlzXSwAjiPbrquktwD3QZ5T/DfLZXXNGyXizUdly0NzCtby5krPxj5VX2MtywzCJZ+vY9FEYCeodWclnXINwkNc14lpkKV7VbKavsL1LIs47J0bJilik5SWCVG4ZSP9DAggj4LSrjyRvGJ3TxZ+POFyNOpXSCnbp5yPCgmVq0c8S1XRCewmIadVP/ALsTdQQxBrexzKbSTnf9K2pTdTpNdIMz0yC0C8f6XrnlDUFbN4egMdHLPdpYCrQlWzgp0eaFCYq7KtwslWNfWEA/pUsvIPMFSm2q0sdkeceF572NqNLXZFKHffIO1a7v+3XxgNXvVZaaYSfZJppo8jaEeZGNnjemirAGYRiXqoHEQEhmdf6/kOw7BR9Pp7ujMZ6eAAB0Ak3MkkrDKQYSZknp4ss/vy+r4xPPmasYzHPijb9Vm3VMKxR/ssOJJYlVVAjmKidQBwPdx98c/PSTl1+K9awG/wCQGG2bZIqFrKQTQY6/alWGGncWOFK6P3VgyGMunBMXXkMj9kCtQ8nCHTJ/gTS4kZqsI/yr2HTvFk2AwuOy2PsWJLccuaiso8uH9tqd5YkD/wA3sKtlojI4UxunYhj1+TpSV83kWDP4OfDYSpfx1Ksjzrcyc80lSsEyr2khaaUhZJjCoJsEffPrMiwAqBCTn5GYjW4pMbnYL81nbNhtvkbNNrnsWlSIVawaMp2DSqBOCzjiOWNRGAvdxCAf15K1eevZuS0HVWgkiiZll+yOwYf506jgrzySP+j6+WNw4fqj54juuIqTyhap17DrBUyttojF+1ZrdZmBh9as9ksksjJwGH8QOVAJKMysstpgcJ+fe3YIXs7F57upvUOYx+MxedxKXGdH2vFQ3HlVljHSWLho1CBfr1KOO3PJb7E7jAhuaCl/uOVbb9jyeSdznNgzeWlsTT9LDPF/axBSR25kEvfklx2HQf5yfk1Pelwx5AcrnWfaOVrrImbr/9k="
+    x="8"
+    y="173"
+    width="24"
+    height="24"
+    clip-path="url(#ico169)"
+  />
+  <text
+    x="40"
+    y="185"
+    fill="#24292f"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="start"
+    font-size="11"
+    font-weight="600"
+  >
+    Monster Hunter: ...
+  </text>
+  <text
+    x="217"
+    y="185"
     fill="#24292f"
     font-family="Arial"
     dominant-baseline="middle"
