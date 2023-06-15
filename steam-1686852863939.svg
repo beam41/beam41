@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 169" height="169"
+    viewBox="0 0 225 233" height="233"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="169" rx="4" />
+        <rect x="0" y="0" width="225" height="233" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -44,7 +44,7 @@
       font-size="10"
       font-weight="600"
     >
-      27.5h (2 weeks)/272.5h (total)
+      25.1h (2 weeks)/272.5h (total)
     </text><defs>
     <clipPath id="ico105">
       <rect x="8" y="109" width="24" height="24" rx="4" />
@@ -98,7 +98,7 @@
     text-anchor="end"
     font-size="11"
   >
-    9.2h/9.2h
+    9.8h/9.8h
   </text><defs>
     <clipPath id="ico137">
       <rect x="8" y="141" width="24" height="24" rx="4" />
@@ -153,4 +153,112 @@
     font-size="11"
   >
     1.1h/208.6h
+  </text><defs>
+    <clipPath id="ico169">
+      <rect x="8" y="173" width="24" height="24" rx="4" />
+    </clipPath>
+    <filter id='shadow169' color-interpolation-filters="sRGB">
+      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
+    </filter>
+  </defs>
+  <rect
+    y="169"
+    width="225"
+    height="32"
+    fill="rgb(235, 218, 219)"
+    clip-path="url(#fullCliping)"
+  />
+  <rect
+    x="8"
+    y="173"
+    width="24"
+    height="24"
+    rx="4"
+    fill="rgb(235, 218, 219)"
+    filter="url(#shadow169)"
+  />
+  <image
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHCAH/xAAuEAABAgMGBQIHAQAAAAAAAAABAgMABAUGBxEhMVESFEFhcRVSIiMlcoGRsbL/xAAZAQACAwEAAAAAAAAAAAAAAAAABAECAwf/xAAiEQABAwMEAwEAAAAAAAAAAAABAgMRAAQFEiExURNBYeH/2gAMAwEAAhEDEQA/AEqAAkgAYk5ACCLddBZFNNp/rlSZxm3kYsIKcS23uB7lfzyYQQgrMCurZG/RYM+Ve59Ds1EVApUQoEEZEHpBFvvQs2xaOht2goyQ5MNt8auAZvNdx7k/vUbREIFoKDFRjr9F81rAgjYjo09XVWRNoKrzc43jTJRQKwRk6vUI8dT2y6xSJq8ORl7bN0T4OUHyXJnHJL2OQ8DQ9z2zz5gNo7Fku6BAFK3eHTevFx9ciIAiI+87mtPJ+h1jh0plQcy2ZmD07JX/AK+6I9exZL0Gq89JN4U2bUSABk05qU+DqPyOkIOA2gwG0C3QoRFZ2GGXZOh1Ls7QRHPXvn7+1//Z"
+    x="8"
+    y="173"
+    width="24"
+    height="24"
+    clip-path="url(#ico169)"
+  />
+  <text
+    x="40"
+    y="185"
+    fill="#24292f"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="start"
+    font-size="11"
+    font-weight="600"
+  >
+    THE FINALS PLAYTEST
+  </text>
+  <text
+    x="217"
+    y="185"
+    fill="#24292f"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="end"
+    font-size="11"
+  >
+    1.1h/1.1h
+  </text><defs>
+    <clipPath id="ico201">
+      <rect x="8" y="205" width="24" height="24" rx="4" />
+    </clipPath>
+    <filter id='shadow201' color-interpolation-filters="sRGB">
+      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
+    </filter>
+  </defs>
+  <rect
+    y="201"
+    width="225"
+    height="32"
+    fill="rgb(141, 180, 194)"
+    clip-path="url(#fullCliping)"
+  />
+  <rect
+    x="8"
+    y="205"
+    width="24"
+    height="24"
+    rx="4"
+    fill="rgb(141, 180, 194)"
+    filter="url(#shadow201)"
+  />
+  <image
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABQIDBggEBwn/xAAqEAACAgECBQMFAAMAAAAAAAABAgMEBQYRAAcSITETIkEIFSMyURRCgf/EABoBAAIDAQEAAAAAAAAAAAAAAAQFAwYHAAL/xAApEQACAQMDBAEDBQAAAAAAAAABAgMABBESEyEFMVFhsRRBoRUigZHB/9oADAMBAAIRAxEAPwAhU+knG28FBZr3bEdqZl90qeqGLHYKAO++5HGrWHVYoov3oNKj7VjN/aXTThUYlmP5qQYz6P8ATVnRGsbP3KaxqXF1fUr05FEcZHUv5d/J2AdSp/U+fI4Gn61ILuJCoEZYcjnI8UxtOnRyWM0pYmVAcqeMHvmiKfS5pjRWJ0VkUty2tU36qT2McEEkIVify+OoEgqqr8kb/B4hTqst1NNFpG0CeTwQPFde2EVtZwyAtvMBhRzk+aJ5vllg2wtiWeBEKo46Hj2O43BBB8EEHgS90yQ5j5BofpWuK503Bwy/NbTwLGTEYEVbMda2ZkaBJYPWjlkA3CsOpfkbj3DuB54Qg6YSHJANXJxrug0agkc8/NN8w11NlcwY58bWp5b/AAZ57N7EAmWSnt0So1clg7ODsvuB6gD/AK8AiVYxpVsgc49+qZGBpmLugViMEg5yPf8AlP8ALaPUWPzsiJXqPlZakNuDI5eEvbasR0oqwh0WMxgBGUHz3+ePDS610k4HfHupkt9t9wKC2MZPjwPFY+v9K/cdN5yycgtu0kziYRVvQjik23ZQN2+Tue57k8M4LzRHt5yKRXfS96YzYwT4+9RHR+rIZ9HiCzcSgoRHFhun8ZVgVYdXbsQPPD02ceydbYGKp36tItwCi5INGtIaWTmDls5kDLVeqjxJHdyNKK/NabpJZ/UZuy/rso2A38DiqXqJG4VO2OPfutD6TO9zCZJDls88dvX8Ufj5ftp/VuCWNK1mpZMqSz42jFRnrOFBSQOrbkD3bjvv/CN+BYl1nFM53211ZqT6+9DCcvGpG2LfpRuWsEKpdmJYkgdgdzwRtECg/qFJ5rl1hs2yQQpcydfrhURlLN+PdR/Ni2/COQyycOfzQ/0YUkqoH9VYfQnN7QmieWDxQ6ulTUpilsGlWyk0MDTnfoB6PaOwUEj+cTxkIgBPNM4gsaYzzStY87dHar5YkVddW4NWiCOUVvvM7xJN2EiAsdiCC4G5+ePTvhe+DXSqs0ek1W/M6ivT0XopnktQSsS1ZMkjhyfHt6/P/OBQXI4+aAW2YGv/2Q=="
+    x="8"
+    y="205"
+    width="24"
+    height="24"
+    clip-path="url(#ico201)"
+  />
+  <text
+    x="40"
+    y="217"
+    fill="#24292f"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="start"
+    font-size="11"
+    font-weight="600"
+  >
+    Foundation
+  </text>
+  <text
+    x="217"
+    y="217"
+    fill="#24292f"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="end"
+    font-size="11"
+  >
+    0.1h/44h
   </text></svg>
