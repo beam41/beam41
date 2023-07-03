@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 329" height="329"
+    viewBox="0 0 225 361" height="361"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="329" rx="4" />
+        <rect x="0" y="0" width="225" height="361" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -57,7 +57,7 @@
     y="105"
     width="225"
     height="32"
-    fill="rgb(110, 39, 4)"
+    fill="rgb(92, 151, 162)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -66,11 +66,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(110, 39, 4)"
+    fill="rgb(92, 151, 162)"
     filter="url(#shadow105)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYCBQcJ/8QALxAAAQMDAwEFBwUAAAAAAAAAAQIDBAAFEQYSMSEHIkFRgRQXI0JEUqGRscLR8P/EABkBAAMBAQEAAAAAAAAAAAAAAAQFBgIDAf/EACkRAAEEAAQEBwEBAAAAAAAAAAEAAgMEESExQQUSInEVJTJRYoHBctH/2gAMAwEAAhEDEQA/AOYMm3Xa4xpN5dQ8/HLhLspS894nxOecmhzYiEohLuo7IsVZjCZw3oG6qkqWpQAUcnpzRByQoGJwR12stxsS20T2HIq3BuSlZGSPPmh4bEVgExOxwRVirNVIEzeXFEMWy8WyNGvDbb0eOFpU1KSvA3Z6YOecivBZhdIYQ7qGy9dUnbCJ3N6DumDs7mtzVXTTslWI9yaUGyeEujqk/wC8hSnikZj5LjNWHPsnXBpWyCSjIcpBl3CrNG6cVcdWtxJSdjUVZck7uEpQeoPr09aKvWhFVMjNXZD7QfDqZmuiKTRubvpC6zv6tS6ilzc/CKtjQ8kDoP79a7UawqV2xb791w4lbN20+XbQdhor+c5nsntCc/XK/lS6IeayH4j8TWZ3ksQ+R/UmR5TkGc3IZVtdacC0keBBp69gkaWO0Km45HRPEjdRmtE1Jd4cOxSrpCO2XfUpSoD5AB3/AM/vUxVhkfO2CT0xY/fsq65YjjgdYi9U2H17rNKqlGpzmbvdpaxg4ExR/KqRx4eJP/kfioZSfC4x8v8AUpzYT8OW8w+ytl5tZStC0kFJB4Ip4p5QWt5baG1FakIztSeE55xWQ0AkgZlaLiQATkFDYr7T+laWUbF9vnusQmjIf3qCG2ElRBOegArAjYDzADFdDI8t5S44L//Z"
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gOTAK/9sAQwADAgIDAgIDAwMDBAMDBAUIBQUEBAUKBwcGCAwKDAwLCgsLDQ4SEA0OEQ4LCxAWEBETFBUVFQwPFxgWFBgSFBUU/9sAQwEDBAQFBAUJBQUJFA0LDRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQU/8AAEQgAIAAgAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A5v4LfCDwn4h8H6Vd6hoOnahd3FtHNNcXlqkskjsoLEswJ6mvTZvgD4DS90jTx4X0KK51S48iJm06H5QFLux+XoFU/iVHes79l+FdR8K6JEDkC0hH/jorY8aavq+v/E77ToUIltNIBtrWUvhTtbEz/wDAnG3I7Rj1rrzvFQy3AyqJpTasr6a/8A/O8Rmc4VbK7V9lva+pUtvgH4HvdJiuW8IaJG7Lh0/s6L5W7j7teGftQfC/wz4T+GeqappGjWOlalY+XNb3NjbpC6N5ijqoHYmvqT4f39yfFnifSdQQQ21y6XNqpcNskZMsAfQnP0wBXgf7ZjrB8MPEMBPJjUAf9tFP9K2yzE08yy+OIVr21t3tqdGHx83XjCT0bt+NjV/ZW8QRafpul7nwPJj7+wrvfiD4QvrH4q2y+Fr2TToNdKXwFsdoAEii7Hu2GRgP9r618efDT4wad4RtoLS+v4bO4gUI8c0gRkIGCCDyDXso/as8OFNOujrWnyXmmyNNb5u1HLRtG69ehV2/EA9q0z7BRzHLpRotOoleKdrXtt8zxquCqLFe/F8t90ejfBDRbm/8ZeLPFviC5+2DTriS0sZXOSTzjnuVViCe5PtXjH7Xerpf+EtbIbOY+Of9oVPpn7Rnhnw/4SttIttd087QzzMlwv7yVjuduvck14n8XviZZeNtHurDT7uK9ubjEccMDh2diwwABXdgsNSwGA9ipK/L072NMHhKzxUJcjSTvt5n/9k="
     x="8"
     y="109"
     width="24"
@@ -80,25 +80,25 @@
   <text
     x="40"
     y="121"
-    fill="#c9d1d9"
+    fill="#24292f"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="start"
     font-size="11"
     font-weight="600"
   >
-    Sid Meier's Civilizati...
+    The Sims™ 3
   </text>
   <text
     x="217"
     y="121"
-    fill="#c9d1d9"
+    fill="#24292f"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="end"
     font-size="11"
   >
-    7.1h/557h
+    6.2h/214.8h
   </text><defs>
     <clipPath id="ico137">
       <rect x="8" y="141" width="24" height="24" rx="4" />
@@ -111,7 +111,7 @@
     y="137"
     width="225"
     height="32"
-    fill="rgb(92, 151, 162)"
+    fill="rgb(110, 39, 4)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -120,11 +120,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(92, 151, 162)"
+    fill="rgb(110, 39, 4)"
     filter="url(#shadow137)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gOTAK/9sAQwADAgIDAgIDAwMDBAMDBAUIBQUEBAUKBwcGCAwKDAwLCgsLDQ4SEA0OEQ4LCxAWEBETFBUVFQwPFxgWFBgSFBUU/9sAQwEDBAQFBAUJBQUJFA0LDRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQU/8AAEQgAIAAgAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A5v4LfCDwn4h8H6Vd6hoOnahd3FtHNNcXlqkskjsoLEswJ6mvTZvgD4DS90jTx4X0KK51S48iJm06H5QFLux+XoFU/iVHes79l+FdR8K6JEDkC0hH/jorY8aavq+v/E77ToUIltNIBtrWUvhTtbEz/wDAnG3I7Rj1rrzvFQy3AyqJpTasr6a/8A/O8Rmc4VbK7V9lva+pUtvgH4HvdJiuW8IaJG7Lh0/s6L5W7j7teGftQfC/wz4T+GeqappGjWOlalY+XNb3NjbpC6N5ijqoHYmvqT4f39yfFnifSdQQQ21y6XNqpcNskZMsAfQnP0wBXgf7ZjrB8MPEMBPJjUAf9tFP9K2yzE08yy+OIVr21t3tqdGHx83XjCT0bt+NjV/ZW8QRafpul7nwPJj7+wrvfiD4QvrH4q2y+Fr2TToNdKXwFsdoAEii7Hu2GRgP9r618efDT4wad4RtoLS+v4bO4gUI8c0gRkIGCCDyDXso/as8OFNOujrWnyXmmyNNb5u1HLRtG69ehV2/EA9q0z7BRzHLpRotOoleKdrXtt8zxquCqLFe/F8t90ejfBDRbm/8ZeLPFviC5+2DTriS0sZXOSTzjnuVViCe5PtXjH7Xerpf+EtbIbOY+Of9oVPpn7Rnhnw/4SttIttd087QzzMlwv7yVjuduvck14n8XviZZeNtHurDT7uK9ubjEccMDh2diwwABXdgsNSwGA9ipK/L072NMHhKzxUJcjSTvt5n/9k="
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYCBQcJ/8QALxAAAQMDAwEFBwUAAAAAAAAAAQIDBAAFEQYSMSEHIkFRgRQXI0JEUqGRscLR8P/EABkBAAMBAQEAAAAAAAAAAAAAAAQFBgIDAf/EACkRAAEEAAQEBwEBAAAAAAAAAAEAAgMEESExQQUSInEVJTJRYoHBctH/2gAMAwEAAhEDEQA/AOYMm3Xa4xpN5dQ8/HLhLspS894nxOecmhzYiEohLuo7IsVZjCZw3oG6qkqWpQAUcnpzRByQoGJwR12stxsS20T2HIq3BuSlZGSPPmh4bEVgExOxwRVirNVIEzeXFEMWy8WyNGvDbb0eOFpU1KSvA3Z6YOecivBZhdIYQ7qGy9dUnbCJ3N6DumDs7mtzVXTTslWI9yaUGyeEujqk/wC8hSnikZj5LjNWHPsnXBpWyCSjIcpBl3CrNG6cVcdWtxJSdjUVZck7uEpQeoPr09aKvWhFVMjNXZD7QfDqZmuiKTRubvpC6zv6tS6ilzc/CKtjQ8kDoP79a7UawqV2xb791w4lbN20+XbQdhor+c5nsntCc/XK/lS6IeayH4j8TWZ3ksQ+R/UmR5TkGc3IZVtdacC0keBBp69gkaWO0Km45HRPEjdRmtE1Jd4cOxSrpCO2XfUpSoD5AB3/AM/vUxVhkfO2CT0xY/fsq65YjjgdYi9U2H17rNKqlGpzmbvdpaxg4ExR/KqRx4eJP/kfioZSfC4x8v8AUpzYT8OW8w+ytl5tZStC0kFJB4Ip4p5QWt5baG1FakIztSeE55xWQ0AkgZlaLiQATkFDYr7T+laWUbF9vnusQmjIf3qCG2ElRBOegArAjYDzADFdDI8t5S44L//Z"
     x="8"
     y="141"
     width="24"
@@ -134,25 +134,25 @@
   <text
     x="40"
     y="153"
-    fill="#24292f"
+    fill="#c9d1d9"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="start"
     font-size="11"
     font-weight="600"
   >
-    The Sims™ 3
+    Sid Meier's Civilizati...
   </text>
   <text
     x="217"
     y="153"
-    fill="#24292f"
+    fill="#c9d1d9"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="end"
     font-size="11"
   >
-    3.9h/212.5h
+    3.8h/557h
   </text><defs>
     <clipPath id="ico169">
       <rect x="8" y="173" width="24" height="24" rx="4" />
@@ -423,4 +423,58 @@
     font-size="11"
   >
     0.1h/22.8h
+  </text><defs>
+    <clipPath id="ico329">
+      <rect x="8" y="333" width="24" height="24" rx="4" />
+    </clipPath>
+    <filter id='shadow329' color-interpolation-filters="sRGB">
+      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
+    </filter>
+  </defs>
+  <rect
+    y="329"
+    width="225"
+    height="32"
+    fill="rgb(94, 125, 150)"
+    clip-path="url(#fullCliping)"
+  />
+  <rect
+    x="8"
+    y="333"
+    width="24"
+    height="24"
+    rx="4"
+    fill="rgb(94, 125, 150)"
+    filter="url(#shadow329)"
+  />
+  <image
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCBAgF/8QAKhAAAQMDAgUEAgMAAAAAAAAAAQIDEQQFBhIhAAcxQWEIEzJRFSIjcfD/xAAbAQACAgMBAAAAAAAAAAAAAAAFBgIHAAMEAf/EADARAAEDAgMGBQIHAAAAAAAAAAECAxEABCExQQUSE1FhsQYicZHBQoEVI6HR4fDx/9oADAMBAAIRAxEAPwADx6zodT7LTa1q1lCUIUSSZgADi3GGEoTAwAqriUuJDjgBJAJJFP3lRystd1vdytT9rbZuKLPWOFC0e4EO6mktqAEBUBZIg9zuDwmbQcU6sLJlOg5c/emjZ7SEIKUZ6nnyw0igvNsctNk5iZBi349DqrSzSuisCgkO+8gqjRpMRpjqZntxOwvH+MhgqkE9ZyPXpWX2z7XgruAmDGkRgeUazQrzH5cu4pQ0AqFqWasfyJTOhsz8dXc7/wC68NTqUPIUCJFKVu+glSmwARlz9aZ3LnlZRs465kSLgaqpbpFViWkj2g2oqQFJXM6oS4oCNMmD44BP7RUz5OHmTrnR22sBcIBDmQGEZYY0RYXk9FZs1rrm3UoOu2PABRCFJksEK32Px6cBblablxTidY7CjVkwq2ZS0ozE9yfmlxeLkjJOfeW1+xaKaAAI6EJQ8kbydtuvfxMCFggKuWwcp+DWy+UUWrhGcHuKjziujl0s9EWgXEtVSC5B6JJifO8cPzzXDQY6VXtvCVnewkGrWBZfRs2e8MPOCnW5QvtJClfOHGlbbfSCY67eOK43QtaiD9Rp+4haQgEfSB7VoSqzHGrJS2210PLykuzLlhLrhpKamDzIAQklSnlIBEHoJJI6/ZNVju4TP2H70JRtQqkqEY6k/CTUsZzXHa7H7MzjVgwq9VX4htqvYcdbFQkhCQNS20KITJUCCmQd57ceIsd8DhLE/wB9a2u7VDZ/NbMT694rJ+XX+111gduVvLjdOUCGEwSVjrMn9R4/v643/jawyEujfOOOX2y05610K2QhazueX9fn/KR3L/L3UZAll9LiG1uVSVBYiJSYnbx08jgPxApBJrs4cGIprVvqXVabTTUZNJU1ZpkNLCKRzUnUgTCtcT0JjvG30SX4qfZbDfDBMRkeXtSg74Vsg6Xd5eJmMIznl/Nc9/1OXS1UDDNC1bKlFNTBsPLp3PdjoNtY7JBO0T246GvE90lAQlCfKAJgz36VNzwnZuuKcK1YmYkR2pW2jOGrTYDaF0RecdKW2wonXEgyP12Eap8geYWSqKe0jGv/2Q=="
+    x="8"
+    y="333"
+    width="24"
+    height="24"
+    clip-path="url(#ico329)"
+  />
+  <text
+    x="40"
+    y="345"
+    fill="#c9d1d9"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="start"
+    font-size="11"
+    font-weight="600"
+  >
+    Cities: Skylines
+  </text>
+  <text
+    x="217"
+    y="345"
+    fill="#c9d1d9"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="end"
+    font-size="11"
+  >
+    0.1h/682.2h
   </text></svg>
