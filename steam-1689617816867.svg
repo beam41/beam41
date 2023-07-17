@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 329" height="329"
+    viewBox="0 0 225 297" height="297"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="329" rx="4" />
+        <rect x="0" y="0" width="225" height="297" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -44,7 +44,7 @@
       font-size="10"
       font-weight="600"
     >
-      41.8h (2 weeks)/41.8h (total)
+      42.9h (2 weeks)/42.9h (total)
     </text><defs>
     <clipPath id="ico105">
       <rect x="8" y="109" width="24" height="24" rx="4" />
@@ -152,7 +152,7 @@
     text-anchor="end"
     font-size="11"
   >
-    4.5h/217.3h
+    2.5h/217.3h
   </text><defs>
     <clipPath id="ico169">
       <rect x="8" y="173" width="24" height="24" rx="4" />
@@ -369,58 +369,4 @@
     font-size="11"
   >
     0.1h/22.9h
-  </text><defs>
-    <clipPath id="ico297">
-      <rect x="8" y="301" width="24" height="24" rx="4" />
-    </clipPath>
-    <filter id='shadow297' color-interpolation-filters="sRGB">
-      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
-    </filter>
-  </defs>
-  <rect
-    y="297"
-    width="225"
-    height="32"
-    fill="rgb(13, 13, 13)"
-    clip-path="url(#fullCliping)"
-  />
-  <rect
-    x="8"
-    y="301"
-    width="24"
-    height="24"
-    rx="4"
-    fill="rgb(13, 13, 13)"
-    filter="url(#shadow297)"
-  />
-  <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/wAALCAAgACABAREA/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/9oACAEBAAA/APin4G/sw+IfG3gi4+Ilz4G8U+MvDsNy1lp+jeGrCeWXVLlQC/mSxo3kW6ZG98bmJ2JzvePqNWsP2pvDdlc3Og/Dnxr8LtCtI2laLwn4bu9JigiUZYy3CIJpAADl5pHbA5as3w1qv7SPjnSbTUdR8EeLvi74ZvV3ofEnh271q3uI84/dXLIZY+hG+CVGHZhWJ8bP2a9c8JeCIPiJY+CPFPg/w7JcrZajo3iXT54ZdLuWBKeXLIi+fbvg7HxuUjY/Ox5P10/Yf+PHhjUNU1n4AeG/DV5pg+Ftn/Zl5qc0iGK7uIpjDM6qvILyiWQk9cn1rkf+CiP7dmifAu28S/CSfw7qGo6x4l8IXBt9TtpkWG1e5W4t03qeTtKbjjsRXu37KVpceDf2NPhk1rYvf3lv4Ps72OxjO15pHtlm8sHBwWZsdOpr5X+OP7TnxQ+LHhjTfht8QP2ddQ+Hfhvx1qkHhh9Z1LWUu41nuQyQbU+zp86ybJVbdwYu44rX/wCCaegnUfjP8dPiEi79P8YxaRr9jOPuuL03c9wgPrFcCSFvRomHavij/grlrP8Aan7Z2tW27P8AZ2k2Frj0zF5v/tWv1u8ZeLbv9n/9ju917T4oG1Hwp4NV7SK6UtEZ4bQLGrqCCV3hQQCDjuK/K/8A4b7+Jf7T/iTw3/wmth4esPDfw+vx49nn0i0mhYS2McnkI7PM4xJNLHCBgZeZOa8g/Z2/a28T/C/wbffD8+M9c8IaDd3H2ux1vRDvm0u4wQd8X/LW3fOXjBDK3zpzvSTG+IPwi+L/AMXfFd94qDz/ABivb/YZNd8Lzf2tJOqIsaGSKMedEQiKNs0aMABkCvS/FPjj9qvxf4Xv9A+JfjLVfB3hK+i8m+/4TmSPS43h4JAhdBPN0Hywxux7A14b438b6DonhJ/AngR7ifRpZkudY167i8m41mdM+WBHkmK2jJYpGSWZjvfnYkf/2Q=="
-    x="8"
-    y="301"
-    width="24"
-    height="24"
-    clip-path="url(#ico297)"
-  />
-  <text
-    x="40"
-    y="313"
-    fill="#c9d1d9"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="start"
-    font-size="11"
-    font-weight="600"
-  >
-    Transport Fever 2
-  </text>
-  <text
-    x="217"
-    y="313"
-    fill="#c9d1d9"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="end"
-    font-size="11"
-  >
-    0.1h/102.1h
   </text></svg>
