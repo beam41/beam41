@@ -12,20 +12,20 @@ jobs:
         uses: actions/checkout@main
         with:
           persist-credentials: false
-      - name: Get info from Spotify and write new readme
-        id: spotify
-        uses: beam41/spotify-listening-svg@main
-        with:
-          imgHeight: 300
-          txtFont: Arial
-          txtFontSizeSong: 16
-          txtFontSizeArtist: 12
-          txtMaxWidth: 193
-          rawBasePath: https://raw.githubusercontent.com/beam41/beam41/master/
-          baseSvgPath: ./base.svg
-          token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-          clientId: ${{ secrets.SPOTIFY_CLIENT_ID }}
-          cliSecret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+      # - name: Get info from Spotify and write new readme
+      #   id: spotify
+      #   uses: beam41/spotify-listening-svg@main
+      #   with:
+      #     imgHeight: 300
+      #     txtFont: Arial
+      #     txtFontSizeSong: 16
+      #     txtFontSizeArtist: 12
+      #     txtMaxWidth: 193
+      #     rawBasePath: https://raw.githubusercontent.com/beam41/beam41/master/
+      #     baseSvgPath: ./base.svg
+      #     token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+      #     clientId: ${{ secrets.SPOTIFY_CLIENT_ID }}
+      #     cliSecret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
       - name: Get info from steam and write new readme
         id: steam
         uses: beam41/steam-top-svg@main
