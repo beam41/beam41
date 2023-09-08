@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 137" height="137"
+    viewBox="0 0 225 169" height="169"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="137" rx="4" />
+        <rect x="0" y="0" width="225" height="169" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -99,4 +99,58 @@
     font-size="11"
   >
     0.7h/322.9h
+  </text><defs>
+    <clipPath id="ico137">
+      <rect x="8" y="141" width="24" height="24" rx="4" />
+    </clipPath>
+    <filter id='shadow137' color-interpolation-filters="sRGB">
+      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
+    </filter>
+  </defs>
+  <rect
+    y="137"
+    width="225"
+    height="32"
+    fill="rgb(68, 79, 81)"
+    clip-path="url(#fullCliping)"
+  />
+  <rect
+    x="8"
+    y="141"
+    width="24"
+    height="24"
+    rx="4"
+    fill="rgb(68, 79, 81)"
+    filter="url(#shadow137)"
+  />
+  <image
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABAYHAwUI/8QAKRAAAgICAgEEAQQDAQAAAAAAAQIDBAURBhIHABMhIjEIFCMyQVFhcf/EABkBAAIDAQAAAAAAAAAAAAAAAAUGAgQHA//EAC0RAAIBAwMCBQIHAQAAAAAAAAECEQMEIQUSMQBBBhMiUWEUgRUyQnGRobHw/9oADAMBAAIRAxEAPwCdeM/03cd8mcCW9YzmJwWeylpxTt3soTG7L3/hVCAC5K/K9i33VvwQPTdda0LG5NKjR3IsSOP7g/YnB6GW+ifiNPz3q7QxMACT7dyJjkgSQO/HR6/pY4TRtV1fyXj71WYbW1Rq+52IYho0j793kXrshQd+4mgdPqVLxFcXM/T2gaMGNxg/OIH3jqNz4csrJd13eGmPnYJAiY9RnntJzx7umF8H8HfHPiqnKoZjMEL4yPEoLAfseySzsnYkMoUOnVdOPqNnQmrfaitytw9A7k7HdEnH5QQI+Mick9dVsNFe02C8ASocMCmAMxuIMMYPO1oEAHvr8p4sxMH7vEYmxUix72ZmgvXikc0Mcaj3RN87STY0qKAdKd/9V7bVW1DxV5FVyTTpkVKZXaCxHoFMCS0SWcsQomBJHVjUbClY+GzXsQvlNUU06wfcApI3M7mBBjaoSWMDjMOXjyHB8R4YuJ5F40wdvDW16y5POPqxI2tAiVeyRhd/U/hT8/BPrWalejQVKrXLUwYGBKjuN+JAPu2JxI6wynWuBWrUhapXqgMwAYhyv6hTz6nAyVT1xkKc9GY/k1LimKjxOCxtXL5m3ejxNkcjdAmNSSKV4GhBZQJGMYUuSNdh1HyAUq+8Q1rivVqaXTNNlcBgwjfAyxAJ9LDEnn5nGieG9JpXWkJp2tsBSZWqoQASpYwpSpG4soyBAKkGRAPTz4X8ieJLsdPMctFutn8VXbKx0stXCGpGrtE1l5gzKyswZV7NttH6kn12/F2vaVOi4CvTDesiMDHp5gQYxk/bqmfBzaJe3d41R69C5NOaSSVJMOBVXAdgw3CRCd/h08m53jUOIy17FcQgimsp1M90IJFDgAKiAbUMdfGwNn/z0YuEqeQKtzcelATIB4AkknvA/rpVsbi0tbt6WnafHmtncw2gzEKgkLJziJJn264h8BVaGf5BOL+Qt3LMuPsCdLDTySCPQX3N/IZe2l0Adg/g+ki9qJb0vNQ7mkqck5KzB7RIyOY63TTHZ3rW1WmFptTJwFHJ2zHMwQQx4xGerzxXzBnh5Gr1eM46vjUgkjW+cYa9ZUpRyKhZYge5g11IDf5P+z6UNX1KyTTriKjmqyMFYFgoeO2xQBDYEkx1Ky0bVKtWgu8JTUj0bV3EdgzMWYkjJIieesuAlvcf8iYiPk/H8NReHIPeW5Jdgjlb+wUJXCiSWLs7GMsrBPswZCpPpQsdXCaZV1LR6xqVU2ht0tLEc7Z/SOSpABzHTDdaat7XXTbpSEqA5SQBHIZ/yhiexyRjpS8m/qax/KreTGOxNrH2pnspGsw/jJiiBjkV2Gn9x/xoDX138ketLsPE1a80JrS9hqzKVLDAO4YMDgiSCPgGeekS98Fvpeqo9F5SVYLGQQcrntiQe8kYjqB+M/LVjilhZcgI7+cCPjaCzhI5Xh6a234DyKxVUXQ6hS4IOthWs3TclJYWQT/PA9sEk+5gdONfUFhXq5gR7c9yQM8Dnj7npOtebeV8V5/nczTmo8buV7btHfrYqvPcyFnYbcgeRgydwCzglSPnROh6KpbpUoik4lSMKZKqPiRMx7/50OS5q1IrpAJzPBP7/t7dUjhHljknlixPlcvSpW8jmDLQyuTykiwr7Mny5rtGBISp7e2NBYlLIu9k+hd5pVCjT82goBQ7gAIE/MQDPf3x7R1aXWPpQaFckqRwMnjnPGYj79FeaaFHIclpyi/3qmnN+3gx1aKvBCHfRiES7Gx/YudkmQa/rv1UsmquCjKMEZEyfkz/AIPb56rWlZK6ec5IYHgme3P/AHB6/9k="
+    x="8"
+    y="141"
+    width="24"
+    height="24"
+    clip-path="url(#ico137)"
+  />
+  <text
+    x="40"
+    y="153"
+    fill="#c9d1d9"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="start"
+    font-size="11"
+    font-weight="600"
+  >
+    Overcooked! 2
+  </text>
+  <text
+    x="217"
+    y="153"
+    fill="#c9d1d9"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="end"
+    font-size="11"
+  >
+    0.1h/18.9h
   </text></svg>
