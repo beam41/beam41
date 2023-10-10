@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 105" height="105"
+    viewBox="0 0 225 169" height="169"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="105" rx="4" />
+        <rect x="0" y="0" width="225" height="169" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -45,4 +45,112 @@
       font-weight="600"
     >
       0.9h (2 weeks)/290.8h (total)
-    </text></svg>
+    </text><defs>
+    <clipPath id="ico105">
+      <rect x="8" y="109" width="24" height="24" rx="4" />
+    </clipPath>
+    <filter id='shadow105' color-interpolation-filters="sRGB">
+      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
+    </filter>
+  </defs>
+  <rect
+    y="105"
+    width="225"
+    height="32"
+    fill="rgb(93, 91, 63)"
+    clip-path="url(#fullCliping)"
+  />
+  <rect
+    x="8"
+    y="109"
+    width="24"
+    height="24"
+    rx="4"
+    fill="rgb(93, 91, 63)"
+    filter="url(#shadow105)"
+  />
+  <image
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAABAYDBQf/xAAtEAACAQMDAQYFBQAAAAAAAAABAgMEBREAEiFBBhMxYXGRIjJRgaEHFCPw8f/EABcBAQADAAAAAAAAAAAAAAAAAAQBAgX/xAAgEQACAgEDBQAAAAAAAAAAAAABAgADEQQTIRIiMTKB/9oADAMBAAIRAxEAPwDN3qquVWYucPgvHuJB/uM6srFbpLnLiLiNeXY8Y8vXy0NRUoWnmkmfAhUuUHzMNyjr5uPY6cOw9RHJaqr9tEqTRv8AEjfGAzK21ueCcINBd1prO3EaOtLXAPiS2+OGsimhMRjNJKYlxIcjaSAc/bP30PcbNUSuwhlEvVe8PKnqc+3P+6O7N3K5zz95WVboWJRYli2A5RiCCAB4ge40yRyQ94Nzd4RtyoGei5H4PGs89xIYZirF09tfWCFPyJKS0iGVppYlDrtcSuMlcggc+YHtq6sD2aegmmopxFLuZTyqKxXGM7iMg5Ph4aTK610lytUNwhfYBH/LnkqOeePHB4/PXGp/03v9s7KXGdrhRy18TIe7dUVyrE88MRjI6+PvpZr3V4ODBLplrOTzmaRao7WbatRV1y0oHzwhRujP0b8aULleJZr5UUlnMM0aSsiSou4uBxnxwfXShPcHn7RPc4FMUfe94tKxzHt3Z2EdR09NHNPcLjd5q6mpmimlcyYp4yqr6fQaiuh1YszZlzVQo9Z//9k="
+    x="8"
+    y="109"
+    width="24"
+    height="24"
+    clip-path="url(#ico105)"
+  />
+  <text
+    x="40"
+    y="121"
+    fill="#c9d1d9"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="start"
+    font-size="11"
+    font-weight="600"
+  >
+    ACRES Demo
+  </text>
+  <text
+    x="217"
+    y="121"
+    fill="#c9d1d9"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="end"
+    font-size="11"
+  >
+    0.1h/0.1h
+  </text><defs>
+    <clipPath id="ico137">
+      <rect x="8" y="141" width="24" height="24" rx="4" />
+    </clipPath>
+    <filter id='shadow137' color-interpolation-filters="sRGB">
+      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
+    </filter>
+  </defs>
+  <rect
+    y="137"
+    width="225"
+    height="32"
+    fill="rgb(193, 184, 199)"
+    clip-path="url(#fullCliping)"
+  />
+  <rect
+    x="8"
+    y="141"
+    width="24"
+    height="24"
+    rx="4"
+    fill="rgb(193, 184, 199)"
+    filter="url(#shadow137)"
+  />
+  <image
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUEB//EACoQAAEDAwIFBAIDAAAAAAAAAAECAwQABRESIQYHMUFREyIyYRRxQoGh/8QAGQEAAQUAAAAAAAAAAAAAAAAABAABAgMF/8QAHhEAAgICAwEBAAAAAAAAAAAAAQIAAwQREiFRE2H/2gAMAwEAAhEDEQA/AGEe15/jVJiyah8atuiLbYbkqc6hlhsZUtZwP1WTlzfYN+lTUNOnUVa2kObKKPOO3b+qNsyiDoRVYh4F9dCYnbGQPjU2RatOfbSbmVc2bKICBILa1ua1BIzhA6qP0N9u9bnI7MqOh+OpLjLiQpC07hQPcVGvM2xWM+OOIb2DeMITXFkBCUIlMutEY1ZKCM77A9ceKCcs7bdo/EsORCe1KU3+QlWjZTZOkKx0Kc4GB26VUuPM2y2RtSHZKZL240se7Sfs7bUcg87odpMFFstSdMOImGj1VZJQNPjxp/2gHbiejNevPdK/lvY8P7E3OmM7HvkV6RIUr10bh3G+NlYGfvpnbzSngB+fYuGWo11bdcPybQgBWgfvPfriuQcWc5RxI9HMq3R2UNBxCSCSoBxOMjJxkYz0pLG5zWmahSZUZ6Mc+3QQoYoVEUWlyTKWvBrCGf/Z"
+    x="8"
+    y="141"
+    width="24"
+    height="24"
+    clip-path="url(#ico137)"
+  />
+  <text
+    x="40"
+    y="153"
+    fill="#24292f"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="start"
+    font-size="11"
+    font-weight="600"
+  >
+    Sky: Children of the L...
+  </text>
+  <text
+    x="217"
+    y="153"
+    fill="#24292f"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="end"
+    font-size="11"
+  >
+    0.1h/0.1h
+  </text></svg>
