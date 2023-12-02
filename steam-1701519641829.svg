@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 169" height="169"
+    viewBox="0 0 225 137" height="137"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="169" rx="4" />
+        <rect x="0" y="0" width="225" height="137" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -44,7 +44,7 @@
       font-size="10"
       font-weight="600"
     >
-      25.5h (2 weeks)/112.1h (total)
+      26.7h (2 weeks)/113.4h (total)
     </text><defs>
     <clipPath id="ico105">
       <rect x="8" y="109" width="24" height="24" rx="4" />
@@ -99,58 +99,4 @@
     font-size="11"
   >
     3.3h/563.6h
-  </text><defs>
-    <clipPath id="ico137">
-      <rect x="8" y="141" width="24" height="24" rx="4" />
-    </clipPath>
-    <filter id='shadow137' color-interpolation-filters="sRGB">
-      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
-    </filter>
-  </defs>
-  <rect
-    y="137"
-    width="225"
-    height="32"
-    fill="rgb(96, 106, 24)"
-    clip-path="url(#fullCliping)"
-  />
-  <rect
-    x="8"
-    y="141"
-    width="24"
-    height="24"
-    rx="4"
-    fill="rgb(96, 106, 24)"
-    filter="url(#shadow137)"
-  />
-  <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIAgX/xAApEAACAQMDAwQBBQAAAAAAAAABAgMEBREABkESITEHE1FhFyIyUoGR/8QAGQEAAQUAAAAAAAAAAAAAAAAAAgABAwQG/8QAHREAAgICAwEAAAAAAAAAAAAAAQIAAwQREhMhMf/aAAwDAQACEQMRAD8AXO17HR2y3xqsamrKgySkZJPIzwNFm3ts3C9V0aUFI9RGjr7pAHQozyT28cax6e2Ybg3LS0MxKwkM8mDg4A8f2cDVLWW30lupRT21I44IlwVC9IP3nnWTSt7nLuZLXXyGzJlulprbXXSpcKY08jOzBMDHSTxjtof3HYqW9UEqvGq1Sg+3KBhg3Az8ao7fVpjukEiNErsuTH+rvn6xpIyPHHPUQhlLwuUJ7d8aB1elu1DCtp4ej5O/6V0qVe76anNQ1O8yOiuP5dJIH+jTgrandlnjcS0EFVFEOozJKAhUD4PcHUs7X3LDW08M8M/s1seCyq3S6uORpk/lO7y2atorvUSVDmLpgeGNQWJyMSE8d/I+NXcXhXum4aYGAlpQahFTX++7zsFwuNHTw00FNIVYdYY/tz2zj50oqdXzUSSMXd3YkntzgaKpt8SQWOO0bYpzb6NkKzvKqs8hwBkEHz5znQBe73TWe3SK0gNV04jjBySeCfrT5vXa3VjjfsTWM4AYz//Z"
-    x="8"
-    y="141"
-    width="24"
-    height="24"
-    clip-path="url(#ico137)"
-  />
-  <text
-    x="40"
-    y="153"
-    fill="#c9d1d9"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="start"
-    font-size="11"
-    font-weight="600"
-  >
-    Kingdoms Reborn
-  </text>
-  <text
-    x="217"
-    y="153"
-    fill="#c9d1d9"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="end"
-    font-size="11"
-  >
-    0.4h/36.5h
   </text></svg>
