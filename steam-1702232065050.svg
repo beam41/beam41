@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 169" height="169"
+    viewBox="0 0 225 201" height="201"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="169" rx="4" />
+        <rect x="0" y="0" width="225" height="201" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -44,7 +44,7 @@
       font-size="10"
       font-weight="600"
     >
-      40.5h (2 weeks)/130.9h (total)
+      37.6h (2 weeks)/130.9h (total)
     </text><defs>
     <clipPath id="ico105">
       <rect x="8" y="109" width="24" height="24" rx="4" />
@@ -98,7 +98,7 @@
     text-anchor="end"
     font-size="11"
   >
-    7.7h/7.7h
+    10.5h/10.5h
   </text><defs>
     <clipPath id="ico137">
       <rect x="8" y="141" width="24" height="24" rx="4" />
@@ -153,4 +153,58 @@
     font-size="11"
   >
     1.4h/1.4h
+  </text><defs>
+    <clipPath id="ico169">
+      <rect x="8" y="173" width="24" height="24" rx="4" />
+    </clipPath>
+    <filter id='shadow169' color-interpolation-filters="sRGB">
+      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
+    </filter>
+  </defs>
+  <rect
+    y="169"
+    width="225"
+    height="32"
+    fill="rgb(42, 39, 36)"
+    clip-path="url(#fullCliping)"
+  />
+  <rect
+    x="8"
+    y="173"
+    width="24"
+    height="24"
+    rx="4"
+    fill="rgb(42, 39, 36)"
+    filter="url(#shadow169)"
+  />
+  <image
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQcIBAYJ/8QALRAAAQMDAwMCBQUBAAAAAAAAAQIDBAUGEQAHEhMhYQgxFCIyQVEWFyNTcZH/xAAaAQACAwEBAAAAAAAAAAAAAAAFBgACBAcD/8QAKxEAAQMDAwMCBgMAAAAAAAAAAQIDEQAEIQUxQRITYSJRBkJxgZGxFDKh/9oADAMBAAIRAxEAPwBYzK5Z+x1PiQqzSJjinqaupImJbRiatCkhaOZPzOkEqOfsPI1xxVjf6w4p9Lg/tEScTOY9uK7Sm/0/Rmk25b+WZgZIjH15rG2x3lt+51TGKjSzUXF1xyJEfpEXi2iDhvg+6FqBGC4AQMqznA7a0XmhPtwWlx6QT1H5syBA8Y4rLZfEFu51B1E+sgdI+XEEyfOf1Qva26LiuYlyXAgVyPIqEaktlMT4Qx57shXNgYJ6iURkl4rwPsMnvq2paWy1AbUUkAq3mUgYPglXpifNV0vVnnJLiUrBITtEKKsjmQE+qY8Uercq2b7uO4rRRR5ERyB11QKtwHTlFhQbeWyrGUqbdPHzj3+2h1va3unJavUuTMSOROQD7giilzd2OpKdsVtREweDGCR7EHFU5f8AsHau7WxZp9decgvQ0InRZ8eKZL8dacZKWk/MsKTlJSPfI/A1mtNQfsL8Kag9WCCYn78fWku6m9toWMDM+1aRek20dqN4b7k0yzqXKmNwmpMCkv09yQ9PrbVPcmsvpGQmKOn1EnCSpxaV4IKdHLa3ubuzaQ46dyCZiEFQSR7qz9gKFuXAbeWtKRO+3IEz4pDt7pxYNpQ3f29t2q1SJIdq8a5rfqMikxXo8VpslTAcVl99tyY6zxPIK4qThQ0cXp7i3TDygkjpKVAKMqPPsCEgzxvNZkXpQkHoEjMgkbfs5IqkaB6aY+3lrqqM2vOV+popKYMFLsIRPgopJdWkoClcnluK5OLJyVD2AGkp7V/5Vx2EI6R1SczJ23xgDAHApktuu2b7rhnEDiBv+Sck81TG1UduZa8LoiHHkuJEZl+c6ENuPFPZCMHKz4T576cE/DabpXdd9P8AppZOoqaHQgzUV+rupb0bQbvUybVLgo7UiXGWml1WgUdhh9ptJwpnquJW8MBf9hB5Hzpot9KtbdvtJTI8k/rahbly44rqJzSst3dHde/r8s6jpep171hqcBSIdy0uNKaYdPdSkqKApsAJ5EpI+nPuBr2Vp9uQUpBTO8EiqB5cyc10Vv8AiVun2Hi52KR+o2ofOexQXy4hCSMBYQ4A4E/9/wBOlVfw0lp3vMmfHP5oonUSpHbXUvzL32A9QtrbcTr0u2fbVTsaUJjdNjS0xl9X+MradQpJP1NI+ZOFDvg99PlBKU3rG9T0P1B7kQZNGbcbt+jNLajOuJKVPrURyWAe4ThIAz51KlLLazd5/ardG2byjx/jlUiT1HIx93W1JKFgeeKjjzjUqVQt278bBjeO496KbVrmlXzcNMFOVbym1FnmW0N4SnhnJDaBxKuIOT+MSpX/2Q=="
+    x="8"
+    y="173"
+    width="24"
+    height="24"
+    clip-path="url(#ico169)"
+  />
+  <text
+    x="40"
+    y="185"
+    fill="#c9d1d9"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="start"
+    font-size="11"
+    font-weight="600"
+  >
+    World of Goo
+  </text>
+  <text
+    x="217"
+    y="185"
+    fill="#c9d1d9"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="end"
+    font-size="11"
+  >
+    0.2h/0.8h
   </text></svg>
