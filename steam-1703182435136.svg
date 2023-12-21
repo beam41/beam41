@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 297" height="297"
+    viewBox="0 0 225 265" height="265"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="297" rx="4" />
+        <rect x="0" y="0" width="225" height="265" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -57,7 +57,7 @@
     y="105"
     width="225"
     height="32"
-    fill="rgb(30, 29, 32)"
+    fill="rgb(217, 178, 41)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -66,11 +66,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(30, 29, 32)"
+    fill="rgb(217, 178, 41)"
     filter="url(#shadow105)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gOTAK/9sAQwADAgIDAgIDAwMDBAMDBAUIBQUEBAUKBwcGCAwKDAwLCgsLDQ4SEA0OEQ4LCxAWEBETFBUVFQwPFxgWFBgSFBUU/9sAQwEDBAQFBAUJBQUJFA0LDRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQU/8AAEQgAIAAgAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A/LO6urnUL6SSWSW4uJpCSxJZnYn9TX6Q/Fv9kP4dfsxfAK+ngnm1f4nLb6TBqGrHzLpNDmnurVpZJBEG+zIyNIkZ2GUjGN27mH/gn9+xN4Y8U6FN4w8dXslrdXtibvTtNkP2aae1wrPJHn5xGQyqZVwSJMKQp3SXv2mr7Vde0j4geORpyvp3i3UvCkn+iWl9aC0isVdJJJ/NSOGYu00KxvG83yBc7MjHBTxUatWVNLSNte+rT/L/ACOyVCUIKfc8U+G2h6prOjR2usX+sWchGY4dQt7q6WXLBQvywSgcHOXAHHXkCvO/il/wjGqeGX1PQL3SbLW9EkidRpy2lu8qF1Rtpg2CU5dGztLAK2cDdXut7ZfEHxx8MvENr4R0KLWrjVN1iNTGtafCIkI/egjzFbf5ThdjEY80N2wfm3U/2efGfwyaK+8V6Npum2+JWjjuNUs5pLgBDuEcaysZCuVOADjINe1JS5fhPNTV9z6a8U/tK3niHRPB8PgXQ0TxpomgNZveSXgtkszfW8DP5asyNM6eXEq5VozvYnJCsNb4W/CTxF+0JoK6FptvpdnfSSl9SUaTypgkhZ1jlJnQuZRt81PJ/wBVKn3Sd3w/pvjzU/DWv3E9/pVtf3SiC3lhu43iASGPylT90yFTgId4IbcgbOcmvp/4Jft3t8IDp02kWEtjstTEbCK6Y28B+0zSFW8xGebIk3BjJkF2yWzx48MOqbVl/W/57HputeFl9x6X+0V8LfEfw78UaeL6a+trr+zLWOR4tb0zT1eWOJYmbbM6vzsBJz39q89tvA/jTxJ8L/iRqVha6tq9hZ6cplebWrHUkjRS0rsvlSttOIwDjkjIGTxWH8X/ANu+5+LXjWLUfE3h2LWtHGVktbeSGOcKFcKIpZ7edEG5lJzGwIUgYJ3Dg5v2qNdhtPEPhnwRplzoPh/X4vsR02OeJ2ZGQod7Q28AkYlmIOxcA4x1J9d1rw8zzFT97yP/2Q=="
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYDBAcC/8QALRAAAAUCBAUDBAMAAAAAAAAAAQIDBBEFEgAGEyEHFCMxMiIzQRVRYbFCc4H/xAAXAQEBAQEAAAAAAAAAAAAAAAADAQUH/8QAIxEAAQIFBAMBAAAAAAAAAAAAAQIDAAQRITEFEhNRQXGx8f/aAAwDAQACEQMRAD8AI0lgjw8prpOnL+slvOvrB68iOn0xE1tt4l279xwbpuYKzUmabtk51G6k2nsIEwMfIfjEqjFuvmNZ2qnc4bRpGkQtuLA/rBTLxF36KJ6g25RU03I6gKRE/IR9sc+HHMspm5pZ3Kz7PQp+Rvpb4zsQLCKSlWrLFmo9qTnSapxJtMg9xj4Ce8YXswMmfERg1SdKQJruSqECOjuGp0wEt02AXft3DDrmZZ01Zqixbc2qWOlqAnfuHyMxgIkxbt8xou0k7XDmdU0iN1pYD94ig1LNGclHCVIxfyM1FPuYnHyHY4LGOyJ5hOW4oSH36eJ8pmqNbYlqCFQ0W5/aU0Smv3EB22iBDGDmz29qpSlrjnWBH2fQBYu8vEv4DGqUJJPN/C/6S3eaJFe59K62FhN22nxw2paJL6a0h5y1VAE0rTN/GIJmcMwoob67hkzWao0RieoL1DWbk91TRKWzcADbeZEcQnTzCQomMEAH9eFvNLUmVuEylGWeaxU4tPpW3SsBu0jHl98UmnFxihk4pni/P1sPJG0yV/rH+QEtD07/AOYKR0hmfQp1oFQ3EVpnF7j7CLmeE7XDS1Y//9k="
     x="8"
     y="109"
     width="24"
@@ -80,25 +80,25 @@
   <text
     x="40"
     y="121"
-    fill="#c9d1d9"
+    fill="#24292f"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="start"
     font-size="11"
     font-weight="600"
   >
-    Euro Truck Simulato...
+    DAVE THE DIVER
   </text>
   <text
     x="217"
     y="121"
-    fill="#c9d1d9"
+    fill="#24292f"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="end"
     font-size="11"
   >
-    6h/479.5h
+    6.9h/6.9h
   </text><defs>
     <clipPath id="ico137">
       <rect x="8" y="141" width="24" height="24" rx="4" />
@@ -111,7 +111,7 @@
     y="137"
     width="225"
     height="32"
-    fill="rgb(217, 178, 41)"
+    fill="rgb(30, 29, 32)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -120,11 +120,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(217, 178, 41)"
+    fill="rgb(30, 29, 32)"
     filter="url(#shadow137)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYDBAcC/8QALRAAAAUCBAUDBAMAAAAAAAAAAQIDBBEFEgAGEyEHFCMxMiIzQRVRYbFCc4H/xAAXAQEBAQEAAAAAAAAAAAAAAAADAQUH/8QAIxEAAQIFBAMBAAAAAAAAAAAAAQIDAAQRITEFEhNRQXGx8f/aAAwDAQACEQMRAD8AI0lgjw8prpOnL+slvOvrB68iOn0xE1tt4l279xwbpuYKzUmabtk51G6k2nsIEwMfIfjEqjFuvmNZ2qnc4bRpGkQtuLA/rBTLxF36KJ6g25RU03I6gKRE/IR9sc+HHMspm5pZ3Kz7PQp+Rvpb4zsQLCKSlWrLFmo9qTnSapxJtMg9xj4Ce8YXswMmfERg1SdKQJruSqECOjuGp0wEt02AXft3DDrmZZ01Zqixbc2qWOlqAnfuHyMxgIkxbt8xou0k7XDmdU0iN1pYD94ig1LNGclHCVIxfyM1FPuYnHyHY4LGOyJ5hOW4oSH36eJ8pmqNbYlqCFQ0W5/aU0Smv3EB22iBDGDmz29qpSlrjnWBH2fQBYu8vEv4DGqUJJPN/C/6S3eaJFe59K62FhN22nxw2paJL6a0h5y1VAE0rTN/GIJmcMwoob67hkzWao0RieoL1DWbk91TRKWzcADbeZEcQnTzCQomMEAH9eFvNLUmVuEylGWeaxU4tPpW3SsBu0jHl98UmnFxihk4pni/P1sPJG0yV/rH+QEtD07/AOYKR0hmfQp1oFQ3EVpnF7j7CLmeE7XDS1Y//9k="
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gOTAK/9sAQwADAgIDAgIDAwMDBAMDBAUIBQUEBAUKBwcGCAwKDAwLCgsLDQ4SEA0OEQ4LCxAWEBETFBUVFQwPFxgWFBgSFBUU/9sAQwEDBAQFBAUJBQUJFA0LDRQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQU/8AAEQgAIAAgAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A/LO6urnUL6SSWSW4uJpCSxJZnYn9TX6Q/Fv9kP4dfsxfAK+ngnm1f4nLb6TBqGrHzLpNDmnurVpZJBEG+zIyNIkZ2GUjGN27mH/gn9+xN4Y8U6FN4w8dXslrdXtibvTtNkP2aae1wrPJHn5xGQyqZVwSJMKQp3SXv2mr7Vde0j4geORpyvp3i3UvCkn+iWl9aC0isVdJJJ/NSOGYu00KxvG83yBc7MjHBTxUatWVNLSNte+rT/L/ACOyVCUIKfc8U+G2h6prOjR2usX+sWchGY4dQt7q6WXLBQvywSgcHOXAHHXkCvO/il/wjGqeGX1PQL3SbLW9EkidRpy2lu8qF1Rtpg2CU5dGztLAK2cDdXut7ZfEHxx8MvENr4R0KLWrjVN1iNTGtafCIkI/egjzFbf5ThdjEY80N2wfm3U/2efGfwyaK+8V6Npum2+JWjjuNUs5pLgBDuEcaysZCuVOADjINe1JS5fhPNTV9z6a8U/tK3niHRPB8PgXQ0TxpomgNZveSXgtkszfW8DP5asyNM6eXEq5VozvYnJCsNb4W/CTxF+0JoK6FptvpdnfSSl9SUaTypgkhZ1jlJnQuZRt81PJ/wBVKn3Sd3w/pvjzU/DWv3E9/pVtf3SiC3lhu43iASGPylT90yFTgId4IbcgbOcmvp/4Jft3t8IDp02kWEtjstTEbCK6Y28B+0zSFW8xGebIk3BjJkF2yWzx48MOqbVl/W/57HputeFl9x6X+0V8LfEfw78UaeL6a+trr+zLWOR4tb0zT1eWOJYmbbM6vzsBJz39q89tvA/jTxJ8L/iRqVha6tq9hZ6cplebWrHUkjRS0rsvlSttOIwDjkjIGTxWH8X/ANu+5+LXjWLUfE3h2LWtHGVktbeSGOcKFcKIpZ7edEG5lJzGwIUgYJ3Dg5v2qNdhtPEPhnwRplzoPh/X4vsR02OeJ2ZGQod7Q28AkYlmIOxcA4x1J9d1rw8zzFT97yP/2Q=="
     x="8"
     y="141"
     width="24"
@@ -134,25 +134,25 @@
   <text
     x="40"
     y="153"
-    fill="#24292f"
+    fill="#c9d1d9"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="start"
     font-size="11"
     font-weight="600"
   >
-    DAVE THE DIVER
+    Euro Truck Simulato...
   </text>
   <text
     x="217"
     y="153"
-    fill="#24292f"
+    fill="#c9d1d9"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="end"
     font-size="11"
   >
-    3.5h/3.5h
+    6h/479.5h
   </text><defs>
     <clipPath id="ico169">
       <rect x="8" y="173" width="24" height="24" rx="4" />
@@ -273,7 +273,7 @@
     y="233"
     width="225"
     height="32"
-    fill="rgb(80, 64, 51)"
+    fill="rgb(42, 39, 36)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -282,11 +282,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(80, 64, 51)"
+    fill="rgb(42, 39, 36)"
     filter="url(#shadow233)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAACAYHAgMEBf/EADIQAAEDAgUCAggHAQAAAAAAAAECAwQFEQAGByExCBIUQRMVIjJRYXGBJEJSYoKRsdH/xAAaAQEAAwADAAAAAAAAAAAAAAAFAwQGAQIH/8QALBEAAQMDAgUCBgMAAAAAAAAAAQACAwQRQQVREhMhIjFx4QYVYaGx8IHR8f/aAAwDAQACEQMRAD8ANmmWlL+ob8gJlEoa/ESXykqCE33JPFyeB54O1HUI9NgMjursDf23Kmo6R9bMGDoMlehqhT6ZQA1lqltWfIu8QfaQj9x/Ur/PrgfRhPXPNbUHpj2+gS+qOhpGCkgHXP7us8s0qDS6VDbfQltt5S1knkITyf6BxLqrHvnAZsltBfFFRvkk3P2VbiI7Iq9QqbBKAtxSy4Nu0k3A+3yxoY2iJjWDAWOkcZXukOTdILJNbqmX8nJyjkelSKxXV2dkuttgMsrUNluOKITcD3Uk7cnHnNRFHXVRrNQfwxeAMkDAG25WuhLqSHkUjeKTJwPr67LTG6fs1ZaaNUzFNpTC5roEhtEhUiSsk3tdKewH+R+h4w/8/p2sIgjdYDpcWH9okaPM945zh189blTSqdPNPeosKrS1VmIhqO40ln0qUMrRY3UU3uTdQ8vttjLj4iqeMPJaSTt+D++qa+V05HLbcADdVRmLRWt0ih+IiSocyE4grQ53ONOG/FypHYSODZfljZxavHIRxMIv/I/N/ss7Lp8kZIBBsm70yZAypPyXFq9PjpfcfSFPBZupLoACkqHxH/MFOYxmLpcue3tK5uorwlTqdHyxTChubHUZchUZSSqOkghJKfjsoi+2AtSnZFH3Z8JChjLiXA+EY6LX5+asv1IUfMtXkU/L0x+E+xUVJc8U6pRv2mwO3s2+/OK8zI4ZI2zRgF4BFvDR7qWA8dzG8m1wb5/xLWHk6LT9CKDEdQmQr1clxbq0WKlKHcefrhmElzxw4RUx8ko26LagTNLcypWzXUNxW0gTWHDdqY3a6SkeSyOD5G434wvJFwuIKmfKyWFrsqq3uoSRVta61nNLcaP63bMV+Mt1QbS2n3CSb2UADvb8x2wbXUAqqcRvB7TcK9Fy4TxtdixUDy3qJUKTpnIy5SYzwrc+e/KkTG0+6FqsCmxve3F7WvfEsuniasE8h7AAAPRUYXGKDlg2JJN0rtGepOHK0mRlCrsOxKjSIa/ROPOXL6Bc9u/mL7fIY7CF3PtbyuKpjWxcxpuv/9k="
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQcIBAYJ/8QALRAAAQMDAwMCBQUBAAAAAAAAAQIDBAUGEQAHEhMhYQgxFCIyQVEWFyNTcZH/xAAaAQACAwEBAAAAAAAAAAAAAAAFBgACBAcD/8QAKxEAAQMDAwMCBgMAAAAAAAAAAQIDEQAEIQUxQRITYSJRBkJxgZGxFDKh/9oADAMBAAIRAxEAPwBYzK5Z+x1PiQqzSJjinqaupImJbRiatCkhaOZPzOkEqOfsPI1xxVjf6w4p9Lg/tEScTOY9uK7Sm/0/Rmk25b+WZgZIjH15rG2x3lt+51TGKjSzUXF1xyJEfpEXi2iDhvg+6FqBGC4AQMqznA7a0XmhPtwWlx6QT1H5syBA8Y4rLZfEFu51B1E+sgdI+XEEyfOf1Qva26LiuYlyXAgVyPIqEaktlMT4Qx57shXNgYJ6iURkl4rwPsMnvq2paWy1AbUUkAq3mUgYPglXpifNV0vVnnJLiUrBITtEKKsjmQE+qY8Uercq2b7uO4rRRR5ERyB11QKtwHTlFhQbeWyrGUqbdPHzj3+2h1va3unJavUuTMSOROQD7giilzd2OpKdsVtREweDGCR7EHFU5f8AsHau7WxZp9decgvQ0InRZ8eKZL8dacZKWk/MsKTlJSPfI/A1mtNQfsL8Kag9WCCYn78fWku6m9toWMDM+1aRek20dqN4b7k0yzqXKmNwmpMCkv09yQ9PrbVPcmsvpGQmKOn1EnCSpxaV4IKdHLa3ubuzaQ46dyCZiEFQSR7qz9gKFuXAbeWtKRO+3IEz4pDt7pxYNpQ3f29t2q1SJIdq8a5rfqMikxXo8VpslTAcVl99tyY6zxPIK4qThQ0cXp7i3TDygkjpKVAKMqPPsCEgzxvNZkXpQkHoEjMgkbfs5IqkaB6aY+3lrqqM2vOV+popKYMFLsIRPgopJdWkoClcnluK5OLJyVD2AGkp7V/5Vx2EI6R1SczJ23xgDAHApktuu2b7rhnEDiBv+Sck81TG1UduZa8LoiHHkuJEZl+c6ENuPFPZCMHKz4T576cE/DabpXdd9P8AppZOoqaHQgzUV+rupb0bQbvUybVLgo7UiXGWml1WgUdhh9ptJwpnquJW8MBf9hB5Hzpot9KtbdvtJTI8k/rahbly44rqJzSst3dHde/r8s6jpep171hqcBSIdy0uNKaYdPdSkqKApsAJ5EpI+nPuBr2Vp9uQUpBTO8EiqB5cyc10Vv8AiVun2Hi52KR+o2ofOexQXy4hCSMBYQ4A4E/9/wBOlVfw0lp3vMmfHP5oonUSpHbXUvzL32A9QtrbcTr0u2fbVTsaUJjdNjS0xl9X+MradQpJP1NI+ZOFDvg99PlBKU3rG9T0P1B7kQZNGbcbt+jNLajOuJKVPrURyWAe4ThIAz51KlLLazd5/ardG2byjx/jlUiT1HIx93W1JKFgeeKjjzjUqVQt278bBjeO496KbVrmlXzcNMFOVbym1FnmW0N4SnhnJDaBxKuIOT+MSpX/2Q=="
     x="8"
     y="237"
     width="24"
@@ -303,65 +303,11 @@
     font-size="11"
     font-weight="600"
   >
-    Age of Empires: Defi...
-  </text>
-  <text
-    x="217"
-    y="249"
-    fill="#c9d1d9"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="end"
-    font-size="11"
-  >
-    1.4h/1.4h
-  </text><defs>
-    <clipPath id="ico265">
-      <rect x="8" y="269" width="24" height="24" rx="4" />
-    </clipPath>
-    <filter id='shadow265' color-interpolation-filters="sRGB">
-      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
-    </filter>
-  </defs>
-  <rect
-    y="265"
-    width="225"
-    height="32"
-    fill="rgb(42, 39, 36)"
-    clip-path="url(#fullCliping)"
-  />
-  <rect
-    x="8"
-    y="269"
-    width="24"
-    height="24"
-    rx="4"
-    fill="rgb(42, 39, 36)"
-    filter="url(#shadow265)"
-  />
-  <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQcIBAYJ/8QALRAAAQMDAwMCBQUBAAAAAAAAAQIDBAUGEQAHEhMhYQgxFCIyQVEWFyNTcZH/xAAaAQACAwEBAAAAAAAAAAAAAAAFBgACBAcD/8QAKxEAAQMDAwMCBgMAAAAAAAAAAQIDEQAEIQUxQRITYSJRBkJxgZGxFDKh/9oADAMBAAIRAxEAPwBYzK5Z+x1PiQqzSJjinqaupImJbRiatCkhaOZPzOkEqOfsPI1xxVjf6w4p9Lg/tEScTOY9uK7Sm/0/Rmk25b+WZgZIjH15rG2x3lt+51TGKjSzUXF1xyJEfpEXi2iDhvg+6FqBGC4AQMqznA7a0XmhPtwWlx6QT1H5syBA8Y4rLZfEFu51B1E+sgdI+XEEyfOf1Qva26LiuYlyXAgVyPIqEaktlMT4Qx57shXNgYJ6iURkl4rwPsMnvq2paWy1AbUUkAq3mUgYPglXpifNV0vVnnJLiUrBITtEKKsjmQE+qY8Uercq2b7uO4rRRR5ERyB11QKtwHTlFhQbeWyrGUqbdPHzj3+2h1va3unJavUuTMSOROQD7giilzd2OpKdsVtREweDGCR7EHFU5f8AsHau7WxZp9decgvQ0InRZ8eKZL8dacZKWk/MsKTlJSPfI/A1mtNQfsL8Kag9WCCYn78fWku6m9toWMDM+1aRek20dqN4b7k0yzqXKmNwmpMCkv09yQ9PrbVPcmsvpGQmKOn1EnCSpxaV4IKdHLa3ubuzaQ46dyCZiEFQSR7qz9gKFuXAbeWtKRO+3IEz4pDt7pxYNpQ3f29t2q1SJIdq8a5rfqMikxXo8VpslTAcVl99tyY6zxPIK4qThQ0cXp7i3TDygkjpKVAKMqPPsCEgzxvNZkXpQkHoEjMgkbfs5IqkaB6aY+3lrqqM2vOV+popKYMFLsIRPgopJdWkoClcnluK5OLJyVD2AGkp7V/5Vx2EI6R1SczJ23xgDAHApktuu2b7rhnEDiBv+Sck81TG1UduZa8LoiHHkuJEZl+c6ENuPFPZCMHKz4T576cE/DabpXdd9P8AppZOoqaHQgzUV+rupb0bQbvUybVLgo7UiXGWml1WgUdhh9ptJwpnquJW8MBf9hB5Hzpot9KtbdvtJTI8k/rahbly44rqJzSst3dHde/r8s6jpep171hqcBSIdy0uNKaYdPdSkqKApsAJ5EpI+nPuBr2Vp9uQUpBTO8EiqB5cyc10Vv8AiVun2Hi52KR+o2ofOexQXy4hCSMBYQ4A4E/9/wBOlVfw0lp3vMmfHP5oonUSpHbXUvzL32A9QtrbcTr0u2fbVTsaUJjdNjS0xl9X+MradQpJP1NI+ZOFDvg99PlBKU3rG9T0P1B7kQZNGbcbt+jNLajOuJKVPrURyWAe4ThIAz51KlLLazd5/ardG2byjx/jlUiT1HIx93W1JKFgeeKjjzjUqVQt278bBjeO496KbVrmlXzcNMFOVbym1FnmW0N4SnhnJDaBxKuIOT+MSpX/2Q=="
-    x="8"
-    y="269"
-    width="24"
-    height="24"
-    clip-path="url(#ico265)"
-  />
-  <text
-    x="40"
-    y="281"
-    fill="#c9d1d9"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="start"
-    font-size="11"
-    font-weight="600"
-  >
     World of Goo
   </text>
   <text
     x="217"
-    y="281"
+    y="249"
     fill="#c9d1d9"
     font-family="Arial"
     dominant-baseline="middle"
