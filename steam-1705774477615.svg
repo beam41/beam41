@@ -152,7 +152,7 @@
     text-anchor="end"
     font-size="11"
   >
-    7.1h/181.1h
+    8.9h/182.9h
   </text><defs>
     <clipPath id="ico169">
       <rect x="8" y="173" width="24" height="24" rx="4" />
@@ -206,7 +206,7 @@
     text-anchor="end"
     font-size="11"
   >
-    4.2h/6.4h
+    2.2h/6.4h
   </text><defs>
     <clipPath id="ico201">
       <rect x="8" y="205" width="24" height="24" rx="4" />
@@ -219,7 +219,7 @@
     y="201"
     width="225"
     height="32"
-    fill="rgb(226, 244, 246)"
+    fill="rgb(14, 128, 121)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -228,11 +228,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(226, 244, 246)"
+    fill="rgb(14, 128, 121)"
     filter="url(#shadow201)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYCBQcD/8QAMBAAAQMCBAQDBwUAAAAAAAAAAQIDBAURAAYSMQchQZETMlEIFSIjYXGxJFKBocH/xAAYAQACAwAAAAAAAAAAAAAAAAACBgEEB//EACURAAIBAwMDBQEAAAAAAAAAAAEEAwACEUHB8AUhgRIxUXGRsf/aAAwDAQACEQMRAD8AXIFNkz5SI0Jhx99ZslDaSScapROECo9Il1DMb2lxthbiIrR2ISSNSv8AB3xaez+hpD9bCtHjFLOm/m03Xe308t/4wv8AEnNVXqVYqFMU+WYEd5bIaa+ELCVEXUeu222NCZdaZbuUXIsFuCTr3+OeaXLJYooBPJ3z7Ci6jwiM2gQKjl5/9Q7GbccjPHkpRSCdKun2PfGXVGlS6bLXGnx3I8hG6HE2OHzIea63Rp0aDDdEiM84lsR3ydAJNuR3Tv07HF7xlqAqbNKbkQnoVQYLgcadTfkdPNKxyUm4PMdhg1mnF2QvMRfbdnB1H3/N6i+eGSEy2diNNK68JqbT57lTjzVeHL+WuM4heh1BGvUUK36i4xDO3D+pxJEmosOmoMuKU64oJAcSSbkkDf7jsMKaAptYWglKkm4INiDh1pGfZzUB+FVEmW0tpSEu3s4m4tz/AHfnFKeNqOcsQHIOMg7c/aW1OppywBdkG0jOLhuOeKFyHkOozJsOpSbRYjTiHk6xdTliCLDoD6n+8XHG95l33ZHS4hT7ZcUpANykHTa/ptgCoZ7mmlxoFLSYqGmUtqdvdaiAAben5wluBTi1OOKKlqNypRuSfrgYYGJmQywQPTnAG9Gx1ZWBYqrZuN2M3Hbn7X//2Q=="
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABggAAwUE/8QALhAAAQMDAwICCgMAAAAAAAAAAQIDBAUGEQASIQcxIlEIExUjMkFhcYHhFDPw/8QAHAEAAQQDAQAAAAAAAAAAAAAABwIDBAYABQgB/8QAMBEAAQMDAwIEBAYDAAAAAAAAAQIDEQAEBRIhMUFRBhNhcRQigeEjJDKRsdFCwfD/2gAMAwEAAhEDEQA/AFygVamQq3HpdRaWwuU2FtS3f63Fk/Dnz/3lqyJW2hYbUIng0AX7O+vLVzIML1lJOpP+QHf/AL+6O4tmNzVlLLHrCO+BwPzpF9e2eNQHLtwJB/c+wG5+lQMFic74mfNviGFOqHMQAO0qJCRPSSJqSrLRCUEvsBsntnsfzryxvrLJIK7RwKA57j3BgilZ7D57ww8ljLsKaUriYIMcwpJKTHWDttQJW6rTPb/saC2uRJaQpb0hn4GCBwCfP5fQkD7OOLbUvygJ71NsrO+ZtBk3V6BI0g8q9R/PqJPETvi2IN124IU5vcgjKHE8LbV5pOpBZS83pVWhaylziL34i2O/UdCOxpuukXo8Umj9Ok3HcLk+q06HR0Tk0ta3GVPq8YHrHwkAghvOEHI3AnGRuDfiIeZdrccOoNiB9Nz/ADXWngTKFvHs2eMb8hy6c1LVAMFUDYbSBEgHYT61b1B6AUev2Im47fcnUenyqNIqDlKSXXyypvaPdSCkhJ95wFncdpKQQFbW/DxLV2280dIWNJ37/wBGn/HmQD2PuMblkeeq3WFpUABOmdiN4kbGOQT2pPEWlAtCguxoSVKUvxOvuHLjh+p+nl+9GdLCWEaU1yS/mLnM3iXrgwBsAOAPT/Z+1bNskfwEDPONOtrSPlnetfe2dyoKuEtkoB/VBj9+Keb0d+qK+p1t1K1bkMZidKSpMV5TSFCWz3cRsVkKKSVHHbCjgDboa57FoYOtjdPXrB+9G3whnLt1tDl5sQfw99OqBvAG+0bke3Suzrx1LHSC1KdbduCHKq0YJU97pKBEjlWU+Bvbt3KCeB8k5IORprB4tFydT8hHA6SftUrxVnrxpDj1lClyCsTqKRBgkEyZPU8e1IhdjxeivLWoFxeVH5ZJ57aJy1IHyA70CbG1uVfmi2dE/qgxue/HNYFIqcZMdIW4WXUDaRxkfvWvWy2/Cpg1ebTMXuF8y2LWpMnYyIPX6elE1Kvo0SfFmwZi4suK4HWXm1YUhQOQRqWG2vLLREg8z1qpXj9/eXYvFHSpMaY2CQOAParK51BcuSqzKlU5qpk6YsuPvuHlaic/YDtgDgYAHbWBtlLQZSISOKSw9kLe8+PSolwnees8gjse3TpG1CtZqcZxpWxwvOqBSkcZ51ESwhklZVNXK4zV7lkIs0shCZExJmOB6D0r/9k="
     x="8"
     y="205"
     width="24"
@@ -242,25 +242,25 @@
   <text
     x="40"
     y="217"
-    fill="#24292f"
+    fill="#c9d1d9"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="start"
     font-size="11"
     font-weight="600"
   >
-    Cities: Skylines II
+    WHAT THE GOLF?
   </text>
   <text
     x="217"
     y="217"
-    fill="#24292f"
+    fill="#c9d1d9"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="end"
     font-size="11"
   >
-    0.7h/153.7h
+    0.8h/7.7h
   </text><defs>
     <clipPath id="ico233">
       <rect x="8" y="237" width="24" height="24" rx="4" />
