@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 201" height="201"
+    viewBox="0 0 225 233" height="233"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="201" rx="4" />
+        <rect x="0" y="0" width="225" height="233" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -98,7 +98,7 @@
     text-anchor="end"
     font-size="11"
   >
-    12.6h/204.6h
+    9.2h/204.6h
   </text><defs>
     <clipPath id="ico137">
       <rect x="8" y="141" width="24" height="24" rx="4" />
@@ -165,7 +165,7 @@
     y="169"
     width="225"
     height="32"
-    fill="rgb(226, 244, 246)"
+    fill="rgb(176, 178, 177)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -174,11 +174,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(226, 244, 246)"
+    fill="rgb(176, 178, 177)"
     filter="url(#shadow169)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYCBQcD/8QAMBAAAQMCBAQDBwUAAAAAAAAAAQIDBAURAAYSMQchQZETMlEIFSIjYXGxJFKBocH/xAAYAQACAwAAAAAAAAAAAAAAAAACBgEEB//EACURAAIBAwMDBQEAAAAAAAAAAAEEAwACEUHB8AUhgRIxUXGRsf/aAAwDAQACEQMRAD8AXIFNkz5SI0Jhx99ZslDaSScapROECo9Il1DMb2lxthbiIrR2ISSNSv8AB3xaez+hpD9bCtHjFLOm/m03Xe308t/4wv8AEnNVXqVYqFMU+WYEd5bIaa+ELCVEXUeu222NCZdaZbuUXIsFuCTr3+OeaXLJYooBPJ3z7Ci6jwiM2gQKjl5/9Q7GbccjPHkpRSCdKun2PfGXVGlS6bLXGnx3I8hG6HE2OHzIea63Rp0aDDdEiM84lsR3ydAJNuR3Tv07HF7xlqAqbNKbkQnoVQYLgcadTfkdPNKxyUm4PMdhg1mnF2QvMRfbdnB1H3/N6i+eGSEy2diNNK68JqbT57lTjzVeHL+WuM4heh1BGvUUK36i4xDO3D+pxJEmosOmoMuKU64oJAcSSbkkDf7jsMKaAptYWglKkm4INiDh1pGfZzUB+FVEmW0tpSEu3s4m4tz/AHfnFKeNqOcsQHIOMg7c/aW1OppywBdkG0jOLhuOeKFyHkOozJsOpSbRYjTiHk6xdTliCLDoD6n+8XHG95l33ZHS4hT7ZcUpANykHTa/ptgCoZ7mmlxoFLSYqGmUtqdvdaiAAben5wluBTi1OOKKlqNypRuSfrgYYGJmQywQPTnAG9Gx1ZWBYqrZuN2M3Hbn7X//2Q=="
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAAL/xAArEAABBAEDAwMCBwAAAAAAAAABAgMEBREAEyEGEjEHFCJBcTJRYXKRobH/xAAZAQACAwEAAAAAAAAAAAAAAAAABQECAwT/xAAbEQACAwEBAQAAAAAAAAAAAAABAgAEEgMxIf/aAAwDAQACEQMRAD8AalNEfTXCQdrd7SGwnuJOiyGvcKICRnzxpijdJJjVYMycyFFOcBPdgffI1t2tOoGBOflWVidGTdi1juJjpDqFOugkoBGRgEngHjRItk+BpU6jgQqXruvTElszA8sbqe3bU1kjB8kH7caeNlQOE5zqa9lmB3CxWCEYhivgSyhJ2kJQPkCQP90p9SXfU1fdTfc2NemqaaW57dhndfLfhOOD8ySAMqxkjjHGqGZiXQD3cfodAhUtwbGdYVLDCn5cdDDjLxw3lJUe/wAHk9wB/aNK2679jNOeJEXr2zubJmZcORvYJWh9CdpKX0JyFY+hzjHGcaq1Zax7WPv1gMpsjKtoglB/JSfxD+NJl76W2VtaOTlzoEVKkgBpsLUE8+cYAzrVXpnYV01qUxfIjyGz8VstEkf2NWXoFHwwZNeif//Z"
     x="8"
     y="173"
     width="24"
@@ -195,11 +195,65 @@
     font-size="11"
     font-weight="600"
   >
-    Cities: Skylines II
+    Millennia Demo
   </text>
   <text
     x="217"
     y="185"
+    fill="#24292f"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="end"
+    font-size="11"
+  >
+    0.5h/0.5h
+  </text><defs>
+    <clipPath id="ico201">
+      <rect x="8" y="205" width="24" height="24" rx="4" />
+    </clipPath>
+    <filter id='shadow201' color-interpolation-filters="sRGB">
+      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
+    </filter>
+  </defs>
+  <rect
+    y="201"
+    width="225"
+    height="32"
+    fill="rgb(226, 244, 246)"
+    clip-path="url(#fullCliping)"
+  />
+  <rect
+    x="8"
+    y="205"
+    width="24"
+    height="24"
+    rx="4"
+    fill="rgb(226, 244, 246)"
+    filter="url(#shadow201)"
+  />
+  <image
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYCBQcD/8QAMBAAAQMCBAQDBwUAAAAAAAAAAQIDBAURAAYSMQchQZETMlEIFSIjYXGxJFKBocH/xAAYAQACAwAAAAAAAAAAAAAAAAACBgEEB//EACURAAIBAwMDBQEAAAAAAAAAAAEEAwACEUHB8AUhgRIxUXGRsf/aAAwDAQACEQMRAD8AXIFNkz5SI0Jhx99ZslDaSScapROECo9Il1DMb2lxthbiIrR2ISSNSv8AB3xaez+hpD9bCtHjFLOm/m03Xe308t/4wv8AEnNVXqVYqFMU+WYEd5bIaa+ELCVEXUeu222NCZdaZbuUXIsFuCTr3+OeaXLJYooBPJ3z7Ci6jwiM2gQKjl5/9Q7GbccjPHkpRSCdKun2PfGXVGlS6bLXGnx3I8hG6HE2OHzIea63Rp0aDDdEiM84lsR3ydAJNuR3Tv07HF7xlqAqbNKbkQnoVQYLgcadTfkdPNKxyUm4PMdhg1mnF2QvMRfbdnB1H3/N6i+eGSEy2diNNK68JqbT57lTjzVeHL+WuM4heh1BGvUUK36i4xDO3D+pxJEmosOmoMuKU64oJAcSSbkkDf7jsMKaAptYWglKkm4INiDh1pGfZzUB+FVEmW0tpSEu3s4m4tz/AHfnFKeNqOcsQHIOMg7c/aW1OppywBdkG0jOLhuOeKFyHkOozJsOpSbRYjTiHk6xdTliCLDoD6n+8XHG95l33ZHS4hT7ZcUpANykHTa/ptgCoZ7mmlxoFLSYqGmUtqdvdaiAAben5wluBTi1OOKKlqNypRuSfrgYYGJmQywQPTnAG9Gx1ZWBYqrZuN2M3Hbn7X//2Q=="
+    x="8"
+    y="205"
+    width="24"
+    height="24"
+    clip-path="url(#ico201)"
+  />
+  <text
+    x="40"
+    y="217"
+    fill="#24292f"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="start"
+    font-size="11"
+    font-weight="600"
+  >
+    Cities: Skylines II
+  </text>
+  <text
+    x="217"
+    y="217"
     fill="#24292f"
     font-family="Arial"
     dominant-baseline="middle"
