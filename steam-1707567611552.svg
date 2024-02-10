@@ -44,7 +44,7 @@
       font-size="10"
       font-weight="600"
     >
-      33.1h (2 weeks)/348.9h (total)
+      31.9h (2 weeks)/348.9h (total)
     </text><defs>
     <clipPath id="ico105">
       <rect x="8" y="109" width="24" height="24" rx="4" />
@@ -98,7 +98,7 @@
     text-anchor="end"
     font-size="11"
   >
-    6.2h/485.7h
+    6.9h/486.4h
   </text><defs>
     <clipPath id="ico137">
       <rect x="8" y="141" width="24" height="24" rx="4" />
@@ -152,7 +152,7 @@
     text-anchor="end"
     font-size="11"
   >
-    4.6h/6.4h
+    2.7h/6.4h
   </text><defs>
     <clipPath id="ico169">
       <rect x="8" y="173" width="24" height="24" rx="4" />
@@ -219,7 +219,7 @@
     y="201"
     width="225"
     height="32"
-    fill="rgb(176, 178, 177)"
+    fill="rgb(48, 41, 48)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -228,11 +228,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(176, 178, 177)"
+    fill="rgb(48, 41, 48)"
     filter="url(#shadow201)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAAL/xAArEAABBAEDAwMCBwAAAAAAAAABAgMEBREAEyEGEjEHFCJBcTJRYXKRobH/xAAZAQACAwEAAAAAAAAAAAAAAAAABQECAwT/xAAbEQACAwEBAQAAAAAAAAAAAAABAgAEEgMxIf/aAAwDAQACEQMRAD8AalNEfTXCQdrd7SGwnuJOiyGvcKICRnzxpijdJJjVYMycyFFOcBPdgffI1t2tOoGBOflWVidGTdi1juJjpDqFOugkoBGRgEngHjRItk+BpU6jgQqXruvTElszA8sbqe3bU1kjB8kH7caeNlQOE5zqa9lmB3CxWCEYhivgSyhJ2kJQPkCQP90p9SXfU1fdTfc2NemqaaW57dhndfLfhOOD8ySAMqxkjjHGqGZiXQD3cfodAhUtwbGdYVLDCn5cdDDjLxw3lJUe/wAHk9wB/aNK2679jNOeJEXr2zubJmZcORvYJWh9CdpKX0JyFY+hzjHGcaq1Zax7WPv1gMpsjKtoglB/JSfxD+NJl76W2VtaOTlzoEVKkgBpsLUE8+cYAzrVXpnYV01qUxfIjyGz8VstEkf2NWXoFHwwZNeif//Z"
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwgABQcG/8QAKRAAAgEEAQQBAwUBAAAAAAAAAQIDBAUGEQAHEhQhIggTQQkVM2Fxgf/EABoBAQACAwEAAAAAAAAAAAAAAAABAgQFBwP/xAApEQACAgEDAgMJAAAAAAAAAAABEQACAwUSIQQxBhMiMjNBUWFxodHh/9oADAMBAAIRAxEAPwBFIIDVs8sztJK5LM7HZJ57gSIbwE4UOTwE4UOBngNIySwu0cqEMrqdEHgiI/H0JYrc5vpqzHJMXxyjyXMKK9tHRW6tRGiqx9ul3G3cy6ADuwIZfz7O9coe8mNJbOlthxfJ7hVY/ZcZoHqms0+RYvDRrIaaseoHuGUN2x7GwydmmAVvXds1cTnuoOaYxguB5vkmKYxiGU3XD78baIBZZKT9nWaaNZo5O9yZz8z8oiiE6IX4nkjmIsn6nPUdVymj6d2/HbVbLPTpTXpauGkMVY0rJMhRiDrs029du9ge/wAcmo4cRUMIvdTa7K8dPcpqLulZikU7Jv8AjG9Aj8b/AN/5zDzHJv8AS0v3OoeHcGmZNNNur2b99va7oeUj9g7MfFngoqwiudVQTPNTXCaGOQrNMYKkoZGEpLEgMCTrlRe5G0t/zj8zYZtO06uavU1rQ4gBYq1eduY71Vg+7SC5CAmg9PacV/TrNpJZaa4TVVVT0xSSsSGfv2peoZ5JlJQfL0iMWLfIqB7zcZJqCZzXVaYcXWXxYCDWqqx2JqALEfQ2BI+blR9XVLR0/UVPD8UA0zBhSVCyoB5E32faswG6cwN/fds+yeXHaamYpBOaRnimRo5UJVkYaIPJBkQ3npw4Unnpw4UDPOatkihRpJXIVUUbJPBMT//Z"
     x="8"
     y="205"
     width="24"
@@ -242,25 +242,25 @@
   <text
     x="40"
     y="217"
-    fill="#24292f"
+    fill="#c9d1d9"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="start"
     font-size="11"
     font-weight="600"
   >
-    Millennia Demo
+    DiRT Rally 2.0
   </text>
   <text
     x="217"
     y="217"
-    fill="#24292f"
+    fill="#c9d1d9"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="end"
     font-size="11"
   >
-    0.5h/0.5h
+    0.6h/0.6h
   </text><defs>
     <clipPath id="ico233">
       <rect x="8" y="237" width="24" height="24" rx="4" />
@@ -273,7 +273,7 @@
     y="233"
     width="225"
     height="32"
-    fill="rgb(226, 244, 246)"
+    fill="rgb(176, 178, 177)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -282,11 +282,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(226, 244, 246)"
+    fill="rgb(176, 178, 177)"
     filter="url(#shadow233)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYCBQcD/8QAMBAAAQMCBAQDBwUAAAAAAAAAAQIDBAURAAYSMQchQZETMlEIFSIjYXGxJFKBocH/xAAYAQACAwAAAAAAAAAAAAAAAAACBgEEB//EACURAAIBAwMDBQEAAAAAAAAAAAEEAwACEUHB8AUhgRIxUXGRsf/aAAwDAQACEQMRAD8AXIFNkz5SI0Jhx99ZslDaSScapROECo9Il1DMb2lxthbiIrR2ISSNSv8AB3xaez+hpD9bCtHjFLOm/m03Xe308t/4wv8AEnNVXqVYqFMU+WYEd5bIaa+ELCVEXUeu222NCZdaZbuUXIsFuCTr3+OeaXLJYooBPJ3z7Ci6jwiM2gQKjl5/9Q7GbccjPHkpRSCdKun2PfGXVGlS6bLXGnx3I8hG6HE2OHzIea63Rp0aDDdEiM84lsR3ydAJNuR3Tv07HF7xlqAqbNKbkQnoVQYLgcadTfkdPNKxyUm4PMdhg1mnF2QvMRfbdnB1H3/N6i+eGSEy2diNNK68JqbT57lTjzVeHL+WuM4heh1BGvUUK36i4xDO3D+pxJEmosOmoMuKU64oJAcSSbkkDf7jsMKaAptYWglKkm4INiDh1pGfZzUB+FVEmW0tpSEu3s4m4tz/AHfnFKeNqOcsQHIOMg7c/aW1OppywBdkG0jOLhuOeKFyHkOozJsOpSbRYjTiHk6xdTliCLDoD6n+8XHG95l33ZHS4hT7ZcUpANykHTa/ptgCoZ7mmlxoFLSYqGmUtqdvdaiAAben5wluBTi1OOKKlqNypRuSfrgYYGJmQywQPTnAG9Gx1ZWBYqrZuN2M3Hbn7X//2Q=="
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAAL/xAArEAABBAEDAwMCBwAAAAAAAAABAgMEBREAEyEGEjEHFCJBcTJRYXKRobH/xAAZAQACAwEAAAAAAAAAAAAAAAAABQECAwT/xAAbEQACAwEBAQAAAAAAAAAAAAABAgAEEgMxIf/aAAwDAQACEQMRAD8AalNEfTXCQdrd7SGwnuJOiyGvcKICRnzxpijdJJjVYMycyFFOcBPdgffI1t2tOoGBOflWVidGTdi1juJjpDqFOugkoBGRgEngHjRItk+BpU6jgQqXruvTElszA8sbqe3bU1kjB8kH7caeNlQOE5zqa9lmB3CxWCEYhivgSyhJ2kJQPkCQP90p9SXfU1fdTfc2NemqaaW57dhndfLfhOOD8ySAMqxkjjHGqGZiXQD3cfodAhUtwbGdYVLDCn5cdDDjLxw3lJUe/wAHk9wB/aNK2679jNOeJEXr2zubJmZcORvYJWh9CdpKX0JyFY+hzjHGcaq1Zax7WPv1gMpsjKtoglB/JSfxD+NJl76W2VtaOTlzoEVKkgBpsLUE8+cYAzrVXpnYV01qUxfIjyGz8VstEkf2NWXoFHwwZNeif//Z"
     x="8"
     y="237"
     width="24"
@@ -303,7 +303,7 @@
     font-size="11"
     font-weight="600"
   >
-    Cities: Skylines II
+    Millennia Demo
   </text>
   <text
     x="217"
@@ -314,7 +314,7 @@
     text-anchor="end"
     font-size="11"
   >
-    0.2h/153.9h
+    0.5h/0.5h
   </text><defs>
     <clipPath id="ico265">
       <rect x="8" y="269" width="24" height="24" rx="4" />
@@ -327,7 +327,7 @@
     y="265"
     width="225"
     height="32"
-    fill="rgb(48, 41, 48)"
+    fill="rgb(226, 244, 246)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -336,11 +336,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(48, 41, 48)"
+    fill="rgb(226, 244, 246)"
     filter="url(#shadow265)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwgABQcG/8QAKRAAAgEEAQQBAwUBAAAAAAAAAQIDBAUGEQAHEhQhIggTQQkVM2Fxgf/EABoBAQACAwEAAAAAAAAAAAAAAAABAgQFBwP/xAApEQACAgEDAgMJAAAAAAAAAAABEQACAwUSIQQxBhMiMjNBUWFxodHh/9oADAMBAAIRAxEAPwBFIIDVs8sztJK5LM7HZJ57gSIbwE4UOTwE4UOBngNIySwu0cqEMrqdEHgiI/H0JYrc5vpqzHJMXxyjyXMKK9tHRW6tRGiqx9ul3G3cy6ADuwIZfz7O9coe8mNJbOlthxfJ7hVY/ZcZoHqms0+RYvDRrIaaseoHuGUN2x7GwydmmAVvXds1cTnuoOaYxguB5vkmKYxiGU3XD78baIBZZKT9nWaaNZo5O9yZz8z8oiiE6IX4nkjmIsn6nPUdVymj6d2/HbVbLPTpTXpauGkMVY0rJMhRiDrs029du9ge/wAcmo4cRUMIvdTa7K8dPcpqLulZikU7Jv8AjG9Aj8b/AN/5zDzHJv8AS0v3OoeHcGmZNNNur2b99va7oeUj9g7MfFngoqwiudVQTPNTXCaGOQrNMYKkoZGEpLEgMCTrlRe5G0t/zj8zYZtO06uavU1rQ4gBYq1eduY71Vg+7SC5CAmg9PacV/TrNpJZaa4TVVVT0xSSsSGfv2peoZ5JlJQfL0iMWLfIqB7zcZJqCZzXVaYcXWXxYCDWqqx2JqALEfQ2BI+blR9XVLR0/UVPD8UA0zBhSVCyoB5E32faswG6cwN/fds+yeXHaamYpBOaRnimRo5UJVkYaIPJBkQ3npw4Unnpw4UDPOatkihRpJXIVUUbJPBMT//Z"
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYCBQcD/8QAMBAAAQMCBAQDBwUAAAAAAAAAAQIDBAURAAYSMQchQZETMlEIFSIjYXGxJFKBocH/xAAYAQACAwAAAAAAAAAAAAAAAAACBgEEB//EACURAAIBAwMDBQEAAAAAAAAAAAEEAwACEUHB8AUhgRIxUXGRsf/aAAwDAQACEQMRAD8AXIFNkz5SI0Jhx99ZslDaSScapROECo9Il1DMb2lxthbiIrR2ISSNSv8AB3xaez+hpD9bCtHjFLOm/m03Xe308t/4wv8AEnNVXqVYqFMU+WYEd5bIaa+ELCVEXUeu222NCZdaZbuUXIsFuCTr3+OeaXLJYooBPJ3z7Ci6jwiM2gQKjl5/9Q7GbccjPHkpRSCdKun2PfGXVGlS6bLXGnx3I8hG6HE2OHzIea63Rp0aDDdEiM84lsR3ydAJNuR3Tv07HF7xlqAqbNKbkQnoVQYLgcadTfkdPNKxyUm4PMdhg1mnF2QvMRfbdnB1H3/N6i+eGSEy2diNNK68JqbT57lTjzVeHL+WuM4heh1BGvUUK36i4xDO3D+pxJEmosOmoMuKU64oJAcSSbkkDf7jsMKaAptYWglKkm4INiDh1pGfZzUB+FVEmW0tpSEu3s4m4tz/AHfnFKeNqOcsQHIOMg7c/aW1OppywBdkG0jOLhuOeKFyHkOozJsOpSbRYjTiHk6xdTliCLDoD6n+8XHG95l33ZHS4hT7ZcUpANykHTa/ptgCoZ7mmlxoFLSYqGmUtqdvdaiAAben5wluBTi1OOKKlqNypRuSfrgYYGJmQywQPTnAG9Gx1ZWBYqrZuN2M3Hbn7X//2Q=="
     x="8"
     y="269"
     width="24"
@@ -350,25 +350,25 @@
   <text
     x="40"
     y="281"
-    fill="#c9d1d9"
+    fill="#24292f"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="start"
     font-size="11"
     font-weight="600"
   >
-    DiRT Rally 2.0
+    Cities: Skylines II
   </text>
   <text
     x="217"
     y="281"
-    fill="#c9d1d9"
+    fill="#24292f"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="end"
     font-size="11"
   >
-    0.2h/0.2h
+    0.2h/153.9h
   </text><defs>
     <clipPath id="ico297">
       <rect x="8" y="301" width="24" height="24" rx="4" />
