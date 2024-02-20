@@ -44,7 +44,7 @@
       font-size="10"
       font-weight="600"
     >
-      8.5h (2 weeks)/488h (total)
+      8.2h (2 weeks)/488h (total)
     </text><defs>
     <clipPath id="ico105">
       <rect x="8" y="109" width="24" height="24" rx="4" />
@@ -165,7 +165,7 @@
     y="169"
     width="225"
     height="32"
-    fill="rgb(176, 178, 177)"
+    fill="rgb(46, 43, 27)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -174,11 +174,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(176, 178, 177)"
+    fill="rgb(46, 43, 27)"
     filter="url(#shadow169)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAAL/xAArEAABBAEDAwMCBwAAAAAAAAABAgMEBREAEyEGEjEHFCJBcTJRYXKRobH/xAAZAQACAwEAAAAAAAAAAAAAAAAABQECAwT/xAAbEQACAwEBAQAAAAAAAAAAAAABAgAEEgMxIf/aAAwDAQACEQMRAD8AalNEfTXCQdrd7SGwnuJOiyGvcKICRnzxpijdJJjVYMycyFFOcBPdgffI1t2tOoGBOflWVidGTdi1juJjpDqFOugkoBGRgEngHjRItk+BpU6jgQqXruvTElszA8sbqe3bU1kjB8kH7caeNlQOE5zqa9lmB3CxWCEYhivgSyhJ2kJQPkCQP90p9SXfU1fdTfc2NemqaaW57dhndfLfhOOD8ySAMqxkjjHGqGZiXQD3cfodAhUtwbGdYVLDCn5cdDDjLxw3lJUe/wAHk9wB/aNK2679jNOeJEXr2zubJmZcORvYJWh9CdpKX0JyFY+hzjHGcaq1Zax7WPv1gMpsjKtoglB/JSfxD+NJl76W2VtaOTlzoEVKkgBpsLUE8+cYAzrVXpnYV01qUxfIjyGz8VstEkf2NWXoFHwwZNeif//Z"
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAwUBBAAGB//EACoQAAICAQMDAwIHAAAAAAAAAAECAxEEABIhBRMxQVFhFHEigYKRocHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQC/8QAIBEBAAEEAgIDAAAAAAAAAAAAAQIAAxESBCEicUFh0f/aAAwDAQACEQMRAD8A4eiY+RMdzwREAkKI/NelDyT++szJ4spO3Fhwq9haij2txd0B/d6YY/TOn5OOHbqkGNISWpgAwG6qNkenN/xqcDBwEi7idUiSQgcNQbkCxe6vWua5+ASIpcqEFMqn0/lMWpEeikUuO0a3JE0aObCkfiIHsa1dJgkVF7KkKoG7tdtj8n31sMOJiLuKdWilKhiSRwteBe6jdc1Z8VeqPUsRUiaQ9SjyJFbaIwynau5hxRN+Af1DWDmRma5c+mksWnfyOvdKciGBGT6GR2dWO6RvX2o/776r9lt9AF93k1pmIsWOGRpcuJpByqo4I1E2RiNjqA0ZkQ7bBqxzzWmnJHGKinN2wlE6Z1VsaJEaIINqoWbnwxIPjzyR9tE6xOciWEsAGSMKdooEgnnSmKVCX3OFO8kHdorzRs191T+ej07yFWWJhdD4r//Z"
     x="8"
     y="173"
     width="24"
@@ -188,25 +188,25 @@
   <text
     x="40"
     y="185"
-    fill="#24292f"
+    fill="#c9d1d9"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="start"
     font-size="11"
     font-weight="600"
   >
-    Millennia Demo
+    Metropolis 1998 Demo
   </text>
   <text
     x="217"
     y="185"
-    fill="#24292f"
+    fill="#c9d1d9"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="end"
     font-size="11"
   >
-    0.5h/0.5h
+    0.4h/0.4h
   </text><defs>
     <clipPath id="ico201">
       <rect x="8" y="205" width="24" height="24" rx="4" />
