@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 169" height="169"
+    viewBox="0 0 225 105" height="105"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="169" rx="4" />
+        <rect x="0" y="0" width="225" height="105" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -44,113 +44,5 @@
       font-size="10"
       font-weight="600"
     >
-      0.3h (2 weeks)/6.7h (total)
-    </text><defs>
-    <clipPath id="ico105">
-      <rect x="8" y="109" width="24" height="24" rx="4" />
-    </clipPath>
-    <filter id='shadow105' color-interpolation-filters="sRGB">
-      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
-    </filter>
-  </defs>
-  <rect
-    y="105"
-    width="225"
-    height="32"
-    fill="rgb(37, 47, 62)"
-    clip-path="url(#fullCliping)"
-  />
-  <rect
-    x="8"
-    y="109"
-    width="24"
-    height="24"
-    rx="4"
-    fill="rgb(37, 47, 62)"
-    filter="url(#shadow105)"
-  />
-  <image
-    href="data:image/jpeg;base64,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"
-    x="8"
-    y="109"
-    width="24"
-    height="24"
-    clip-path="url(#ico105)"
-  />
-  <text
-    x="40"
-    y="121"
-    fill="#c9d1d9"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="start"
-    font-size="11"
-    font-weight="600"
-  >
-    Urbek City Builder
-  </text>
-  <text
-    x="217"
-    y="121"
-    fill="#c9d1d9"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="end"
-    font-size="11"
-  >
-    0.1h/0.2h
-  </text><defs>
-    <clipPath id="ico137">
-      <rect x="8" y="141" width="24" height="24" rx="4" />
-    </clipPath>
-    <filter id='shadow137' color-interpolation-filters="sRGB">
-      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
-    </filter>
-  </defs>
-  <rect
-    y="137"
-    width="225"
-    height="32"
-    fill="rgb(141, 191, 176)"
-    clip-path="url(#fullCliping)"
-  />
-  <rect
-    x="8"
-    y="141"
-    width="24"
-    height="24"
-    rx="4"
-    fill="rgb(141, 191, 176)"
-    filter="url(#shadow137)"
-  />
-  <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQYHAAED/8QAKhAAAgEDAwMDAwUAAAAAAAAAAQIDBAURABIhMUFREyJhBgeBI0JxkaH/xAAZAQACAwEAAAAAAAAAAAAAAAACBQEDBAb/xAAmEQABAwIGAAcAAAAAAAAAAAABAgMRAAQFEiExQVETImGRocHh/9oADAMBAAIRAxEAPwBmtl/p6ldtSVglHk+0/wAHTHZZ7VUUoq5Z2nG4r6MakEEeScalDHO0A4JIAx8nVzt/04tpsqrQQR1dWsB2tJwrPjjjPfk9fzrKu5yp83xV2I4SwwoeFurs6DulxtpdtgwueAT213rqdacwKCSzRLI+exbkf5jQq/0t1jktlS1KbfLJWLStTLJvSXdzuAySPGM46YxjR26elNNNUiXCs22JAhPtHAyenQds6m2eU84VhRy9EfdLb2yFqykEAqJOoM7cddbVPrJS1N7uVTUWiGnSop4zMICTl+x2juefjTHYPuBNa6eopb3FK0sTAJEI9rDyDk8Y1Ov1FBME01PJggSQuUdfkMOQda9e5yRwxVd5uVbAsivJHVyJLvUftDFdy+M50zcswSU5ZSfcVyicbcfQhTjuVaAQJEhQ4mORThU3qSukqL/O8pjgcQW+CRywD45PklV5J65K6yD64dreIjAyyBtrrFIVR18kHPOfwfjHIMVdAlPFHHRzlYd3pQyzgxqSck+1QT/fjnjQ1jukd9qqXYsQowOfA0bFm20ISKC9x15/UuSQABAAHrIj97r/2Q=="
-    x="8"
-    y="141"
-    width="24"
-    height="24"
-    clip-path="url(#ico137)"
-  />
-  <text
-    x="40"
-    y="153"
-    fill="#24292f"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="start"
-    font-size="11"
-    font-weight="600"
-  >
-    WHAT THE GOLF?
-  </text>
-  <text
-    x="217"
-    y="153"
-    fill="#24292f"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="end"
-    font-size="11"
-  >
-    0.1h/9.4h
-  </text></svg>
+      0.1h (2 weeks)/6.7h (total)
+    </text></svg>
