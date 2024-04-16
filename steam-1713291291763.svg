@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 137" height="137"
+    viewBox="0 0 225 105" height="105"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="137" rx="4" />
+        <rect x="0" y="0" width="225" height="105" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -45,58 +45,4 @@
       font-weight="600"
     >
       6.6h (2 weeks)/224.4h (total)
-    </text><defs>
-    <clipPath id="ico105">
-      <rect x="8" y="109" width="24" height="24" rx="4" />
-    </clipPath>
-    <filter id='shadow105' color-interpolation-filters="sRGB">
-      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
-    </filter>
-  </defs>
-  <rect
-    y="105"
-    width="225"
-    height="32"
-    fill="rgb(22, 20, 16)"
-    clip-path="url(#fullCliping)"
-  />
-  <rect
-    x="8"
-    y="109"
-    width="24"
-    height="24"
-    rx="4"
-    fill="rgb(22, 20, 16)"
-    filter="url(#shadow105)"
-  />
-  <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD8qqAPrv8AZA/ZJfxiYfHnjS0uI/C9rKn2WyRT5t/KXCqqjg43EDPvgc8r8zmuaSoSWDwmtaei/u37+fZfNnv5dlyrReKxOlKOvr/wO/3GP+2H+yLefB3UZPFXhy1uZvBl7KS0UqnzdNlJOYpB6ZyA3tg81plWafW28NiNK0NGu9uq/VfoRmOX/VksRR1pS1T7X6P9D5cr6I8M+r/2O/2Sn+Jl/B4s8WRPb+FbZ90UJ4a9cfwj0X1Pb69PlM7zyGWx9lTd6r/8lXd+fZfM+myfJqmYS9rNWpr8fJfqz9Rvhr4OttRhurzSdL0rUNb0vUbWGy07UMeRYacojLSwRn5Q+fMO/GcoACMDPFw66VbC+3pWlVcvfb33/wAtujOjPo1KGJ9jVvGny+6ltt/nuY3xJXQ7q41bTNT8JR6RqF7PcxalDNbsLfVLViPLlBY/N3BC5ALEgjNePxLi1hacKii6dVTdmluv5uZadtHrvoezw5gni6k4cyqU3BXV9n2s9e+q021Pyn/ao/Zll+EGsyazoAe78IXch8sn5ns2PPlv7eh7ivoMg4io5zD2UmlWitV3X8y/VdPQ8XPuH62TzVSKvSls+z7P9H19T3/9j+9XRvhCl94U1268SSW8rNrfh2YASW+ej265J3ADOM4kGRwwFfLcVRdfF+xrQVO6/d1OjfVT7L8Y76ps+fyfi2fD+YqhjYf7NPrvZ/zf5rsfWPwtu/CPifTNOvk1saH4ll1+Ke01dIpHW6tiYT5LsD8gLb416bWBDDk5jIquE9jhsLi5+yxVOo1yrSUtb8srbqSejejtofpGeU8U62IxWEh7XC1KafNvFXXxR7OLV3bvqdF8bviPZ6X4KvtL17xBba7fWmtz3cd5bxMBY22WVLbcQDJJltuFB7LzgU+KcbTxeG/sejP22IlPRL7CTb1eystG30u2LhnCSwWI/tmvH2OGhDVyfxOy1Xk3r62SPhX9rr+z3+Fhu/GGqXmk63eyLJoPhy1cFlQH5nuVzySDyeicKMnJqOEcJ9UxLp4OKnFK1So+r6KHkv8Ayb4nbRL85znjDFcU5k44eNsLTva/V9/Xy6L738g/Cz4pa78IfF9r4g0C4MVxEdssDH93cR/xRuO4P6dRX6fjsDQzChLD4hXi/vT7rzR4+Jw1PF0nSqq6f9XR9hTftfeALPWfDuraWbu1Gtt5+taaqYTTrhWBWdW4+csMnbwwAY4br+ZVeFcfUi5RmlVo29lPrJLXll5Lo38L01jt7/B2b4rJFUy3Mf3mDlpbqk92l27r7jNk/bV8J33iHxJruqWV7qF1pZ8zw9ZScw3U7Ehp5T2fJyCc4XOPmOa6aXCeKp04p1U6lVt1p9e/LHyvvtd6vRWI4uzPFcQOngsI/Z4SGij1stm+/kun3nyJ8QfiDrfxP8V3viHxBeNd6hdN9EjX+FEH8KgcAV+kYXC0cFRjh6EbRX9XfdvqzxqFCnhqapUlZI//2Q=="
-    x="8"
-    y="109"
-    width="24"
-    height="24"
-    clip-path="url(#ico105)"
-  />
-  <text
-    x="40"
-    y="121"
-    fill="#c9d1d9"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="start"
-    font-size="11"
-    font-weight="600"
-  >
-    OpenTTD
-  </text>
-  <text
-    x="217"
-    y="121"
-    fill="#c9d1d9"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="end"
-    font-size="11"
-  >
-    0.1h/22.9h
-  </text></svg>
+    </text></svg>
