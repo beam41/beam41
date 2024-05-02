@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 137" height="137"
+    viewBox="0 0 225 169" height="169"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="137" rx="4" />
+        <rect x="0" y="0" width="225" height="169" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -44,7 +44,7 @@
       font-size="10"
       font-weight="600"
     >
-      3.2h (2 weeks)/8.7h (total)
+      3.6h (2 weeks)/9h (total)
     </text><defs>
     <clipPath id="ico105">
       <rect x="8" y="109" width="24" height="24" rx="4" />
@@ -57,7 +57,7 @@
     y="105"
     width="225"
     height="32"
-    fill="rgb(38, 139, 129)"
+    fill="rgb(203, 225, 233)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -66,11 +66,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(38, 139, 129)"
+    fill="rgb(203, 225, 233)"
     filter="url(#shadow105)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABQIEBgEH/8QALBAAAgEDAwMDAQkAAAAAAAAAAQIDBAURABIhBhMxFCJBgQcVMlFhcZGx0f/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAmEQABAwMDAwUBAAAAAAAAAAABAgQRAwUhADFBEjJRBhMicYFh/9oADAMBAAIRAxEAPwAGOKSQExo7gedoJxr0K3yxx2/0wpqGU06hCXpI3JI/FyVyT/o0F9nU6NfJKebDwpGJpExk8nAP9/xpLqDqS3Wm9egipYlnlCokrERI8hUZJ+FBJzy311K7uJDo0FI6ungHOYyZjb751iWiwKrtEuKKoKt+oYwSMHO/1xqhLc6buvHX2S2y7TgmJWhP02EaAvEUcF1q4oE7cKSEIuScDPHJ1o7PWWO83WOgqk7dduEczwSb41/UEMfgaj15SUNFUxJCmaqVFkch9wU45XPg4PGcfGmN7jTU4TSQhQmQQY/D3HGDkalf+n3LZsuo4WgxBBHIyCJCRkyInWBpqu60fUzmliaOjlhVWqUl2kbdxxgHJ5Op1df95XGSmrohOWPLuc5wNIRRPLII4kZ3bwqjJP01cqrJT01K1QKG4LXrMS07qViMeMDgjIOdX1aLcVJUPkrR2q53ItVmkYp00kDA3Gedz50TZblDaLsiUVOscqE4yvtJ2nzznxrs/U69TX6ZkkUmii7EiorKoYufz8n2nnSdFY6epgaqNJcWrWkXtyxruhCeDkAZJ8+Dqm1N6aaRWh7UhPvBTaT++lUmrcuPcT3px+afdbs+Xb0prJlFQJz/AGZ48xjX/9k="
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAcBAwUI/8QAKhAAAgIBAgUDAwUAAAAAAAAAAQIDBBEAEgUGISIxQVFxMkJhB4GRoeH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQQDBf/EACARAAEDBAIDAAAAAAAAAAAAAAEAAgMRITFBBBITIkL/2gAMAwEAAhEDEQA/AHmIGjOG6H21LgRxs79FUZJ/A0K/NHCFisB7KzPHE8o2g4O37Q3jOfTSl5m5wt8asRtWeajUMaxmBJywlyTknAA8dOutTO3V1O3iuNyKBNfgcpvcGo2X+uWFGb5x1/vWikW05XyNK39O+YpIOOpSszuKDRCNVdu1X6HIz4Gcj99NmlxDh9q5NUrTpLYhAaRF+0HqDpsltQ5Skh9iW4XMyzWIjIAZt0fadvcMeSCR86ujuwSQV4FiQAOQrZ/P+6Ar3qtmcrNXMUjkjcrEY+dTNEsyIFmcdzKqSrnx5wfbGDrmCVv2FSJHDa1oL9eR5HkgdSu3G0kbh4yPbRFO61K+ZK4dpWY4BYqTnqM/xoWFrm2FaRggCIyApJgOSMZPTz66onjlryw17DRmV/pkILY9B3DGfbR52aR3dkFf/9k="
     x="8"
     y="109"
     width="24"
@@ -80,6 +80,60 @@
   <text
     x="40"
     y="121"
+    fill="#24292f"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="start"
+    font-size="11"
+    font-weight="600"
+  >
+    Manor Lords
+  </text>
+  <text
+    x="217"
+    y="121"
+    fill="#24292f"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="end"
+    font-size="11"
+  >
+    2.3h/2.3h
+  </text><defs>
+    <clipPath id="ico137">
+      <rect x="8" y="141" width="24" height="24" rx="4" />
+    </clipPath>
+    <filter id='shadow137' color-interpolation-filters="sRGB">
+      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
+    </filter>
+  </defs>
+  <rect
+    y="137"
+    width="225"
+    height="32"
+    fill="rgb(38, 139, 129)"
+    clip-path="url(#fullCliping)"
+  />
+  <rect
+    x="8"
+    y="141"
+    width="24"
+    height="24"
+    rx="4"
+    fill="rgb(38, 139, 129)"
+    filter="url(#shadow137)"
+  />
+  <image
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABQIEBgEH/8QALBAAAgEDAwMDAQkAAAAAAAAAAQIDBAURABIhBhMxFCJBgQcVMlFhcZGx0f/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAmEQABAwMDAwUBAAAAAAAAAAABAgQRAwUhADFBEjJRBhMicYFh/9oADAMBAAIRAxEAPwAGOKSQExo7gedoJxr0K3yxx2/0wpqGU06hCXpI3JI/FyVyT/o0F9nU6NfJKebDwpGJpExk8nAP9/xpLqDqS3Wm9egipYlnlCokrERI8hUZJ+FBJzy311K7uJDo0FI6ungHOYyZjb751iWiwKrtEuKKoKt+oYwSMHO/1xqhLc6buvHX2S2y7TgmJWhP02EaAvEUcF1q4oE7cKSEIuScDPHJ1o7PWWO83WOgqk7dduEczwSb41/UEMfgaj15SUNFUxJCmaqVFkch9wU45XPg4PGcfGmN7jTU4TSQhQmQQY/D3HGDkalf+n3LZsuo4WgxBBHIyCJCRkyInWBpqu60fUzmliaOjlhVWqUl2kbdxxgHJ5Op1df95XGSmrohOWPLuc5wNIRRPLII4kZ3bwqjJP01cqrJT01K1QKG4LXrMS07qViMeMDgjIOdX1aLcVJUPkrR2q53ItVmkYp00kDA3Gedz50TZblDaLsiUVOscqE4yvtJ2nzznxrs/U69TX6ZkkUmii7EiorKoYufz8n2nnSdFY6epgaqNJcWrWkXtyxruhCeDkAZJ8+Dqm1N6aaRWh7UhPvBTaT++lUmrcuPcT3px+afdbs+Xb0prJlFQJz/AGZ48xjX/9k="
+    x="8"
+    y="141"
+    width="24"
+    height="24"
+    clip-path="url(#ico137)"
+  />
+  <text
+    x="40"
+    y="153"
     fill="#c9d1d9"
     font-family="Arial"
     dominant-baseline="middle"
@@ -91,7 +145,7 @@
   </text>
   <text
     x="217"
-    y="121"
+    y="153"
     fill="#c9d1d9"
     font-family="Arial"
     dominant-baseline="middle"
