@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 169" height="169"
+    viewBox="0 0 225 137" height="137"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="169" rx="4" />
+        <rect x="0" y="0" width="225" height="137" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -99,58 +99,4 @@
     font-size="11"
   >
     3.6h/9h
-  </text><defs>
-    <clipPath id="ico137">
-      <rect x="8" y="141" width="24" height="24" rx="4" />
-    </clipPath>
-    <filter id='shadow137' color-interpolation-filters="sRGB">
-      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
-    </filter>
-  </defs>
-  <rect
-    y="137"
-    width="225"
-    height="32"
-    fill="rgb(38, 139, 129)"
-    clip-path="url(#fullCliping)"
-  />
-  <rect
-    x="8"
-    y="141"
-    width="24"
-    height="24"
-    rx="4"
-    fill="rgb(38, 139, 129)"
-    filter="url(#shadow137)"
-  />
-  <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABQIEBgEH/8QALBAAAgEDAwMDAQkAAAAAAAAAAQIDBAURABIhBhMxFCJBgQcVMlFhcZGx0f/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAmEQABAwMDAwUBAAAAAAAAAAABAgQRAwUhADFBEjJRBhMicYFh/9oADAMBAAIRAxEAPwAGOKSQExo7gedoJxr0K3yxx2/0wpqGU06hCXpI3JI/FyVyT/o0F9nU6NfJKebDwpGJpExk8nAP9/xpLqDqS3Wm9egipYlnlCokrERI8hUZJ+FBJzy311K7uJDo0FI6ungHOYyZjb751iWiwKrtEuKKoKt+oYwSMHO/1xqhLc6buvHX2S2y7TgmJWhP02EaAvEUcF1q4oE7cKSEIuScDPHJ1o7PWWO83WOgqk7dduEczwSb41/UEMfgaj15SUNFUxJCmaqVFkch9wU45XPg4PGcfGmN7jTU4TSQhQmQQY/D3HGDkalf+n3LZsuo4WgxBBHIyCJCRkyInWBpqu60fUzmliaOjlhVWqUl2kbdxxgHJ5Op1df95XGSmrohOWPLuc5wNIRRPLII4kZ3bwqjJP01cqrJT01K1QKG4LXrMS07qViMeMDgjIOdX1aLcVJUPkrR2q53ItVmkYp00kDA3Gedz50TZblDaLsiUVOscqE4yvtJ2nzznxrs/U69TX6ZkkUmii7EiorKoYufz8n2nnSdFY6epgaqNJcWrWkXtyxruhCeDkAZJ8+Dqm1N6aaRWh7UhPvBTaT++lUmrcuPcT3px+afdbs+Xb0prJlFQJz/AGZ48xjX/9k="
-    x="8"
-    y="141"
-    width="24"
-    height="24"
-    clip-path="url(#ico137)"
-  />
-  <text
-    x="40"
-    y="153"
-    fill="#c9d1d9"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="start"
-    font-size="11"
-    font-weight="600"
-  >
-    WHAT THE CAR? Demo
-  </text>
-  <text
-    x="217"
-    y="153"
-    fill="#c9d1d9"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="end"
-    font-size="11"
-  >
-    0.2h/0.2h
   </text></svg>
