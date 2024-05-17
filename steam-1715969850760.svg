@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 393" height="393"
+    viewBox="0 0 225 425" height="425"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="393" rx="4" />
+        <rect x="0" y="0" width="225" height="425" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -87,7 +87,7 @@
     font-size="11"
     font-weight="600"
   >
-    Euro Truck Simulat...
+    Euro Truck Simul...
   </text>
   <text
     x="217"
@@ -98,7 +98,7 @@
     text-anchor="end"
     font-size="11"
   >
-    9.4h/497.4h
+    10.8h/498.8h
   </text><defs>
     <clipPath id="ico137">
       <rect x="8" y="141" width="24" height="24" rx="4" />
@@ -152,7 +152,7 @@
     text-anchor="end"
     font-size="11"
   >
-    4.2h/8.6h
+    3h/8.6h
   </text><defs>
     <clipPath id="ico169">
       <rect x="8" y="173" width="24" height="24" rx="4" />
@@ -381,7 +381,7 @@
     y="297"
     width="225"
     height="32"
-    fill="rgb(226, 244, 246)"
+    fill="rgb(16, 9, 8)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -390,11 +390,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(226, 244, 246)"
+    fill="rgb(16, 9, 8)"
     filter="url(#shadow297)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYCBQcD/8QAMBAAAQMCBAQDBwUAAAAAAAAAAQIDBAURAAYSMQchQZETMlEIFSIjYXGxJFKBocH/xAAYAQACAwAAAAAAAAAAAAAAAAACBgEEB//EACURAAIBAwMDBQEAAAAAAAAAAAEEAwACEUHB8AUhgRIxUXGRsf/aAAwDAQACEQMRAD8AXIFNkz5SI0Jhx99ZslDaSScapROECo9Il1DMb2lxthbiIrR2ISSNSv8AB3xaez+hpD9bCtHjFLOm/m03Xe308t/4wv8AEnNVXqVYqFMU+WYEd5bIaa+ELCVEXUeu222NCZdaZbuUXIsFuCTr3+OeaXLJYooBPJ3z7Ci6jwiM2gQKjl5/9Q7GbccjPHkpRSCdKun2PfGXVGlS6bLXGnx3I8hG6HE2OHzIea63Rp0aDDdEiM84lsR3ydAJNuR3Tv07HF7xlqAqbNKbkQnoVQYLgcadTfkdPNKxyUm4PMdhg1mnF2QvMRfbdnB1H3/N6i+eGSEy2diNNK68JqbT57lTjzVeHL+WuM4heh1BGvUUK36i4xDO3D+pxJEmosOmoMuKU64oJAcSSbkkDf7jsMKaAptYWglKkm4INiDh1pGfZzUB+FVEmW0tpSEu3s4m4tz/AHfnFKeNqOcsQHIOMg7c/aW1OppywBdkG0jOLhuOeKFyHkOozJsOpSbRYjTiHk6xdTliCLDoD6n+8XHG95l33ZHS4hT7ZcUpANykHTa/ptgCoZ7mmlxoFLSYqGmUtqdvdaiAAben5wluBTi1OOKKlqNypRuSfrgYYGJmQywQPTnAG9Gx1ZWBYqrZuN2M3Hbn7X//2Q=="
+    href="data:image/jpeg;base64,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"
     x="8"
     y="301"
     width="24"
@@ -404,25 +404,25 @@
   <text
     x="40"
     y="313"
-    fill="#24292f"
+    fill="#c9d1d9"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="start"
     font-size="11"
     font-weight="600"
   >
-    Cities: Skylines II
+    ENDLESS™ Legend
   </text>
   <text
     x="217"
     y="313"
-    fill="#24292f"
+    fill="#c9d1d9"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="end"
     font-size="11"
   >
-    0.1h/154.2h
+    0.4h/0.4h
   </text><defs>
     <clipPath id="ico329">
       <rect x="8" y="333" width="24" height="24" rx="4" />
@@ -435,7 +435,7 @@
     y="329"
     width="225"
     height="32"
-    fill="rgb(46, 41, 26)"
+    fill="rgb(226, 244, 246)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -444,11 +444,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(46, 41, 26)"
+    fill="rgb(226, 244, 246)"
     filter="url(#shadow329)"
   />
   <image
-    href="data:image/jpeg;base64,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"
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYCBQcD/8QAMBAAAQMCBAQDBwUAAAAAAAAAAQIDBAURAAYSMQchQZETMlEIFSIjYXGxJFKBocH/xAAYAQACAwAAAAAAAAAAAAAAAAACBgEEB//EACURAAIBAwMDBQEAAAAAAAAAAAEEAwACEUHB8AUhgRIxUXGRsf/aAAwDAQACEQMRAD8AXIFNkz5SI0Jhx99ZslDaSScapROECo9Il1DMb2lxthbiIrR2ISSNSv8AB3xaez+hpD9bCtHjFLOm/m03Xe308t/4wv8AEnNVXqVYqFMU+WYEd5bIaa+ELCVEXUeu222NCZdaZbuUXIsFuCTr3+OeaXLJYooBPJ3z7Ci6jwiM2gQKjl5/9Q7GbccjPHkpRSCdKun2PfGXVGlS6bLXGnx3I8hG6HE2OHzIea63Rp0aDDdEiM84lsR3ydAJNuR3Tv07HF7xlqAqbNKbkQnoVQYLgcadTfkdPNKxyUm4PMdhg1mnF2QvMRfbdnB1H3/N6i+eGSEy2diNNK68JqbT57lTjzVeHL+WuM4heh1BGvUUK36i4xDO3D+pxJEmosOmoMuKU64oJAcSSbkkDf7jsMKaAptYWglKkm4INiDh1pGfZzUB+FVEmW0tpSEu3s4m4tz/AHfnFKeNqOcsQHIOMg7c/aW1OppywBdkG0jOLhuOeKFyHkOozJsOpSbRYjTiHk6xdTliCLDoD6n+8XHG95l33ZHS4hT7ZcUpANykHTa/ptgCoZ7mmlxoFLSYqGmUtqdvdaiAAben5wluBTi1OOKKlqNypRuSfrgYYGJmQywQPTnAG9Gx1ZWBYqrZuN2M3Hbn7X//2Q=="
     x="8"
     y="333"
     width="24"
@@ -458,25 +458,25 @@
   <text
     x="40"
     y="345"
-    fill="#c9d1d9"
+    fill="#24292f"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="start"
     font-size="11"
     font-weight="600"
   >
-    Timberborn
+    Cities: Skylines II
   </text>
   <text
     x="217"
     y="345"
-    fill="#c9d1d9"
+    fill="#24292f"
     font-family="Arial"
     dominant-baseline="middle"
     text-anchor="end"
     font-size="11"
   >
-    0.1h/224.5h
+    0.1h/154.2h
   </text><defs>
     <clipPath id="ico361">
       <rect x="8" y="365" width="24" height="24" rx="4" />
@@ -489,7 +489,7 @@
     y="361"
     width="225"
     height="32"
-    fill="rgb(48, 41, 48)"
+    fill="rgb(46, 41, 26)"
     clip-path="url(#fullCliping)"
   />
   <rect
@@ -498,11 +498,11 @@
     width="24"
     height="24"
     rx="4"
-    fill="rgb(48, 41, 48)"
+    fill="rgb(46, 41, 26)"
     filter="url(#shadow361)"
   />
   <image
-    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwgABQcG/8QAKRAAAgEEAQQBAwUBAAAAAAAAAQIDBAUGEQAHEhQhIggTQQkVM2Fxgf/EABoBAQACAwEAAAAAAAAAAAAAAAABAgQFBwP/xAApEQACAgEDAgMJAAAAAAAAAAABEQACAwUSIQQxBhMiMjNBUWFxodHh/9oADAMBAAIRAxEAPwBFIIDVs8sztJK5LM7HZJ57gSIbwE4UOTwE4UOBngNIySwu0cqEMrqdEHgiI/H0JYrc5vpqzHJMXxyjyXMKK9tHRW6tRGiqx9ul3G3cy6ADuwIZfz7O9coe8mNJbOlthxfJ7hVY/ZcZoHqms0+RYvDRrIaaseoHuGUN2x7GwydmmAVvXds1cTnuoOaYxguB5vkmKYxiGU3XD78baIBZZKT9nWaaNZo5O9yZz8z8oiiE6IX4nkjmIsn6nPUdVymj6d2/HbVbLPTpTXpauGkMVY0rJMhRiDrs029du9ge/wAcmo4cRUMIvdTa7K8dPcpqLulZikU7Jv8AjG9Aj8b/AN/5zDzHJv8AS0v3OoeHcGmZNNNur2b99va7oeUj9g7MfFngoqwiudVQTPNTXCaGOQrNMYKkoZGEpLEgMCTrlRe5G0t/zj8zYZtO06uavU1rQ4gBYq1eduY71Vg+7SC5CAmg9PacV/TrNpJZaa4TVVVT0xSSsSGfv2peoZ5JlJQfL0iMWLfIqB7zcZJqCZzXVaYcXWXxYCDWqqx2JqALEfQ2BI+blR9XVLR0/UVPD8UA0zBhSVCyoB5E32faswG6cwN/fds+yeXHaamYpBOaRnimRo5UJVkYaIPJBkQ3npw4Unnpw4UDPOatkihRpJXIVUUbJPBMT//Z"
+    href="data:image/jpeg;base64,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"
     x="8"
     y="365"
     width="24"
@@ -519,11 +519,65 @@
     font-size="11"
     font-weight="600"
   >
-    DiRT Rally 2.0
+    Timberborn
   </text>
   <text
     x="217"
     y="377"
+    fill="#c9d1d9"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="end"
+    font-size="11"
+  >
+    0.1h/224.5h
+  </text><defs>
+    <clipPath id="ico393">
+      <rect x="8" y="397" width="24" height="24" rx="4" />
+    </clipPath>
+    <filter id='shadow393' color-interpolation-filters="sRGB">
+      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
+    </filter>
+  </defs>
+  <rect
+    y="393"
+    width="225"
+    height="32"
+    fill="rgb(48, 41, 48)"
+    clip-path="url(#fullCliping)"
+  />
+  <rect
+    x="8"
+    y="397"
+    width="24"
+    height="24"
+    rx="4"
+    fill="rgb(48, 41, 48)"
+    filter="url(#shadow393)"
+  />
+  <image
+    href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAJgAmAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAAgACADAREAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwgABQcG/8QAKRAAAgEEAQQBAwUBAAAAAAAAAQIDBAUGEQAHEhQhIggTQQkVM2Fxgf/EABoBAQACAwEAAAAAAAAAAAAAAAABAgQFBwP/xAApEQACAgEDAgMJAAAAAAAAAAABEQACAwUSIQQxBhMiMjNBUWFxodHh/9oADAMBAAIRAxEAPwBFIIDVs8sztJK5LM7HZJ57gSIbwE4UOTwE4UOBngNIySwu0cqEMrqdEHgiI/H0JYrc5vpqzHJMXxyjyXMKK9tHRW6tRGiqx9ul3G3cy6ADuwIZfz7O9coe8mNJbOlthxfJ7hVY/ZcZoHqms0+RYvDRrIaaseoHuGUN2x7GwydmmAVvXds1cTnuoOaYxguB5vkmKYxiGU3XD78baIBZZKT9nWaaNZo5O9yZz8z8oiiE6IX4nkjmIsn6nPUdVymj6d2/HbVbLPTpTXpauGkMVY0rJMhRiDrs029du9ge/wAcmo4cRUMIvdTa7K8dPcpqLulZikU7Jv8AjG9Aj8b/AN/5zDzHJv8AS0v3OoeHcGmZNNNur2b99va7oeUj9g7MfFngoqwiudVQTPNTXCaGOQrNMYKkoZGEpLEgMCTrlRe5G0t/zj8zYZtO06uavU1rQ4gBYq1eduY71Vg+7SC5CAmg9PacV/TrNpJZaa4TVVVT0xSSsSGfv2peoZ5JlJQfL0iMWLfIqB7zcZJqCZzXVaYcXWXxYCDWqqx2JqALEfQ2BI+blR9XVLR0/UVPD8UA0zBhSVCyoB5E32faswG6cwN/fds+yeXHaamYpBOaRnimRo5UJVkYaIPJBkQ3npw4Unnpw4UDPOatkihRpJXIVUUbJPBMT//Z"
+    x="8"
+    y="397"
+    width="24"
+    height="24"
+    clip-path="url(#ico393)"
+  />
+  <text
+    x="40"
+    y="409"
+    fill="#c9d1d9"
+    font-family="Arial"
+    dominant-baseline="middle"
+    text-anchor="start"
+    font-size="11"
+    font-weight="600"
+  >
+    DiRT Rally 2.0
+  </text>
+  <text
+    x="217"
+    y="409"
     fill="#c9d1d9"
     font-family="Arial"
     dominant-baseline="middle"
