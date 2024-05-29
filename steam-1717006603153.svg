@@ -1,7 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 225 265" height="265"
+    viewBox="0 0 225 233" height="233"
   >
     <defs>
       <linearGradient id="gradient" gradientTransform="rotate(90)">
@@ -9,7 +9,7 @@
         <stop offset="1" stop-color="rgba(0,0,0,1)" />
       </linearGradient>
       <clipPath id="fullCliping">
-        <rect x="0" y="0" width="225" height="265" rx="4" />
+        <rect x="0" y="0" width="225" height="233" rx="4" />
       </clipPath>
     </defs>
     <image
@@ -44,7 +44,7 @@
       font-size="10"
       font-weight="600"
     >
-      34.2h (2 weeks)/181.5h (total)
+      35.9h (2 weeks)/183.3h (total)
     </text><defs>
     <clipPath id="ico105">
       <rect x="8" y="109" width="24" height="24" rx="4" />
@@ -98,7 +98,7 @@
     text-anchor="end"
     font-size="11"
   >
-    14.3h/504.6h
+    10.9h/504.6h
   </text><defs>
     <clipPath id="ico137">
       <rect x="8" y="141" width="24" height="24" rx="4" />
@@ -261,58 +261,4 @@
     font-size="11"
   >
     0.6h/0.6h
-  </text><defs>
-    <clipPath id="ico233">
-      <rect x="8" y="237" width="24" height="24" rx="4" />
-    </clipPath>
-    <filter id='shadow233' color-interpolation-filters="sRGB">
-      <feDropShadow dx="0.5" dy="0.5" stdDeviation="1" flood-opacity="1" flood-color="#242424"/>
-    </filter>
-  </defs>
-  <rect
-    y="233"
-    width="225"
-    height="32"
-    fill="rgb(135, 105, 85)"
-    clip-path="url(#fullCliping)"
-  />
-  <rect
-    x="8"
-    y="237"
-    width="24"
-    height="24"
-    rx="4"
-    fill="rgb(135, 105, 85)"
-    filter="url(#shadow233)"
-  />
-  <image
-    href="data:image/jpeg;base64,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"
-    x="8"
-    y="237"
-    width="24"
-    height="24"
-    clip-path="url(#ico233)"
-  />
-  <text
-    x="40"
-    y="249"
-    fill="#c9d1d9"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="start"
-    font-size="11"
-    font-weight="600"
-  >
-    Trombone Champ
-  </text>
-  <text
-    x="217"
-    y="249"
-    fill="#c9d1d9"
-    font-family="Arial"
-    dominant-baseline="middle"
-    text-anchor="end"
-    font-size="11"
-  >
-    0.4h/0.4h
   </text></svg>
