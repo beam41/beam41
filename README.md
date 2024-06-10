@@ -21,4 +21,4 @@
 
 ---
 
-<p align="center"><small>Powered by <a href="https://github.com/beam41/spotify-listening-svg">my GitHub action</a></small></p>
+<p align="center"><small>Powered by <a href="https://github.com/beam41/steam-top-svg">my GitHub action</a></small></p>
