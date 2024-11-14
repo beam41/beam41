@@ -1,11 +1,11 @@
 on:
   push:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   spotify-to-readme-job:
-    runs-on: windows-2019
+    runs-on: ubuntu-latest
     name: Write Spotify songs to readme
     steps:
       - name: Checkout
