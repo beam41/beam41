@@ -13,7 +13,7 @@
 
 <h1 align="center">What I play last 2 weeks (on steam)</h1>
 <!-- steam-svg-start -->
-<p align="center"><a href="http://steamcommunity.com/profiles/76561198062644260"><img src="https://raw.githubusercontent.com/beam41/beam41/master/steam-1770855096684.svg" height="556"/></a></p>
+<p align="center"><a href="http://steamcommunity.com/profiles/76561198062644260"><img src="https://raw.githubusercontent.com/beam41/beam41/master/steam-1770941660196.svg" height="684"/></a></p>
 <!-- steam-svg-end -->
 
 
